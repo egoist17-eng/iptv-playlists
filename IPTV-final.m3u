@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/egoist17-eng/iptv-playlists/main/epg_RU.xml.gz"
 #PLAYLIST:IPTV FINAL - all verified
 #EXTINF:-1 tvg-name="Viju TV1000" tvg-id="6427" group-title="Избранное",TV1000 Кино ★
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv2
