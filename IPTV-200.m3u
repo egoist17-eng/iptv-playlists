@@ -761,305 +761,319 @@ http://176.118.197.101/THT/index.m3u8
 https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF:-1 tvg-id="ch0377-18" group-title="Для взрослых",Русская ночь (18+)
 http://185.23.80.23:8080/RusskayaNoch/index.m3u8
-#EXTINF:-1 tvg-id="ch0378-musicboxsexy18" group-title="Для взрослых",Music Box Sexy (18+)
+#EXTINF:-1 tvg-id="ch0378-barelylegal18" group-title="Для взрослых",Barely Legal (18+)
+http://185.23.80.23:8080/BarelyLegal/index.m3u8
+#EXTINF:-1 tvg-id="ch0379-bluehustler18" group-title="Для взрослых",Blue Hustler (18+)
+http://185.23.80.23:8080/BlueHustler/index.m3u8
+#EXTINF:-1 tvg-id="ch0380-brazzers18" group-title="Для взрослых",Brazzers (18+)
+http://193.239.187.102/BRAZZERS/index.m3u8
+#EXTINF:-1 tvg-id="ch0381-brazzerstv18" group-title="Для взрослых",Brazzers TV (18+)
+http://185.23.80.23:8080/BrazzersTV/index.m3u8
+#EXTINF:-1 tvg-id="ch0382-brazzerstveuropa18" group-title="Для взрослых",Brazzers TV Europa (18+)
+http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1 tvg-id="ch0383-dorcelhd18" group-title="Для взрослых",Dorcel HD (18+)
+http://31.148.5.241:80/Dorcel_HD/index.m3u8
+#EXTINF:-1 tvg-id="ch0384-musicboxsexy18" group-title="Для взрослых",Music Box Sexy (18+)
 http://88.212.15.50/live/mb_sexy/index.m3u8
-#EXTINF:-1 tvg-id="ch0379-rutubetv" group-title="Прочее",RUTUBE TV
+#EXTINF:-1 tvg-id="ch0385-pornclassic18" group-title="Для взрослых",Porn Classic (18+)
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="ch0386-rutubetv" group-title="Прочее",RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
-#EXTINF:-1 tvg-id="ch0380-yourplay" group-title="Прочее",Your Play!
+#EXTINF:-1 tvg-id="ch0387-yourplay" group-title="Прочее",Your Play!
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0381-3hd" group-title="Прочее",Бел 3 HD
+#EXTINF:-1 tvg-id="ch0388-3hd" group-title="Прочее",Бел 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0382-1" group-title="Прочее",Беларусь 1
+#EXTINF:-1 tvg-id="ch0389-1" group-title="Прочее",Беларусь 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0383-1hd" group-title="Прочее",Беларусь 1 HD
+#EXTINF:-1 tvg-id="ch0390-1hd" group-title="Прочее",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0384-2hd" group-title="Прочее",Беларусь 2 HD
+#EXTINF:-1 tvg-id="ch0391-2hd" group-title="Прочее",Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0385-3hd" group-title="Прочее",Беларусь 3 HD
+#EXTINF:-1 tvg-id="ch0392-3hd" group-title="Прочее",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0386-5" group-title="Прочее",Беларусь 5
+#EXTINF:-1 tvg-id="ch0393-5" group-title="Прочее",Беларусь 5
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0387-hd" group-title="Прочее",Большая Азия HD
+#EXTINF:-1 tvg-id="ch0394-hd" group-title="Прочее",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0388-1hd" group-title="Прочее",Волгоград 1 HD
+#EXTINF:-1 tvg-id="ch0395-1hd" group-title="Прочее",Волгоград 1 HD
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 tvg-id="ch0389-24" group-title="Прочее",Дон 24
+#EXTINF:-1 tvg-id="ch0396-24" group-title="Прочее",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0390-ch" group-title="Прочее",Евразия
+#EXTINF:-1 tvg-id="ch0397-ch" group-title="Прочее",Евразия
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ch0391-ch" group-title="Прочее",Евразия (Орск)
+#EXTINF:-1 tvg-id="ch0398-ch" group-title="Прочее",Евразия (Орск)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF:-1 tvg-id="ch0392-ch" group-title="Прочее",Конгресс ТВ
+#EXTINF:-1 tvg-id="ch0399-ch" group-title="Прочее",Конгресс ТВ
 https://live-4.otcnet.ru/504/135/480p/index.m3u8
-#EXTINF:-1 tvg-id="ch0393-hd" group-title="Прочее",Конгресс ТВ HD
+#EXTINF:-1 tvg-id="ch0400-hd" group-title="Прочее",Конгресс ТВ HD
 https://live-4.otcnet.ru/504/135/1080p/index.m3u8
-#EXTINF:-1 tvg-id="ch0394-ch" group-title="Прочее",Красная линия
+#EXTINF:-1 tvg-id="ch0401-ch" group-title="Прочее",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0395-hd" group-title="Прочее",Краснодар HD
+#EXTINF:-1 tvg-id="ch0402-hd" group-title="Прочее",Краснодар HD
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0396-ch" group-title="Прочее",Надежда
+#EXTINF:-1 tvg-id="ch0403-ch" group-title="Прочее",Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0397-ch" group-title="Прочее",Новый век (Тамбов)
+#EXTINF:-1 tvg-id="ch0404-ch" group-title="Прочее",Новый век (Тамбов)
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_NOVIY_VEK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0398-ch" group-title="Прочее",ОТР
+#EXTINF:-1 tvg-id="ch0405-ch" group-title="Прочее",ОТР
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0399-hd" group-title="Прочее",ПРНК HD
+#EXTINF:-1 tvg-id="ch0406-hd" group-title="Прочее",ПРНК HD
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:-1 tvg-id="ch0400-ch" group-title="Прочее",Прима
+#EXTINF:-1 tvg-id="ch0407-ch" group-title="Прочее",Прима
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 tvg-id="ch0401-hd" group-title="Прочее",Своё ТВ Ставрополь HD
+#EXTINF:-1 tvg-id="ch0408-hd" group-title="Прочее",Своё ТВ Ставрополь HD
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
-#EXTINF:-1 tvg-id="ch0402-ch" group-title="Прочее",ТВ-ИН (Магнитогорск)
+#EXTINF:-1 tvg-id="ch0409-ch" group-title="Прочее",ТВ-ИН (Магнитогорск)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 tvg-id="ch0403-ch" group-title="Прочее",ТСТ (Черемхово)
+#EXTINF:-1 tvg-id="ch0410-ch" group-title="Прочее",ТСТ (Черемхово)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TST/variant.m3u8
-#EXTINF:-1 tvg-id="ch0404-ch" group-title="Прочее",Тайна
+#EXTINF:-1 tvg-id="ch0411-ch" group-title="Прочее",Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
-#EXTINF:-1 tvg-id="ch0405-ch" group-title="Прочее",Тюменское время
+#EXTINF:-1 tvg-id="ch0412-ch" group-title="Прочее",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0406-maxsport4" group-title="Прочее",MAX Sport 4
+#EXTINF:-1 tvg-id="ch0413-maxsport4" group-title="Прочее",MAX Sport 4
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
-#EXTINF:-1 tvg-id="ch0407-nexttv" group-title="Прочее",NEXT-TV
+#EXTINF:-1 tvg-id="ch0414-nexttv" group-title="Прочее",NEXT-TV
 http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0408-shoppinglive" group-title="Прочее",Shopping Live
+#EXTINF:-1 tvg-id="ch0415-shoppinglive" group-title="Прочее",Shopping Live
 http://origin5.mediacdn.ru/live/shoppinglivedist/index.m3u8
-#EXTINF:-1 tvg-id="ch0409-sochilive" group-title="Прочее",Sochi Live
+#EXTINF:-1 tvg-id="ch0416-sochilive" group-title="Прочее",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0410-tvbrics" group-title="Прочее",TV BRICS
+#EXTINF:-1 tvg-id="ch0417-tvbrics" group-title="Прочее",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0411-ch" group-title="Прочее",Аква ТВ
+#EXTINF:-1 tvg-id="ch0418-ch" group-title="Прочее",Аква ТВ
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
-#EXTINF:-1 tvg-id="ch0412-ch" group-title="Прочее",Большая Азия
+#EXTINF:-1 tvg-id="ch0419-ch" group-title="Прочее",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0413-1" group-title="Прочее",Волгоград 1
+#EXTINF:-1 tvg-id="ch0420-1" group-title="Прочее",Волгоград 1
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 tvg-id="ch0414-ch" group-title="Прочее",Время Арктики
+#EXTINF:-1 tvg-id="ch0421-ch" group-title="Прочее",Время Арктики
 http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0415-ch" group-title="Прочее",Ивановское общественное телевидение (Иваново)
+#EXTINF:-1 tvg-id="ch0422-ch" group-title="Прочее",Ивановское общественное телевидение (Иваново)
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0416-ch" group-title="Прочее",Калейдоскоп ТВ
+#EXTINF:-1 tvg-id="ch0423-ch" group-title="Прочее",Калейдоскоп ТВ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0417-ch" group-title="Прочее",Краснодар
+#EXTINF:-1 tvg-id="ch0424-ch" group-title="Прочее",Краснодар
 http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0418-ch" group-title="Прочее",Краснодар ТВ
+#EXTINF:-1 tvg-id="ch0425-ch" group-title="Прочее",Краснодар ТВ
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0419-ch" group-title="Прочее",Крик ТВ
+#EXTINF:-1 tvg-id="ch0426-ch" group-title="Прочее",Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0420-ch" group-title="Прочее",Курай
+#EXTINF:-1 tvg-id="ch0427-ch" group-title="Прочее",Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0421-hd" group-title="Прочее",МузСоюз HD
+#EXTINF:-1 tvg-id="ch0428-hd" group-title="Прочее",МузСоюз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0422-ch" group-title="Прочее",МузСоюзᴴᴰ
+#EXTINF:-1 tvg-id="ch0429-ch" group-title="Прочее",МузСоюзᴴᴰ
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ch0423-hd" group-title="Прочее",Надежда HD
+#EXTINF:-1 tvg-id="ch0430-hd" group-title="Прочее",Надежда HD
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
-#EXTINF:-1 tvg-id="ch0424-ch" group-title="Прочее",Наша Тема
+#EXTINF:-1 tvg-id="ch0431-ch" group-title="Прочее",Наша Тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1 tvg-id="ch0425-ch" group-title="Прочее",Ника ТВ
+#EXTINF:-1 tvg-id="ch0432-ch" group-title="Прочее",Ника ТВ
 http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0426-hd" group-title="Прочее",ОТВ Екатеринбург HD
+#EXTINF:-1 tvg-id="ch0433-hd" group-title="Прочее",ОТВ Екатеринбург HD
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ch0427-fd" group-title="Прочее",ПРОДВИЖЕНИЕ FD
+#EXTINF:-1 tvg-id="ch0434-fd" group-title="Прочее",ПРОДВИЖЕНИЕ FD
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
-#EXTINF:-1 tvg-id="ch0428-hd" group-title="Прочее",Первый Ярославский HD
+#EXTINF:-1 tvg-id="ch0435-hd" group-title="Прочее",Первый Ярославский HD
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1 tvg-id="ch0429-ch" group-title="Прочее",Продвижение
+#EXTINF:-1 tvg-id="ch0436-ch" group-title="Прочее",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 tvg-id="ch0430-ch" group-title="Прочее",Салям
+#EXTINF:-1 tvg-id="ch0437-ch" group-title="Прочее",Салям
 http://bsttv.bonus-tv.ru/cdn/salyam/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0431-hd" group-title="Прочее",Союз HD
+#EXTINF:-1 tvg-id="ch0438-hd" group-title="Прочее",Союз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0432-ch" group-title="Прочее",Спас
+#EXTINF:-1 tvg-id="ch0439-ch" group-title="Прочее",Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0433-ch" group-title="Прочее",ТКР Рязань
+#EXTINF:-1 tvg-id="ch0440-ch" group-title="Прочее",ТКР Рязань
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
-#EXTINF:-1 tvg-id="ch0434-ch" group-title="Прочее",Тамыр
+#EXTINF:-1 tvg-id="ch0441-ch" group-title="Прочее",Тамыр
 http://bsttv.bonus-tv.ru/cdn/tamyr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0435-hd" group-title="Прочее",Танцуй! HD
+#EXTINF:-1 tvg-id="ch0442-hd" group-title="Прочее",Танцуй! HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_tat24_bf1f738079c0cf5c4a67893c16bceda9/hls/1024x576@1272/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0436-24hd" group-title="Прочее",Татарстан 24 HD
+#EXTINF:-1 tvg-id="ch0443-24hd" group-title="Прочее",Татарстан 24 HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_tat24_bf1f738079c0cf5c4a67893c16bceda9/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0437-ch" group-title="Прочее",Тооку
+#EXTINF:-1 tvg-id="ch0444-ch" group-title="Прочее",Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0438-ch" group-title="Прочее",Точка
+#EXTINF:-1 tvg-id="ch0445-ch" group-title="Прочее",Точка
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0439-ch" group-title="Прочее",Шаян ТВ
+#EXTINF:-1 tvg-id="ch0446-ch" group-title="Прочее",Шаян ТВ
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0440-ch" group-title="Прочее",Ювелирочка
+#EXTINF:-1 tvg-id="ch0447-ch" group-title="Прочее",Ювелирочка
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0441-24hd" group-title="Прочее",Якутия 24 HD
+#EXTINF:-1 tvg-id="ch0448-24hd" group-title="Прочее",Якутия 24 HD
 http://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0442-2" group-title="Прочее",Спас (+2)
+#EXTINF:-1 tvg-id="ch0449-2" group-title="Прочее",Спас (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0443-7" group-title="Прочее",Спас (+7)
+#EXTINF:-1 tvg-id="ch0450-7" group-title="Прочее",Спас (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0444-24" group-title="Прочее",Симферополь 24
+#EXTINF:-1 tvg-id="ch0451-24" group-title="Прочее",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
-#EXTINF:-1 tvg-id="ch0445-bollywood4u" group-title="Прочее",Bollywood 4U
+#EXTINF:-1 tvg-id="ch0452-bollywood4u" group-title="Прочее",Bollywood 4U
 https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0446-ch" group-title="Прочее",Раменское ТВ
+#EXTINF:-1 tvg-id="ch0453-ch" group-title="Прочее",Раменское ТВ
 https://e10-ll.facecast.net/rtv/1.m3u8
-#EXTINF:-1 tvg-id="ch0447-hd" group-title="Прочее",Ю HD
+#EXTINF:-1 tvg-id="ch0454-hd" group-title="Прочее",Ю HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0448-rtnews" group-title="Прочее",RT News
+#EXTINF:-1 tvg-id="ch0455-rtnews" group-title="Прочее",RT News
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0449-24kz" group-title="Прочее",24 KZ
+#EXTINF:-1 tvg-id="ch0456-24kz" group-title="Прочее",24 KZ
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0450-abaitv" group-title="Прочее",Abai TV
+#EXTINF:-1 tvg-id="ch0457-abaitv" group-title="Прочее",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0451-almatytv" group-title="Прочее",Almaty TV
+#EXTINF:-1 tvg-id="ch0458-almatytv" group-title="Прочее",Almaty TV
 https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0452-armenia1" group-title="Прочее",Armenia 1
+#EXTINF:-1 tvg-id="ch0459-armenia1" group-title="Прочее",Armenia 1
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="ch0453-armenia2" group-title="Прочее",Armenia 2
+#EXTINF:-1 tvg-id="ch0460-armenia2" group-title="Прочее",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="ch0454-astanatv" group-title="Прочее",Astana TV
+#EXTINF:-1 tvg-id="ch0461-astanatv" group-title="Прочее",Astana TV
 https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0455-atamekenbusiness" group-title="Прочее",Atameken Business
+#EXTINF:-1 tvg-id="ch0462-atamekenbusiness" group-title="Прочее",Atameken Business
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0456-balapan" group-title="Прочее",Balapan
+#EXTINF:-1 tvg-id="ch0463-balapan" group-title="Прочее",Balapan
 https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0457-bigplanet" group-title="Прочее",Big planet
+#EXTINF:-1 tvg-id="ch0464-bigplanet" group-title="Прочее",Big planet
 https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0458-channel11il" group-title="Прочее",Channel 11 [IL]
+#EXTINF:-1 tvg-id="ch0465-channel11il" group-title="Прочее",Channel 11 [IL]
 https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0459-duo7lv" group-title="Прочее",Duo 7 [LV]
+#EXTINF:-1 tvg-id="ch0466-duo7lv" group-title="Прочее",Duo 7 [LV]
 https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0460-englishclubtv" group-title="Прочее",English Club TV
+#EXTINF:-1 tvg-id="ch0467-englishclubtv" group-title="Прочее",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0461-extremesports" group-title="Прочее",Extreme Sports
+#EXTINF:-1 tvg-id="ch0468-extremesports" group-title="Прочее",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-#EXTINF:-1 tvg-id="ch0462-fridayinternational" group-title="Прочее",Friday! International
+#EXTINF:-1 tvg-id="ch0469-fridayinternational" group-title="Прочее",Friday! International
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0463-gulligirl" group-title="Прочее",Gulli Girl
+#EXTINF:-1 tvg-id="ch0470-gulligirl" group-title="Прочее",Gulli Girl
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
-#EXTINF:-1 tvg-id="ch0464-habar" group-title="Прочее",Habar
+#EXTINF:-1 tvg-id="ch0471-habar" group-title="Прочее",Habar
 https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0465-lovenature" group-title="Прочее",Love Nature
+#EXTINF:-1 tvg-id="ch0472-lovenature" group-title="Прочее",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0466-morethansportstv" group-title="Прочее",More Than Sports TV
+#EXTINF:-1 tvg-id="ch0473-morethansportstv" group-title="Прочее",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0467-motorsportrevuehd" group-title="Прочее",Motor sport revue HD
+#EXTINF:-1 tvg-id="ch0474-motorsportrevuehd" group-title="Прочее",Motor sport revue HD
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0468-ntvhdtr" group-title="Прочее",NTV HD TR
+#EXTINF:-1 tvg-id="ch0475-ntvhdtr" group-title="Прочее",NTV HD TR
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="ch0469-nauticalchannel" group-title="Прочее",Nautical Channel
+#EXTINF:-1 tvg-id="ch0476-nauticalchannel" group-title="Прочее",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0470-one" group-title="Прочее",One
+#EXTINF:-1 tvg-id="ch0477-one" group-title="Прочее",One
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0471-russischerjahrmarkt" group-title="Прочее",Russischer Jahrmarkt
+#EXTINF:-1 tvg-id="ch0478-russischerjahrmarkt" group-title="Прочее",Russischer Jahrmarkt
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 tvg-id="ch0472-startworld" group-title="Прочее",START World
+#EXTINF:-1 tvg-id="ch0479-startworld" group-title="Прочее",START World
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0473-silkway" group-title="Прочее",Silk Way
+#EXTINF:-1 tvg-id="ch0480-silkway" group-title="Прочее",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0474-tbnarmenia" group-title="Прочее",TBN Armenia
+#EXTINF:-1 tvg-id="ch0481-tbnarmenia" group-title="Прочее",TBN Armenia
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ch0475-tv1kghdkg" group-title="Прочее",TV1 KG HD [KG]
+#EXTINF:-1 tvg-id="ch0482-tv1kghdkg" group-title="Прочее",TV1 KG HD [KG]
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
-#EXTINF:-1 tvg-id="ch0476-tamilantv" group-title="Прочее",Tamilan TV
+#EXTINF:-1 tvg-id="ch0483-tamilantv" group-title="Прочее",Tamilan TV
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0477-turantv" group-title="Прочее",Turan TV
+#EXTINF:-1 tvg-id="ch0484-turantv" group-title="Прочее",Turan TV
 https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0478-univertv" group-title="Прочее",Univer TV
+#EXTINF:-1 tvg-id="ch0485-univertv" group-title="Прочее",Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0479-vipmegahithd" group-title="Прочее",VIP Megahit HD
+#EXTINF:-1 tvg-id="ch0486-vipmegahithd" group-title="Прочее",VIP Megahit HD
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
-#EXTINF:-1 tvg-id="ch0480-24" group-title="Прочее",Башкортостан 24
+#EXTINF:-1 tvg-id="ch0487-24" group-title="Прочее",Башкортостан 24
 https://s1.gtrkrb.ru/540/b24-540.m3u8
-#EXTINF:-1 tvg-id="ch0481-ch" group-title="Прочее",Бобёр
+#EXTINF:-1 tvg-id="ch0488-ch" group-title="Прочее",Бобёр
 https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0482-ch" group-title="Прочее",Дорама
+#EXTINF:-1 tvg-id="ch0489-ch" group-title="Прочее",Дорама
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0483-ch" group-title="Прочее",Иллюзион
+#EXTINF:-1 tvg-id="ch0490-ch" group-title="Прочее",Иллюзион
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0484-ch" group-title="Прочее",КТК
+#EXTINF:-1 tvg-id="ch0491-ch" group-title="Прочее",КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0485-ch" group-title="Прочее",Малыш
+#EXTINF:-1 tvg-id="ch0492-ch" group-title="Прочее",Малыш
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
-#EXTINF:-1 tvg-id="ch0486-ch" group-title="Прочее",Матур ТВ
+#EXTINF:-1 tvg-id="ch0493-ch" group-title="Прочее",Матур ТВ
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-id="ch0487-ch" group-title="Прочее",НТК
+#EXTINF:-1 tvg-id="ch0494-ch" group-title="Прочее",НТК
 https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0488-ch" group-title="Прочее",Ностальгия
+#EXTINF:-1 tvg-id="ch0495-ch" group-title="Прочее",Ностальгия
 https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0489-ch" group-title="Прочее",ОТВ Челябинск
+#EXTINF:-1 tvg-id="ch0496-ch" group-title="Прочее",ОТВ Челябинск
 https://vd.obltv.ru/watch/air_sd.m3u8
-#EXTINF:-1 tvg-id="ch0490-ch" group-title="Прочее",Поехали!
+#EXTINF:-1 tvg-id="ch0497-ch" group-title="Прочее",Поехали!
 https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0491-1" group-title="Прочее",С1 Сургут
+#EXTINF:-1 tvg-id="ch0498-1" group-title="Прочее",С1 Сургут
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 tvg-id="ch0492-100" group-title="Прочее",Смотрим 100% Любовь
+#EXTINF:-1 tvg-id="ch0499-100" group-title="Прочее",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
-#EXTINF:-1 tvg-id="ch0493-hdv5" group-title="Прочее",Твоё ТВ HD v5
+#EXTINF:-1 tvg-id="ch0500-hdv5" group-title="Прочее",Твоё ТВ HD v5
 https://tvoetv.space/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="ch0494-hdv6" group-title="Прочее",Твоё ТВ HD v6
+#EXTINF:-1 tvg-id="ch0501-hdv6" group-title="Прочее",Твоё ТВ HD v6
 https://tvoetv.space/tvoetv/video.m3u8
-#EXTINF:-1 tvg-id="ch0495-hdv7" group-title="Прочее",Твоё ТВ HD v7
+#EXTINF:-1 tvg-id="ch0502-hdv7" group-title="Прочее",Твоё ТВ HD v7
 https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0496-ch" group-title="Прочее",Телекафе
+#EXTINF:-1 tvg-id="ch0503-ch" group-title="Прочее",Телекафе
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0497-ch" group-title="Прочее",Три Ангела
+#EXTINF:-1 tvg-id="ch0504-ch" group-title="Прочее",Три Ангела
 https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 tvg-id="ch0498-8" group-title="Прочее",8 канал
+#EXTINF:-1 tvg-id="ch0505-8" group-title="Прочее",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-id="ch0499-astrakhanrusporthd" group-title="Прочее",Astrakhan.RU Sport HD
+#EXTINF:-1 tvg-id="ch0506-astrakhanrusporthd" group-title="Прочее",Astrakhan.RU Sport HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0500-canalmotor" group-title="Прочее",CANAL MOTOR
+#EXTINF:-1 tvg-id="ch0507-canalmotor" group-title="Прочее",CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="ch0501-eurochannel" group-title="Прочее",Eurochannel
+#EXTINF:-1 tvg-id="ch0508-eurochannel" group-title="Прочее",Eurochannel
 http://cdntv.online/high/47eurvkpm6/37.m3u8
-#EXTINF:-1 tvg-id="ch0502-trvpnsport1" group-title="Прочее",Tr VPN SPORT 1
+#EXTINF:-1 tvg-id="ch0509-trvpnsport1" group-title="Прочее",Tr VPN SPORT 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
-#EXTINF:-1 tvg-id="ch0503-univertvhd" group-title="Прочее",Univer TV HD
+#EXTINF:-1 tvg-id="ch0510-univertvhd" group-title="Прочее",Univer TV HD
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0504-24hd" group-title="Прочее",Астрахань 24 HD
+#EXTINF:-1 tvg-id="ch0511-24hd" group-title="Прочее",Астрахань 24 HD
 http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0505-international" group-title="Прочее",Канал International
+#EXTINF:-1 tvg-id="ch0512-international" group-title="Прочее",Канал International
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 tvg-id="ch0506-ch" group-title="Прочее",Кулинар ТВ
+#EXTINF:-1 tvg-id="ch0513-ch" group-title="Прочее",Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-id="ch0507-hd" group-title="Прочее",Первый Тульский HD
+#EXTINF:-1 tvg-id="ch0514-hd" group-title="Прочее",Первый Тульский HD
 http://1tvtula.ru/tula/1tv_hi/index.m3u8
-#EXTINF:-1 tvg-id="ch0508-ch" group-title="Прочее",Русский роман
+#EXTINF:-1 tvg-id="ch0515-ch" group-title="Прочее",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 tvg-id="ch0509-hd" group-title="Прочее",Тверской Проспект HD
+#EXTINF:-1 tvg-id="ch0516-hd" group-title="Прочее",Тверской Проспект HD
 http://stream.fastlnk.ru:88/Tverskojj_prospekt_hd/index.m3u8
-#EXTINF:-1 tvg-id="ch0510-hd" group-title="Прочее",Твоё ТВ HD
+#EXTINF:-1 tvg-id="ch0517-hd" group-title="Прочее",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="ch0511-hdv3" group-title="Прочее",Твоё ТВ HD v3
+#EXTINF:-1 tvg-id="ch0518-hdv3" group-title="Прочее",Твоё ТВ HD v3
 http://tvoetv.space:8080/tvoetv/video.m3u8
-#EXTINF:-1 tvg-id="ch0512-24" group-title="Прочее",Тува 24
+#EXTINF:-1 tvg-id="ch0519-24" group-title="Прочее",Тува 24
 http://tv.tuva.ru/tuva24/index.m3u8
-#EXTINF:-1 tvg-id="ch0513-bbcworldnewsen" group-title="Прочее",BBC World News (EN)
+#EXTINF:-1 tvg-id="ch0520-bbcworldnewsen" group-title="Прочее",BBC World News (EN)
 http://85.117.61.84/bbc/index.m3u8
-#EXTINF:-1 tvg-id="ch0514-khl" group-title="Прочее",KHL
+#EXTINF:-1 tvg-id="ch0521-khl" group-title="Прочее",KHL
 http://176.118.197.101/KHL/index.m3u8
-#EXTINF:-1 tvg-id="ch0515-morethansportstvde" group-title="Прочее",More Than Sports TV [DE]
+#EXTINF:-1 tvg-id="ch0522-morethansportstvde" group-title="Прочее",More Than Sports TV [DE]
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="ch0516-turkmensport" group-title="Прочее",Turkmen Sport
+#EXTINF:-1 tvg-id="ch0523-turkmensport" group-title="Прочее",Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="ch0517-viasathistory" group-title="Прочее",Viasat History
+#EXTINF:-1 tvg-id="ch0524-viasathistory" group-title="Прочее",Viasat History
 http://31.210.208.171:8080/viju_history/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0518-ch" group-title="Прочее",БОКС ТВ
+#EXTINF:-1 tvg-id="ch0525-ch" group-title="Прочее",БОКС ТВ
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0519-ch" group-title="Прочее",В гостях у сказки
+#EXTINF:-1 tvg-id="ch0526-ch" group-title="Прочее",В гостях у сказки
 http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0520-ch" group-title="Прочее",ЕГЭ
+#EXTINF:-1 tvg-id="ch0527-ch" group-title="Прочее",ЕГЭ
 http://194.143.148.28:8080/RT_DOC/index.m3u8
-#EXTINF:-1 tvg-id="ch0521-ch" group-title="Прочее",Закон ТВᴴᴰ
+#EXTINF:-1 tvg-id="ch0528-ch" group-title="Прочее",Закон ТВᴴᴰ
 http://195.189.60.253/zakon_tv_hd/video.m3u8
-#EXTINF:-1 tvg-id="ch0522-plus" group-title="Прочее",Иллюзион plus
+#EXTINF:-1 tvg-id="ch0529-plus" group-title="Прочее",Иллюзион plus
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-id="ch0523-ch" group-title="Прочее",Масон ТВᴴᴰ
+#EXTINF:-1 tvg-id="ch0530-ch" group-title="Прочее",Масон ТВᴴᴰ
 http://195.189.60.253/mason_tv_hd/video.m3u8
-#EXTINF:-1 tvg-id="ch0524-ch" group-title="Прочее",НСТ
+#EXTINF:-1 tvg-id="ch0531-ch" group-title="Прочее",НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 tvg-id="ch0525-hd" group-title="Прочее",Страшное HD
+#EXTINF:-1 tvg-id="ch0532-hd" group-title="Прочее",Страшное HD
 http://176.118.197.101/CTC/index.m3u8
-#EXTINF:-1 tvg-id="ch0526-ch" group-title="Прочее",Тонус ТВ
+#EXTINF:-1 tvg-id="ch0533-ch" group-title="Прочее",Тонус ТВ
 http://194.143.148.28:8080/Mir24/index.m3u8
-#EXTINF:-1 tvg-id="ch0527-ch" group-title="Прочее",Уникум
+#EXTINF:-1 tvg-id="ch0534-ch" group-title="Прочее",Уникум
 http://217.114.191.150/Solnce/index.m3u8
-#EXTINF:-1 tvg-id="ch0528-ch" group-title="Прочее",Чип и Дейл
+#EXTINF:-1 tvg-id="ch0535-ch" group-title="Прочее",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
