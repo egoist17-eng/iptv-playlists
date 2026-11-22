@@ -1,12 +1,22 @@
 #EXTM3U
 #PLAYLIST:4K
-#EXTINF:-1 tvg-id="ch0001-home4k" group-title="4K",Home 4K
+#EXTINF:-1 tvg-id="ch0001-travelxp4kczechia" group-title="4K",Travelxp 4K Czechia
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
+#EXTINF:-1 tvg-id="ch0002-eurosport4kczechia" group-title="4K",Eurosport 4K Czechia
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="ch0003-hebeitv4k" group-title="4K",Hebei TV 4K
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-id="ch0004-home4k" group-title="4K",Home 4K
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0002-ultra4kextreme" group-title="4K",Ultra 4K Extreme
+#EXTINF:-1 tvg-id="ch0005-lovenature4kczechia" group-title="4K",Love Nature 4K Czechia
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="ch0006-public4ktvhd" group-title="4K",Public 4K TV HD
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-id="ch0007-ultra4kextreme" group-title="4K",Ultra 4K Extreme
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
-#EXTINF:-1 tvg-id="ch0003-film4khdlive" group-title="4K",film4khdLIVE
+#EXTINF:-1 tvg-id="ch0008-film4khdlive" group-title="4K",film4khdLIVE
 http://kinowalk.hopto.org/film4khdclub_live
-#EXTINF:-1 tvg-id="ch0004-24kz" group-title="4K",24 KZ
+#EXTINF:-1 tvg-id="ch0009-24kz" group-title="4K",24 KZ
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0005-lovenature4k" group-title="4K",Love Nature 4K
+#EXTINF:-1 tvg-id="ch0010-lovenature4k" group-title="4K",Love Nature 4K
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
