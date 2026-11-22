@@ -2,11 +2,13 @@
 #PLAYLIST:TEST - samples of all categories
 #EXTINF:-1 tvg-id="ch0001-hd" group-title="Федеральные РФ",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
-#EXTINF:-1 tvg-id="ch0002-ch" group-title="Кино и сериалы",КиноСезон
-http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-id="ch0003-ch" group-title="Детские",Радость моя
+#EXTINF:-1 tvg-id="ch0002-hd" group-title="Кино и сериалы",Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ch0003-hd" group-title="Кино и сериалы",Кино ТВ HD
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 tvg-id="ch0004-ch" group-title="Детские",Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="ch0004-rthd" group-title="Познавательные",RTД HD
+#EXTINF:-1 tvg-id="ch0005-rthd" group-title="Познавательные",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="ch0005-france24english" group-title="Зарубежные",France 24 English
+#EXTINF:-1 tvg-id="ch0006-france24english" group-title="Зарубежные",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
