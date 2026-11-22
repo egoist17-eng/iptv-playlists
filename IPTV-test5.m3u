@@ -2,9 +2,9 @@
 #PLAYLIST:TEST - samples of all categories
 #EXTINF:-1 tvg-id="ch0001-hd" group-title="Федеральные РФ",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
-#EXTINF:-1 tvg-id="ch0002-ch" group-title="Федеральные РФ",Матч! Боец
+#EXTINF:-1 tvg-id="ch0002-ch" group-title="Спорт",Матч! Боец
 http://31.210.208.171:8080/match_boec/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0003-ch" group-title="Федеральные РФ",Матч! Премьер
+#EXTINF:-1 tvg-id="ch0003-ch" group-title="Спорт",Матч! Премьер
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="ch0004-animalplanet" group-title="Познавательные",Animal Planet
 http://88.212.7.14/live/animal_hun/index.m3u8
@@ -20,7 +20,7 @@ http://176.118.197.101/KinoTvHD/playlist.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="ch0010-rthd" group-title="Познавательные",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="ch0011-france24english" group-title="Зарубежные",France 24 English
+#EXTINF:-1 tvg-id="ch0011-france24english" group-title="Новости",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="ch0012-musicboxsexy18" group-title="Для взрослых",Music Box Sexy (18+)
 http://88.212.15.50/live/mb_sexy/index.m3u8
