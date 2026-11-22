@@ -1,14 +1,12 @@
 #EXTM3U
 #PLAYLIST:4K
-#EXTINF:-1 tvg-id="ch0001-extasy4k" group-title="4K",Extasy 4K
-http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0002-home4k" group-title="4K",Home 4K
+#EXTINF:-1 tvg-id="ch0001-home4k" group-title="4K",Home 4K
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0003-ultra4kextreme" group-title="4K",Ultra 4K Extreme
+#EXTINF:-1 tvg-id="ch0002-ultra4kextreme" group-title="4K",Ultra 4K Extreme
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
-#EXTINF:-1 tvg-id="ch0004-film4khdlive" group-title="4K",film4khdLIVE
+#EXTINF:-1 tvg-id="ch0003-film4khdlive" group-title="4K",film4khdLIVE
 http://kinowalk.hopto.org/film4khdclub_live
-#EXTINF:-1 tvg-id="ch0005-24kz" group-title="4K",24 KZ
+#EXTINF:-1 tvg-id="ch0004-24kz" group-title="4K",24 KZ
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0006-lovenature4k" group-title="4K",Love Nature 4K
+#EXTINF:-1 tvg-id="ch0005-lovenature4k" group-title="4K",Love Nature 4K
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8

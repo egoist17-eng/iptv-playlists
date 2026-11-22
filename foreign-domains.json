@@ -168,16 +168,16 @@
    "cc": "CZ",
    "org": "Datacamp Limited",
    "channels": [
-    "Extasy 4K",
     "babes tvporn",
     "desire",
+    "extasy 4k",
     "rk tv"
    ],
    "n": 4
   },
   {
    "host": "ocko-live-dash.ssl.cdn.cra.cz",
-   "ip": "84.17.61.38",
+   "ip": "143.244.32.63",
    "country": "Czechia",
    "cc": "CZ",
    "org": "Datacamp Limited",
@@ -188,7 +188,7 @@
   },
   {
    "host": "ocko-live.ssl.cdn.cra.cz",
-   "ip": "84.17.61.39",
+   "ip": "87.249.131.123",
    "country": "Czechia",
    "cc": "CZ",
    "org": "Datacamp Limited",
@@ -269,12 +269,56 @@
   },
   {
    "host": "2-fss-1.streamhoster.com",
-   "ip": "65.9.106.31",
+   "ip": "65.9.106.59",
    "country": "Denmark",
    "cc": "DK",
    "org": "Amazon.com, Inc.",
    "channels": [
     "One"
+   ],
+   "n": 1
+  },
+  {
+   "host": "amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv",
+   "ip": "65.9.106.123",
+   "country": "Denmark",
+   "cc": "DK",
+   "org": "Amazon.com, Inc.",
+   "channels": [
+    "CGTN"
+   ],
+   "n": 1
+  },
+  {
+   "host": "amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv",
+   "ip": "3.174.18.93",
+   "country": "Denmark",
+   "cc": "DK",
+   "org": "Amazon.com, Inc.",
+   "channels": [
+    "CNBC"
+   ],
+   "n": 1
+  },
+  {
+   "host": "amg01131-tracetv-traceurban-glewed-g705j.amagi.tv",
+   "ip": "65.9.106.15",
+   "country": "Denmark",
+   "cc": "DK",
+   "org": "Amazon.com, Inc.",
+   "channels": [
+    "Trace Urban"
+   ],
+   "n": 1
+  },
+  {
+   "host": "tv-trthaber.medya.trt.com.tr",
+   "ip": "18.173.5.77",
+   "country": "Denmark",
+   "cc": "DK",
+   "org": "Amazon.com, Inc.",
+   "channels": [
+    "TRT Haber"
    ],
    "n": 1
   },
@@ -364,7 +408,7 @@
   },
   {
    "host": "abaitv-stream.qazcdn.com",
-   "ip": "89.223.4.147",
+   "ip": "89.223.4.210",
    "country": "Kazakhstan",
    "cc": "KZ",
    "org": "NLS ASTANA LLP",
@@ -460,17 +504,6 @@
    "n": 1
   },
   {
-   "host": "ciner.daioncdn.net",
-   "ip": "178.162.172.32",
-   "country": "Netherlands",
-   "cc": "NL",
-   "org": "LeaseWeb Netherlands B.V.",
-   "channels": [
-    "Bloomberg HT"
-   ],
-   "n": 1
-  },
-  {
    "host": "kinowalk.hopto.org",
    "ip": "194.146.38.201",
    "country": "Netherlands",
@@ -498,10 +531,10 @@
   },
   {
    "host": "a-cdn.klowdtv.com",
-   "ip": "23.53.32.44",
+   "ip": "213.155.157.216",
    "country": "Sweden",
    "cc": "SE",
-   "org": "Akamai Technologies, Inc.",
+   "org": "Arelion Sweden AB",
    "channels": [
     "Nautical Channel"
    ],
@@ -520,54 +553,21 @@
   },
   {
    "host": "amdlive.ctnd.com.edgesuite.net",
-   "ip": "23.53.32.42",
+   "ip": "213.155.157.59",
    "country": "Sweden",
    "cc": "SE",
-   "org": "Akamai Technologies, Inc.",
+   "org": "Arelion Sweden AB",
    "channels": [
     "Arirang"
    ],
    "n": 1
   },
   {
-   "host": "amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv",
-   "ip": "65.9.62.36",
-   "country": "Sweden",
-   "cc": "SE",
-   "org": "Amazon.com, Inc.",
-   "channels": [
-    "CGTN"
-   ],
-   "n": 1
-  },
-  {
-   "host": "amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv",
-   "ip": "3.174.2.108",
-   "country": "Sweden",
-   "cc": "SE",
-   "org": "Amazon.com, Inc.",
-   "channels": [
-    "CNBC"
-   ],
-   "n": 1
-  },
-  {
-   "host": "amg01131-tracetv-traceurban-glewed-g705j.amagi.tv",
-   "ip": "65.9.46.78",
-   "country": "Sweden",
-   "cc": "SE",
-   "org": "Amazon.com, Inc.",
-   "channels": [
-    "Trace Urban"
-   ],
-   "n": 1
-  },
-  {
    "host": "live.france24.com",
-   "ip": "23.53.32.96",
+   "ip": "213.155.157.187",
    "country": "Sweden",
    "cc": "SE",
-   "org": "Akamai Technologies, Inc.",
+   "org": "Arelion Sweden AB",
    "channels": [
     "France 24 English"
    ],
@@ -575,7 +575,7 @@
   },
   {
    "host": "lotus.stingray.com",
-   "ip": "143.204.238.62",
+   "ip": "143.204.238.94",
    "country": "Sweden",
    "cc": "SE",
    "org": "Amazon.com, Inc.",
@@ -586,10 +586,10 @@
   },
   {
    "host": "ott.tv5monde.com",
-   "ip": "23.53.32.46",
+   "ip": "213.155.157.203",
    "country": "Sweden",
    "cc": "SE",
-   "org": "Akamai Technologies, Inc.",
+   "org": "Arelion Sweden AB",
    "channels": [
     "TV5 Monde Europe"
    ],
@@ -597,10 +597,10 @@
   },
   {
    "host": "rmtv.akamaized.net",
-   "ip": "23.53.32.56",
+   "ip": "213.155.157.184",
    "country": "Sweden",
    "cc": "SE",
-   "org": "Akamai Technologies, Inc.",
+   "org": "Arelion Sweden AB",
    "channels": [
     "Real Madrid"
    ],
@@ -608,23 +608,12 @@
   },
   {
    "host": "streams2.sofast.tv",
-   "ip": "23.53.32.56",
+   "ip": "213.155.157.195",
    "country": "Sweden",
    "cc": "SE",
-   "org": "Akamai Technologies, Inc.",
+   "org": "Arelion Sweden AB",
    "channels": [
     "Bollywood 4U"
-   ],
-   "n": 1
-  },
-  {
-   "host": "tv-trthaber.medya.trt.com.tr",
-   "ip": "13.249.8.81",
-   "country": "Sweden",
-   "cc": "SE",
-   "org": "Amazon.com, Inc.",
-   "channels": [
-    "TRT Haber"
    ],
    "n": 1
   },
@@ -716,6 +705,17 @@
    "org": "Point-to-Points links",
    "channels": [
     "Turkmen Sport"
+   ],
+   "n": 1
+  },
+  {
+   "host": "ciner.daioncdn.net",
+   "ip": "195.244.39.164",
+   "country": "Türkiye",
+   "cc": "TR",
+   "org": "Netdirekt A.S.",
+   "channels": [
+    "Bloomberg HT"
    ],
    "n": 1
   },
@@ -814,7 +814,7 @@
   },
   {
    "host": "stream.ads.ottera.tv",
-   "ip": "100.30.62.129",
+   "ip": "100.60.56.246",
    "country": "United States",
    "cc": "US",
    "org": "Amazon Data Services Northern Virginia",
@@ -950,7 +950,7 @@
   },
   {
    "host": "27trk.iptv2022.com",
-   "ip": "194.35.49.2",
+   "ip": "194.35.48.58",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "Lime HD LLC",
@@ -1220,7 +1220,7 @@
   },
   {
    "host": "devyatka.iptv2022.com",
-   "ip": "194.35.48.58",
+   "ip": "194.35.49.2",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "Lime HD LLC",
@@ -1284,7 +1284,7 @@
   },
   {
    "host": "hls-rictv.cdnvideo.ru",
-   "ip": "151.236.72.193",
+   "ip": "151.236.66.161",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1295,7 +1295,7 @@
   },
   {
    "host": "hls-sibinformburo.cdnvideo.ru",
-   "ip": "151.236.89.161",
+   "ip": "151.236.72.193",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1306,10 +1306,10 @@
   },
   {
    "host": "hls-tvsoyuz.cdnvideo.ru",
-   "ip": "46.42.187.65",
+   "ip": "151.236.72.193",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "PJSC Vimpelcom",
+   "org": "CDNvideo LLC",
    "channels": [
     "МузСоюз HD",
     "МузСоюзᴴᴰ",
@@ -1319,7 +1319,7 @@
   },
   {
    "host": "hls-volgograd1vtv.cdnvideo.ru",
-   "ip": "151.236.72.193",
+   "ip": "151.236.69.65",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1330,7 +1330,7 @@
   },
   {
    "host": "hls.mirtv.cdnvideo.ru",
-   "ip": "151.236.69.73",
+   "ip": "151.236.66.167",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1342,7 +1342,7 @@
   },
   {
    "host": "hls.peers.tv",
-   "ip": "195.189.238.18",
+   "ip": "195.189.238.22",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "Inetra LLC",
@@ -1364,7 +1364,7 @@
   },
   {
    "host": "hls.tva.cdnvideo.ru",
-   "ip": "151.236.77.65",
+   "ip": "151.236.69.65",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1408,7 +1408,7 @@
   },
   {
    "host": "jz2lo90hnpy.a.trbcdn.net",
-   "ip": "151.236.103.94",
+   "ip": "151.236.66.189",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1443,7 +1443,7 @@
   },
   {
    "host": "live-bigasia.cdnvideo.ru",
-   "ip": "151.236.89.97",
+   "ip": "151.236.77.65",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1455,10 +1455,10 @@
   },
   {
    "host": "live-mordovia24.cdnvideo.ru",
-   "ip": "46.42.187.98",
+   "ip": "151.236.89.162",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "PJSC Vimpelcom",
+   "org": "CDNvideo LLC",
    "channels": [
     "Мордовия 24 HD (Саранск)"
    ],
@@ -1466,10 +1466,10 @@
   },
   {
    "host": "live-nntv2.cdnvideo.ru",
-   "ip": "151.236.89.97",
+   "ip": "46.42.187.65",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "CDNvideo LLC",
+   "org": "PJSC Vimpelcom",
    "channels": [
     "Время Арктики"
    ],
@@ -1488,10 +1488,10 @@
   },
   {
    "host": "live-saha.cdnvideo.ru",
-   "ip": "151.236.77.65",
+   "ip": "46.42.187.65",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "CDNvideo LLC",
+   "org": "PJSC Vimpelcom",
    "channels": [
     "Хоккей ТВ",
     "НВК Саха HD",
@@ -1513,7 +1513,7 @@
   },
   {
    "host": "live-tolknews.cdnvideo.ru",
-   "ip": "151.236.72.193",
+   "ip": "151.236.66.161",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1524,10 +1524,10 @@
   },
   {
    "host": "live-topspb-geo.cdnvideo.ru",
-   "ip": "46.42.187.97",
+   "ip": "151.236.69.65",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "PJSC Vimpelcom",
+   "org": "CDNvideo LLC",
    "channels": [
     "Санкт-Петербург HD",
     "САНКТ-ПЕТЕРБУРГᴴᴰ"
@@ -1547,10 +1547,10 @@
   },
   {
    "host": "live-tvkrasnodar-soc.cdnvideo.ru",
-   "ip": "46.42.187.97",
+   "ip": "151.236.72.193",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "PJSC Vimpelcom",
+   "org": "CDNvideo LLC",
    "channels": [
     "Краснодар"
    ],
@@ -1558,7 +1558,7 @@
   },
   {
    "host": "live-tvkrasnodar.cdnvideo.ru",
-   "ip": "46.42.187.97",
+   "ip": "46.42.187.65",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "PJSC Vimpelcom",
@@ -1581,10 +1581,10 @@
   },
   {
    "host": "live-uvelirochka.cdnvideo.ru",
-   "ip": "46.42.187.65",
+   "ip": "151.236.69.65",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "PJSC Vimpelcom",
+   "org": "CDNvideo LLC",
    "channels": [
     "Ювелирочка"
    ],
@@ -1592,7 +1592,7 @@
   },
   {
    "host": "live-vestinn.cdnvideo.ru",
-   "ip": "151.236.69.66",
+   "ip": "151.236.72.194",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1603,7 +1603,7 @@
   },
   {
    "host": "live-vgtrksmotrim.cdnvideo.ru",
-   "ip": "151.236.103.66",
+   "ip": "151.236.69.66",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1627,7 +1627,7 @@
   },
   {
    "host": "live.stranafm.cdnvideo.ru",
-   "ip": "151.236.77.65",
+   "ip": "151.236.66.161",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1682,7 +1682,7 @@
   },
   {
    "host": "online.video.rbc.ru",
-   "ip": "80.68.253.122",
+   "ip": "80.68.253.120",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "ROSBUSINESSCONSULTING JSC",
@@ -1705,7 +1705,7 @@
   },
   {
    "host": "peqk71plnjy.a.trbcdn.net",
-   "ip": "151.236.103.94",
+   "ip": "151.236.66.189",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1738,7 +1738,7 @@
   },
   {
    "host": "qcpdqumitwf.a.trbcdn.net",
-   "ip": "151.236.103.72",
+   "ip": "91.231.238.143",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "CDNvideo LLC",
@@ -1760,10 +1760,10 @@
   },
   {
    "host": "rt-ct-ivan-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.201",
+   "ip": "212.193.153.149",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "LLC NGENIX",
    "channels": [
     "Ивановское общественное телевидение",
     "Ивановское общественное телевидение (Иваново)"
@@ -1772,10 +1772,10 @@
   },
   {
    "host": "rt-ct-kaluga-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.159",
+   "ip": "46.235.189.196",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "NGENIX network",
    "channels": [
     "Ника ТВ"
    ],
@@ -1783,10 +1783,10 @@
   },
   {
    "host": "rt-ct-lipetsk-htlive.cdn.ngenix.net",
-   "ip": "195.209.90.198",
+   "ip": "93.93.89.147",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "NGENIX network",
    "channels": [
     "ВОТ ТВ"
    ],
@@ -1794,10 +1794,10 @@
   },
   {
    "host": "rt-ct-orl-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.147",
+   "ip": "46.235.186.252",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "Network for NGENIX",
    "channels": [
     "Истоки",
     "Первый областной (Орел)"
@@ -1806,7 +1806,7 @@
   },
   {
    "host": "rt-ct-ryaz-htlive.cdn.ngenix.net",
-   "ip": "212.193.155.252",
+   "ip": "212.193.157.251",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "LLC NGENIX",
@@ -1817,10 +1817,10 @@
   },
   {
    "host": "rt-ct-tamb-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.132",
+   "ip": "195.209.81.201",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Новый век (Тамбов)"
    ],
@@ -1828,7 +1828,7 @@
   },
   {
    "host": "rt-ct-vlad-htlive.cdn.ngenix.net",
-   "ip": "212.193.155.252",
+   "ip": "212.193.153.147",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "LLC NGENIX",
@@ -1840,10 +1840,10 @@
   },
   {
    "host": "rt-ct-yarl-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.132",
+   "ip": "195.209.81.200",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Городской телеканал (Ярославль)",
     "Рыбинск-40",
@@ -1875,10 +1875,10 @@
   },
   {
    "host": "rt-mos-htlive.cdn.ngenix.net",
-   "ip": "93.93.89.147",
+   "ip": "46.235.186.252",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "NGENIX network",
+   "org": "Network for NGENIX",
    "channels": [
     "Доверие (Москва)"
    ],
@@ -1886,10 +1886,10 @@
   },
   {
    "host": "rt-nw-arkh-htlive.cdn.ngenix.net",
-   "ip": "212.193.155.242",
+   "ip": "195.209.88.204",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Регион 29"
    ],
@@ -1897,10 +1897,10 @@
   },
   {
    "host": "rt-nw-klgr-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.200",
+   "ip": "212.193.155.252",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "LLC NGENIX",
    "channels": [
     "Каскад 24",
     "ОТР"
@@ -1909,10 +1909,10 @@
   },
   {
    "host": "rt-nw-komi-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.201",
+   "ip": "212.193.153.145",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "LLC NGENIX",
    "channels": [
     "Юрган"
    ],
@@ -1920,10 +1920,10 @@
   },
   {
    "host": "rt-nw-murm-htlive.cdn.ngenix.net",
-   "ip": "212.193.155.242",
+   "ip": "93.93.89.156",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "NGENIX network",
    "channels": [
     "ТВ-21+"
    ],
@@ -1931,7 +1931,7 @@
   },
   {
    "host": "rt-nw-novg-htlive.cdn.ngenix.net",
-   "ip": "212.193.155.242",
+   "ip": "212.193.153.153",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "LLC NGENIX",
@@ -1942,7 +1942,7 @@
   },
   {
    "host": "rt-nw-pzav-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.145",
+   "ip": "212.193.157.245",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "LLC NGENIX",
@@ -1953,10 +1953,10 @@
   },
   {
    "host": "rt-nw-spb-htlive.cdn.ngenix.net",
-   "ip": "195.209.88.198",
+   "ip": "93.93.89.141",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "NGENIX network",
    "channels": [
     "78 (Санкт-Петербург)",
     "Лен ТВ 24",
@@ -1966,10 +1966,10 @@
   },
   {
    "host": "rt-sib-abakan-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.205",
+   "ip": "46.235.186.252",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "Network for NGENIX",
    "channels": [
     "ТВ-7 Абакан",
     "РТС - Абакан"
@@ -1978,10 +1978,10 @@
   },
   {
    "host": "rt-sib-bul-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.201",
+   "ip": "212.193.157.247",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "LLC NGENIX",
    "channels": [
     "Катунь 24",
     "Точка"
@@ -1990,10 +1990,10 @@
   },
   {
    "host": "rt-sib-irk-htlive.cdn.ngenix.net",
-   "ip": "46.235.189.195",
+   "ip": "195.209.81.201",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "NGENIX network",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Аист",
     "БСТ Братск",
@@ -2004,7 +2004,7 @@
   },
   {
    "host": "rt-sib-krsk-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.159",
+   "ip": "212.193.155.252",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "LLC NGENIX",
@@ -2016,7 +2016,7 @@
   },
   {
    "host": "rt-sib-nsk-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.197",
+   "ip": "195.209.88.204",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "OOO Sovremennye setevye tekhnologii",
@@ -2028,10 +2028,10 @@
   },
   {
    "host": "rt-sib-omsk-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.197",
+   "ip": "46.235.189.202",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "NGENIX network",
    "channels": [
     "Россия 1 (+3)",
     "12 канал (Омск)"
@@ -2051,10 +2051,10 @@
   },
   {
    "host": "rt-sib-uude-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.147",
+   "ip": "46.235.189.195",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "NGENIX network",
    "channels": [
     "Россия 1 (+5)",
     "АТВ-Медиа"
@@ -2063,10 +2063,10 @@
   },
   {
    "host": "rt-sth-krdar-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.132",
+   "ip": "46.235.189.195",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "NGENIX network",
    "channels": [
     "Кубань 24 (Краснодар)"
    ],
@@ -2074,7 +2074,7 @@
   },
   {
    "host": "rt-sth-stavr-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.201",
+   "ip": "195.209.81.205",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "OOO Sovremennye setevye tekhnologii",
@@ -2097,7 +2097,7 @@
   },
   {
    "host": "rt-ural-chel-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.200",
+   "ip": "195.209.81.201",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "OOO Sovremennye setevye tekhnologii",
@@ -2111,10 +2111,10 @@
   },
   {
    "host": "rt-ural-ekt-htlive.cdn.ngenix.net",
-   "ip": "46.235.186.244",
+   "ip": "195.209.90.202",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "Network for NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Первый канал +2",
     "Россия 24 +2",
@@ -2126,10 +2126,10 @@
   },
   {
    "host": "rt-ural-nbk-htlive.cdn.ngenix.net",
-   "ip": "46.235.186.252",
+   "ip": "195.209.88.204",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "Network for NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Ямал-Регион"
    ],
@@ -2137,10 +2137,10 @@
   },
   {
    "host": "rt-ural-sur-htlive.cdn.ngenix.net",
-   "ip": "195.209.90.202",
+   "ip": "46.235.186.252",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "Network for NGENIX",
    "channels": [
     "Ugra Travel",
     "Наши Города (Когалым)",
@@ -2151,10 +2151,10 @@
   },
   {
    "host": "rt-ural-tum-htlive.cdn.ngenix.net",
-   "ip": "46.235.189.202",
+   "ip": "195.209.81.205",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "NGENIX network",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "TVоя Тюмень"
    ],
@@ -2162,10 +2162,10 @@
   },
   {
    "host": "rt-vlg-chr-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.149",
+   "ip": "195.209.81.197",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Чаваш ЕН",
     "ЮТВ Чебоксары"
@@ -2185,10 +2185,10 @@
   },
   {
    "host": "rt-vlg-kirov-htlive.cdn.ngenix.net",
-   "ip": "212.193.157.245",
+   "ip": "195.209.81.201",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Первый городской (Киров)",
     "Первый городской (Гомель)"
@@ -2197,7 +2197,7 @@
   },
   {
    "host": "rt-vlg-kzn-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.200",
+   "ip": "195.209.81.197",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "OOO Sovremennye setevye tekhnologii",
@@ -2211,10 +2211,10 @@
   },
   {
    "host": "rt-vlg-nn-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.197",
+   "ip": "212.193.153.147",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "LLC NGENIX",
    "channels": [
     "Волга",
     "Дзержинск ТВ"
@@ -2223,10 +2223,10 @@
   },
   {
    "host": "rt-vlg-orb-htlive.cdn.ngenix.net",
-   "ip": "46.235.189.204",
+   "ip": "195.209.81.200",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "NGENIX network",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "ОРТ-Планета (Оренбург)",
     "Евразия",
@@ -2236,10 +2236,10 @@
   },
   {
    "host": "rt-vlg-samara-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.197",
+   "ip": "212.193.153.142",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "LLC NGENIX",
    "channels": [
     "КТВ-Луч (Сызрань)",
     "Тольятти 24"
@@ -2248,7 +2248,7 @@
   },
   {
    "host": "rt-vlg-saratov-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.200",
+   "ip": "195.209.81.201",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "OOO Sovremennye setevye tekhnologii",
@@ -2261,10 +2261,10 @@
   },
   {
    "host": "rt-vlg-srnk-htlive.cdn.ngenix.net",
-   "ip": "212.193.153.145",
+   "ip": "46.235.189.195",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "NGENIX network",
    "channels": [
     "ТВС (Саранск)",
     "НТМ"
@@ -2273,7 +2273,7 @@
   },
   {
    "host": "rt-vlg-yola-htlive.cdn.ngenix.net",
-   "ip": "195.209.88.204",
+   "ip": "195.209.81.201",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "OOO Sovremennye setevye tekhnologii",
@@ -2295,7 +2295,7 @@
   },
   {
    "host": "s14131.cdn.ngenix.net",
-   "ip": "195.209.81.205",
+   "ip": "195.209.81.201",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "OOO Sovremennye setevye tekhnologii",
@@ -2307,10 +2307,10 @@
   },
   {
    "host": "s14553.cdn.ngenix.net",
-   "ip": "212.193.153.153",
+   "ip": "46.235.186.252",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "Network for NGENIX",
    "channels": [
     "ОТВ (Сахалин)"
    ],
@@ -2318,10 +2318,10 @@
   },
   {
    "host": "s20441.cdn.ngenix.net",
-   "ip": "195.209.81.205",
+   "ip": "212.193.153.145",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "LLC NGENIX",
    "channels": [
     "Известия HD"
    ],
@@ -2329,7 +2329,7 @@
   },
   {
    "host": "s34351.cdn.ngenix.net",
-   "ip": "195.209.81.197",
+   "ip": "195.209.81.205",
    "country": "Russian Federation",
    "cc": "RU",
    "org": "OOO Sovremennye setevye tekhnologii",
@@ -2341,10 +2341,10 @@
   },
   {
    "host": "s45177.cdn.ngenix.net",
-   "ip": "212.193.155.252",
+   "ip": "195.209.82.196",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Шаян ТВ (Татарстан)",
     "Учалы ТВ",
@@ -2365,10 +2365,10 @@
   },
   {
    "host": "s68149.cdn.ngenix.net",
-   "ip": "212.193.157.77",
+   "ip": "46.235.189.145",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "NGENIX network",
    "channels": [
     "Губерния (Самара)"
    ],
@@ -2376,10 +2376,10 @@
   },
   {
    "host": "s84942.cdn.ngenix.net",
-   "ip": "212.193.153.132",
+   "ip": "195.209.81.205",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "Город 24"
    ],
@@ -2387,10 +2387,10 @@
   },
   {
    "host": "s91030.cdn.ngenix.net",
-   "ip": "212.193.153.147",
+   "ip": "195.209.81.200",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "OOO Sovremennye setevye tekhnologii",
    "channels": [
     "25 регион (Владивосток)",
     "8 канал (Владивосток)",
@@ -2401,10 +2401,10 @@
   },
   {
    "host": "s97982.cdn.ngenix.net",
-   "ip": "212.193.153.159",
+   "ip": "46.235.186.252",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "LLC NGENIX",
+   "org": "Network for NGENIX",
    "channels": [
     "6 ТВ"
    ],
@@ -2641,10 +2641,10 @@
   },
   {
    "host": "tvhope.cdnvideo.ru",
-   "ip": "46.42.187.65",
+   "ip": "151.236.77.65",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "PJSC Vimpelcom",
+   "org": "CDNvideo LLC",
    "channels": [
     "Надежда HD"
    ],
@@ -2678,10 +2678,10 @@
   },
   {
    "host": "tw2ywfm7jbp.a.trbcdn.net",
-   "ip": "151.236.103.94",
+   "ip": "46.42.187.93",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "CDNvideo LLC",
+   "org": "PJSC Vimpelcom",
    "channels": [
     "Колыма-Плюс"
    ],
@@ -2751,10 +2751,10 @@
   },
   {
    "host": "zabava-htlive.cdn.ngenix.net",
-   "ip": "195.209.81.205",
+   "ip": "212.193.153.145",
    "country": "Russian Federation",
    "cc": "RU",
-   "org": "OOO Sovremennye setevye tekhnologii",
+   "org": "LLC NGENIX",
    "channels": [
     "Пятница ★",
     "2x2",

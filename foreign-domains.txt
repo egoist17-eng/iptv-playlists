@@ -28,10 +28,10 @@ BY   ngtrk.dc.beltelecom.by                 93.85.87.6       4   Republican Unit
 CL   5ff3d9babae13.streamlock.net           138.255.103.12   1   GRUPO ZGH SPA
      каналы: Sextavision (18+)
 CZ   212.102.38.45                          212.102.38.45    4   Datacamp Limited
-     каналы: Extasy 4K, babes tvporn, desire, rk tv
-CZ   ocko-live-dash.ssl.cdn.cra.cz          84.17.61.38      1   Datacamp Limited
+     каналы: babes tvporn, desire, extasy 4k, rk tv
+CZ   ocko-live-dash.ssl.cdn.cra.cz          143.244.32.63    1   Datacamp Limited
      каналы: Óčko Black
-CZ   ocko-live.ssl.cdn.cra.cz               84.17.61.39      3   Datacamp Limited
+CZ   ocko-live.ssl.cdn.cra.cz               87.249.131.123   3   Datacamp Limited
      каналы: Óčko, Óčko Expres, Óčko Star
 CZ   stream.mediawork.cz                    194.145.180.74   1   ServerNow s.r.o.
      каналы: Retro Music
@@ -45,8 +45,16 @@ DE   media.boni-records.com                 81.169.145.88    1   STRATO AG
      каналы: Music Channel
 DE   mts1.iptv-playoutcenter.de             178.248.243.56   1   Network Whq GmbH
      каналы: More Than Sports TV
-DK   2-fss-1.streamhoster.com               65.9.106.31      1   Amazon.com, Inc.
+DK   2-fss-1.streamhoster.com               65.9.106.59      1   Amazon.com, Inc.
      каналы: One
+DK   amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv 65.9.106.123     1   Amazon.com, Inc.
+     каналы: CGTN
+DK   amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv 3.174.18.93      1   Amazon.com, Inc.
+     каналы: CNBC
+DK   amg01131-tracetv-traceurban-glewed-g705j.amagi.tv 65.9.106.15      1   Amazon.com, Inc.
+     каналы: Trace Urban
+DK   tv-trthaber.medya.trt.com.tr           18.173.5.77      1   Amazon.com, Inc.
+     каналы: TRT Haber
 GE   178.134.1.158                          178.134.1.158    4   JSC Silknet
      каналы: Пятый канал Int., Eurosport 1 HD, Eurosport 2 HD, More Than Sports TV [DE]
 GE   85.117.37.43                           85.117.37.43     3   Caucasus Online Ltd.
@@ -59,7 +67,7 @@ KG   176.126.166.43                         176.126.166.43   3   Hoster Kg, Ltd.
      каналы: 312 Кино ★, 312 Кино, 312 Музыка
 KG   212.2.225.30                           212.2.225.30     1   Servers
      каналы: TV1 KG HD (Кыргызстан)
-KZ   abaitv-stream.qazcdn.com               89.223.4.147     1   NLS ASTANA LLP
+KZ   abaitv-stream.qazcdn.com               89.223.4.210     1   NLS ASTANA LLP
      каналы: Abai TV
 KZ   fs.uplink.kz                           109.248.236.51   77  Uplink LLC
      каналы: TV1000 Кино ★, viju TV1000 Русское ★, viju TV1000 ★, TV1000 (доп. источник) ★, Amedia Hit HD ★, Amedia Premium HD ★
@@ -75,36 +83,26 @@ NL   92.114.85.87                           92.114.85.87     1   DediFix BV
      каналы: redlight
 NL   cdn.zionmediait.com                    107.6.136.150    1   Unity Technologies SF
      каналы: Tamilan TV
-NL   ciner.daioncdn.net                     178.162.172.32   1   LeaseWeb Netherlands B.V.
-     каналы: Bloomberg HT
 NL   kinowalk.hopto.org                     194.146.38.201   5   O.M.C. COMPUTERS & COMMUNICATIONS LTD
      каналы: KinoJam ★, Киноман ★, film4khdLIVE, KinoJam, Киноман
 SE   164475.gvideo.io                       80.240.113.62    1   G-Core Labs Customer assignment
      каналы: TBN Armenia
-SE   a-cdn.klowdtv.com                      23.53.32.44      1   Akamai Technologies, Inc.
+SE   a-cdn.klowdtv.com                      213.155.157.216  1   Arelion Sweden AB
      каналы: Nautical Channel
 SE   aegis-cloudfront-1.tubi.video          13.249.8.115     1   Amazon.com, Inc.
      каналы: Love Nature 4K
-SE   amdlive.ctnd.com.edgesuite.net         23.53.32.42      1   Akamai Technologies, Inc.
+SE   amdlive.ctnd.com.edgesuite.net         213.155.157.59   1   Arelion Sweden AB
      каналы: Arirang
-SE   amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv 65.9.62.36       1   Amazon.com, Inc.
-     каналы: CGTN
-SE   amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv 3.174.2.108      1   Amazon.com, Inc.
-     каналы: CNBC
-SE   amg01131-tracetv-traceurban-glewed-g705j.amagi.tv 65.9.46.78       1   Amazon.com, Inc.
-     каналы: Trace Urban
-SE   live.france24.com                      23.53.32.96      1   Akamai Technologies, Inc.
+SE   live.france24.com                      213.155.157.187  1   Arelion Sweden AB
      каналы: France 24 English
-SE   lotus.stingray.com                     143.204.238.62   1   Amazon.com, Inc.
+SE   lotus.stingray.com                     143.204.238.94   1   Amazon.com, Inc.
      каналы: Stingray Classica
-SE   ott.tv5monde.com                       23.53.32.46      1   Akamai Technologies, Inc.
+SE   ott.tv5monde.com                       213.155.157.203  1   Arelion Sweden AB
      каналы: TV5 Monde Europe
-SE   rmtv.akamaized.net                     23.53.32.56      1   Akamai Technologies, Inc.
+SE   rmtv.akamaized.net                     213.155.157.184  1   Arelion Sweden AB
      каналы: Real Madrid
-SE   streams2.sofast.tv                     23.53.32.56      1   Akamai Technologies, Inc.
+SE   streams2.sofast.tv                     213.155.157.195  1   Arelion Sweden AB
      каналы: Bollywood 4U
-SE   tv-trthaber.medya.trt.com.tr           13.249.8.81      1   Amazon.com, Inc.
-     каналы: TRT Haber
 SK   88.212.15.50                           88.212.15.50     2   ANTIK Telecom s.r.o
      каналы: Дом кино (доп. источник), Music Box Sexy (18+)
 SK   88.212.7.14                            88.212.7.14      4   ANTIK Telecom s.r.o
@@ -119,6 +117,8 @@ TJ   185.121.1.163                          185.121.1.163    5   LLC Isatel Taji
      каналы: TV1000 HD (185.121) ★, TV1000 Русское HD (185.121) ★, TV1000 HD (185.121), TV1000 Русское HD (185.121), Охота и рыбалка (доп. источник)
 TM   217.174.225.146                        217.174.225.146  1   Point-to-Points links
      каналы: Turkmen Sport
+TR   ciner.daioncdn.net                     195.244.39.164   1   Netdirekt A.S.
+     каналы: Bloomberg HT
 UA   193.33.39.108                          193.33.39.108    2   LTD ITLUX
      каналы: hustler, private tv
 UA   195.189.60.253                         195.189.60.253   2   Oleksandr Melnyk
@@ -135,7 +135,7 @@ US   bloomberg.com                          3.33.146.110     1   Amazon Technolo
      каналы: Bloomberg
 US   jmp2.uk                                104.21.63.33     1   Cloudflare, Inc.
      каналы: ducktv
-US   stream.ads.ottera.tv                   100.30.62.129    2   Amazon Data Services Northern Virginia
+US   stream.ads.ottera.tv                   100.60.56.246    2   Amazon Data Services Northern Virginia
      каналы: Star Cinema, Stingray Naturescape
 
 
@@ -149,7 +149,7 @@ RU   194.143.148.28                         194.143.148.28   2   BAIKAL TELECOM 
 RU   194.26.229.213                         194.26.229.213   2   AEZA GROUP Ltd
 RU   1tvtula.ru                             5.164.24.83      1   CJSC ER-Telecom Holding Tula branch
 RU   217.114.191.150                        217.114.191.150  1   Tele-plus LLC
-RU   27trk.iptv2022.com                     194.35.49.2      1   Lime HD LLC
+RU   27trk.iptv2022.com                     194.35.48.58     1   Lime HD LLC
 RU   31.148.5.241                           31.148.5.241     7   Telecommunication Union Ltd.
 RU   31.148.6.9                             31.148.6.9       1   Promyshlennaya Avtomatika Ltd.
 RU   31.210.208.171                         31.210.208.171   14  JSC KVANT-TELEKOM
@@ -170,108 +170,108 @@ RU   cdntv.online                           80.78.240.139    2   Reg.Ru Hosting
 RU   cityeden.catcast.tv                    109.248.201.39   28  Contel OOO
 RU   dagestan.mediacdn.ru                   95.181.182.182   1   EdgeCenter LLC
 RU   dancehits80.denvs.ru                   144.31.201.45    1   nuxtcloud
-RU   devyatka.iptv2022.com                  194.35.48.58     1   Lime HD LLC
+RU   devyatka.iptv2022.com                  194.35.49.2      1   Lime HD LLC
 RU   donmedia.bonus-tv.ru                   95.181.182.182   2   EdgeCenter LLC
 RU   e10-ll.facecast.net                    46.254.94.238    2   KB Rubin Ltd.
 RU   edge-tv-ll.facecast.io                 185.40.155.13    1   Cluster LLC
 RU   flussonic.mkpnet.ru                    176.118.130.21   19  Orgtechservice Ltd
-RU   hls-rictv.cdnvideo.ru                  151.236.72.193   1   CDNvideo LLC
-RU   hls-sibinformburo.cdnvideo.ru          151.236.89.161   1   CDNvideo LLC
-RU   hls-tvsoyuz.cdnvideo.ru                46.42.187.65     3   PJSC Vimpelcom
-RU   hls-volgograd1vtv.cdnvideo.ru          151.236.72.193   1   CDNvideo LLC
-RU   hls.mirtv.cdnvideo.ru                  151.236.69.73    2   CDNvideo LLC
-RU   hls.peers.tv                           195.189.238.18   1   Inetra LLC
+RU   hls-rictv.cdnvideo.ru                  151.236.66.161   1   CDNvideo LLC
+RU   hls-sibinformburo.cdnvideo.ru          151.236.72.193   1   CDNvideo LLC
+RU   hls-tvsoyuz.cdnvideo.ru                151.236.72.193   3   CDNvideo LLC
+RU   hls-volgograd1vtv.cdnvideo.ru          151.236.69.65    1   CDNvideo LLC
+RU   hls.mirtv.cdnvideo.ru                  151.236.66.167   2   CDNvideo LLC
+RU   hls.peers.tv                           195.189.238.22   1   Inetra LLC
 RU   hls.tv.3angels.ru                      91.232.135.159   1   Advanced Solutions LLC
-RU   hls.tva.cdnvideo.ru                    151.236.77.65    1   CDNvideo LLC
+RU   hls.tva.cdnvideo.ru                    151.236.69.65    1   CDNvideo LLC
 RU   iam-profi.ru                           95.213.129.138   1   JSC Selectel
 RU   igi-hls.cdnvideo.ru                    151.236.89.162   1   CDNvideo LLC
 RU   ingushetia.mediacdn.ru                 95.181.182.182   1   EdgeCenter LLC
-RU   jz2lo90hnpy.a.trbcdn.net               151.236.103.94   1   CDNvideo LLC
+RU   jz2lo90hnpy.a.trbcdn.net               151.236.66.189   1   CDNvideo LLC
 RU   live-3.otcnet.ru                       194.190.78.80    2   LLC Ostankino Telecom
 RU   live-4.otcnet.ru                       194.190.78.95    2   LLC Ostankino Telecom
-RU   live-bigasia.cdnvideo.ru               151.236.89.97    2   CDNvideo LLC
-RU   live-mordovia24.cdnvideo.ru            46.42.187.98     1   PJSC Vimpelcom
-RU   live-nntv2.cdnvideo.ru                 151.236.89.97    1   CDNvideo LLC
+RU   live-bigasia.cdnvideo.ru               151.236.77.65    2   CDNvideo LLC
+RU   live-mordovia24.cdnvideo.ru            151.236.89.162   1   CDNvideo LLC
+RU   live-nntv2.cdnvideo.ru                 46.42.187.65     1   PJSC Vimpelcom
 RU   live-rian.cdnvideo.ru                  151.236.77.65    1   CDNvideo LLC
-RU   live-saha.cdnvideo.ru                  151.236.77.65    4   CDNvideo LLC
+RU   live-saha.cdnvideo.ru                  46.42.187.65     4   PJSC Vimpelcom
 RU   live-tdk42kz.cdnvideo.ru               151.236.69.65    1   CDNvideo LLC
-RU   live-tolknews.cdnvideo.ru              151.236.72.193   1   CDNvideo LLC
-RU   live-topspb-geo.cdnvideo.ru            46.42.187.97     2   PJSC Vimpelcom
+RU   live-tolknews.cdnvideo.ru              151.236.66.161   1   CDNvideo LLC
+RU   live-topspb-geo.cdnvideo.ru            151.236.69.65    2   CDNvideo LLC
 RU   live-tvhope.cdnvideo.ru                151.236.89.161   1   CDNvideo LLC
-RU   live-tvkrasnodar-soc.cdnvideo.ru       46.42.187.97     1   PJSC Vimpelcom
-RU   live-tvkrasnodar.cdnvideo.ru           46.42.187.97     2   PJSC Vimpelcom
+RU   live-tvkrasnodar-soc.cdnvideo.ru       151.236.72.193   1   CDNvideo LLC
+RU   live-tvkrasnodar.cdnvideo.ru           46.42.187.65     2   PJSC Vimpelcom
 RU   live-ugratv.cdnvideo.ru                151.236.89.161   1   CDNvideo LLC
-RU   live-uvelirochka.cdnvideo.ru           46.42.187.65     1   PJSC Vimpelcom
-RU   live-vestinn.cdnvideo.ru               151.236.69.66    1   CDNvideo LLC
-RU   live-vgtrksmotrim.cdnvideo.ru          151.236.103.66   3   CDNvideo LLC
+RU   live-uvelirochka.cdnvideo.ru           151.236.69.65    1   CDNvideo LLC
+RU   live-vestinn.cdnvideo.ru               151.236.72.194   1   CDNvideo LLC
+RU   live-vgtrksmotrim.cdnvideo.ru          151.236.69.66    3   CDNvideo LLC
 RU   live.mediacdn.ru                       83.222.205.26    1   PJSC MegaFon
-RU   live.stranafm.cdnvideo.ru              151.236.77.65    1   CDNvideo LLC
+RU   live.stranafm.cdnvideo.ru              151.236.66.161   1   CDNvideo LLC
 RU   mhd122.iptv2022.com                    212.188.11.73    1   MTS PJSC
 RU   mirbelogorya.ru                        194.190.30.202   1   Belrts LTD
 RU   old.tomsk-time.ru                      176.120.29.54    1   Bw Operations Llc.
 RU   online.guberniya.tv                    80.90.191.65     1   lease for Timeweb
-RU   online.video.rbc.ru                    80.68.253.122    1   ROSBUSINESSCONSULTING JSC
+RU   online.video.rbc.ru                    80.68.253.120    1   ROSBUSINESSCONSULTING JSC
 RU   origin5.mediacdn.ru                    83.222.205.65    2   PJSC MegaFon
-RU   peqk71plnjy.a.trbcdn.net               151.236.103.94   1   CDNvideo LLC
+RU   peqk71plnjy.a.trbcdn.net               151.236.66.189   1   CDNvideo LLC
 RU   prodvizhenie.bonus-tv.ru               95.181.182.182   1   EdgeCenter LLC
 RU   public.streaming.matur-tv.ru           82.202.246.201   1   Selectel
-RU   qcpdqumitwf.a.trbcdn.net               151.236.103.72   1   CDNvideo LLC
+RU   qcpdqumitwf.a.trbcdn.net               91.231.238.143   1   CDNvideo LLC
 RU   radm.mediacdn.ru                       95.181.182.182   1   EdgeCenter LLC
-RU   rt-ct-ivan-htlive.cdn.ngenix.net       195.209.81.201   2   OOO Sovremennye setevye tekhnologii
-RU   rt-ct-kaluga-htlive.cdn.ngenix.net     212.193.153.159  1   LLC NGENIX
-RU   rt-ct-lipetsk-htlive.cdn.ngenix.net    195.209.90.198   1   OOO Sovremennye setevye tekhnologii
-RU   rt-ct-orl-htlive.cdn.ngenix.net        212.193.153.147  2   LLC NGENIX
-RU   rt-ct-ryaz-htlive.cdn.ngenix.net       212.193.155.252  1   LLC NGENIX
-RU   rt-ct-tamb-htlive.cdn.ngenix.net       212.193.153.132  1   LLC NGENIX
-RU   rt-ct-vlad-htlive.cdn.ngenix.net       212.193.155.252  2   LLC NGENIX
-RU   rt-ct-yarl-htlive.cdn.ngenix.net       212.193.153.132  3   LLC NGENIX
+RU   rt-ct-ivan-htlive.cdn.ngenix.net       212.193.153.149  2   LLC NGENIX
+RU   rt-ct-kaluga-htlive.cdn.ngenix.net     46.235.189.196   1   NGENIX network
+RU   rt-ct-lipetsk-htlive.cdn.ngenix.net    93.93.89.147     1   NGENIX network
+RU   rt-ct-orl-htlive.cdn.ngenix.net        46.235.186.252   2   Network for NGENIX
+RU   rt-ct-ryaz-htlive.cdn.ngenix.net       212.193.157.251  1   LLC NGENIX
+RU   rt-ct-tamb-htlive.cdn.ngenix.net       195.209.81.201   1   OOO Sovremennye setevye tekhnologii
+RU   rt-ct-vlad-htlive.cdn.ngenix.net       212.193.153.147  2   LLC NGENIX
+RU   rt-ct-yarl-htlive.cdn.ngenix.net       195.209.81.200   3   OOO Sovremennye setevye tekhnologii
 RU   rt-doc.rttv.com                        178.176.128.128  1   PJSC MegaFon
 RU   rt-glb.rttv.com                        178.176.128.128  1   PJSC MegaFon
-RU   rt-mos-htlive.cdn.ngenix.net           93.93.89.147     1   NGENIX network
-RU   rt-nw-arkh-htlive.cdn.ngenix.net       212.193.155.242  1   LLC NGENIX
-RU   rt-nw-klgr-htlive.cdn.ngenix.net       195.209.81.200   2   OOO Sovremennye setevye tekhnologii
-RU   rt-nw-komi-htlive.cdn.ngenix.net       195.209.81.201   1   OOO Sovremennye setevye tekhnologii
-RU   rt-nw-murm-htlive.cdn.ngenix.net       212.193.155.242  1   LLC NGENIX
-RU   rt-nw-novg-htlive.cdn.ngenix.net       212.193.155.242  1   LLC NGENIX
-RU   rt-nw-pzav-htlive.cdn.ngenix.net       212.193.153.145  1   LLC NGENIX
-RU   rt-nw-spb-htlive.cdn.ngenix.net        195.209.88.198   3   OOO Sovremennye setevye tekhnologii
-RU   rt-sib-abakan-htlive.cdn.ngenix.net    195.209.81.205   2   OOO Sovremennye setevye tekhnologii
-RU   rt-sib-bul-htlive.cdn.ngenix.net       195.209.81.201   2   OOO Sovremennye setevye tekhnologii
-RU   rt-sib-irk-htlive.cdn.ngenix.net       46.235.189.195   4   NGENIX network
-RU   rt-sib-krsk-htlive.cdn.ngenix.net      212.193.153.159  2   LLC NGENIX
-RU   rt-sib-nsk-htlive.cdn.ngenix.net       195.209.81.197   2   OOO Sovremennye setevye tekhnologii
-RU   rt-sib-omsk-htlive.cdn.ngenix.net      195.209.81.197   2   OOO Sovremennye setevye tekhnologii
+RU   rt-mos-htlive.cdn.ngenix.net           46.235.186.252   1   Network for NGENIX
+RU   rt-nw-arkh-htlive.cdn.ngenix.net       195.209.88.204   1   OOO Sovremennye setevye tekhnologii
+RU   rt-nw-klgr-htlive.cdn.ngenix.net       212.193.155.252  2   LLC NGENIX
+RU   rt-nw-komi-htlive.cdn.ngenix.net       212.193.153.145  1   LLC NGENIX
+RU   rt-nw-murm-htlive.cdn.ngenix.net       93.93.89.156     1   NGENIX network
+RU   rt-nw-novg-htlive.cdn.ngenix.net       212.193.153.153  1   LLC NGENIX
+RU   rt-nw-pzav-htlive.cdn.ngenix.net       212.193.157.245  1   LLC NGENIX
+RU   rt-nw-spb-htlive.cdn.ngenix.net        93.93.89.141     3   NGENIX network
+RU   rt-sib-abakan-htlive.cdn.ngenix.net    46.235.186.252   2   Network for NGENIX
+RU   rt-sib-bul-htlive.cdn.ngenix.net       212.193.157.247  2   LLC NGENIX
+RU   rt-sib-irk-htlive.cdn.ngenix.net       195.209.81.201   4   OOO Sovremennye setevye tekhnologii
+RU   rt-sib-krsk-htlive.cdn.ngenix.net      212.193.155.252  2   LLC NGENIX
+RU   rt-sib-nsk-htlive.cdn.ngenix.net       195.209.88.204   2   OOO Sovremennye setevye tekhnologii
+RU   rt-sib-omsk-htlive.cdn.ngenix.net      46.235.189.202   2   NGENIX network
 RU   rt-sib-tomsk-htlive.cdn.ngenix.net     212.193.155.252  1   LLC NGENIX
-RU   rt-sib-uude-htlive.cdn.ngenix.net      212.193.153.147  2   LLC NGENIX
-RU   rt-sth-krdar-htlive.cdn.ngenix.net     212.193.153.132  1   LLC NGENIX
-RU   rt-sth-stavr-htlive.cdn.ngenix.net     195.209.81.201   1   OOO Sovremennye setevye tekhnologii
+RU   rt-sib-uude-htlive.cdn.ngenix.net      46.235.189.195   2   NGENIX network
+RU   rt-sth-krdar-htlive.cdn.ngenix.net     46.235.189.195   1   NGENIX network
+RU   rt-sth-stavr-htlive.cdn.ngenix.net     195.209.81.205   1   OOO Sovremennye setevye tekhnologii
 RU   rt-sth-vgrad-htlive.cdn.ngenix.net     46.235.189.204   2   NGENIX network
-RU   rt-ural-chel-htlive.cdn.ngenix.net     195.209.81.200   4   OOO Sovremennye setevye tekhnologii
-RU   rt-ural-ekt-htlive.cdn.ngenix.net      46.235.186.244   5   Network for NGENIX
-RU   rt-ural-nbk-htlive.cdn.ngenix.net      46.235.186.252   1   Network for NGENIX
-RU   rt-ural-sur-htlive.cdn.ngenix.net      195.209.90.202   4   OOO Sovremennye setevye tekhnologii
-RU   rt-ural-tum-htlive.cdn.ngenix.net      46.235.189.202   1   NGENIX network
-RU   rt-vlg-chr-htlive.cdn.ngenix.net       212.193.153.149  2   LLC NGENIX
+RU   rt-ural-chel-htlive.cdn.ngenix.net     195.209.81.201   4   OOO Sovremennye setevye tekhnologii
+RU   rt-ural-ekt-htlive.cdn.ngenix.net      195.209.90.202   5   OOO Sovremennye setevye tekhnologii
+RU   rt-ural-nbk-htlive.cdn.ngenix.net      195.209.88.204   1   OOO Sovremennye setevye tekhnologii
+RU   rt-ural-sur-htlive.cdn.ngenix.net      46.235.186.252   4   Network for NGENIX
+RU   rt-ural-tum-htlive.cdn.ngenix.net      195.209.81.205   1   OOO Sovremennye setevye tekhnologii
+RU   rt-vlg-chr-htlive.cdn.ngenix.net       195.209.81.197   2   OOO Sovremennye setevye tekhnologii
 RU   rt-vlg-izhsk-htlive.cdn.ngenix.net     46.235.189.195   1   NGENIX network
-RU   rt-vlg-kirov-htlive.cdn.ngenix.net     212.193.157.245  2   LLC NGENIX
-RU   rt-vlg-kzn-htlive.cdn.ngenix.net       195.209.81.200   4   OOO Sovremennye setevye tekhnologii
-RU   rt-vlg-nn-htlive.cdn.ngenix.net        195.209.81.197   2   OOO Sovremennye setevye tekhnologii
-RU   rt-vlg-orb-htlive.cdn.ngenix.net       46.235.189.204   3   NGENIX network
-RU   rt-vlg-samara-htlive.cdn.ngenix.net    195.209.81.197   2   OOO Sovremennye setevye tekhnologii
-RU   rt-vlg-saratov-htlive.cdn.ngenix.net   195.209.81.200   3   OOO Sovremennye setevye tekhnologii
-RU   rt-vlg-srnk-htlive.cdn.ngenix.net      212.193.153.145  2   LLC NGENIX
-RU   rt-vlg-yola-htlive.cdn.ngenix.net      195.209.88.204   1   OOO Sovremennye setevye tekhnologii
+RU   rt-vlg-kirov-htlive.cdn.ngenix.net     195.209.81.201   2   OOO Sovremennye setevye tekhnologii
+RU   rt-vlg-kzn-htlive.cdn.ngenix.net       195.209.81.197   4   OOO Sovremennye setevye tekhnologii
+RU   rt-vlg-nn-htlive.cdn.ngenix.net        212.193.153.147  2   LLC NGENIX
+RU   rt-vlg-orb-htlive.cdn.ngenix.net       195.209.81.200   3   OOO Sovremennye setevye tekhnologii
+RU   rt-vlg-samara-htlive.cdn.ngenix.net    212.193.153.142  2   LLC NGENIX
+RU   rt-vlg-saratov-htlive.cdn.ngenix.net   195.209.81.201   3   OOO Sovremennye setevye tekhnologii
+RU   rt-vlg-srnk-htlive.cdn.ngenix.net      46.235.189.195   2   NGENIX network
+RU   rt-vlg-yola-htlive.cdn.ngenix.net      195.209.81.201   1   OOO Sovremennye setevye tekhnologii
 RU   s1.gtrkrb.ru                           109.233.169.137  1   TTK Ufa
-RU   s14131.cdn.ngenix.net                  195.209.81.205   2   OOO Sovremennye setevye tekhnologii
-RU   s14553.cdn.ngenix.net                  212.193.153.153  1   LLC NGENIX
-RU   s20441.cdn.ngenix.net                  195.209.81.205   1   OOO Sovremennye setevye tekhnologii
-RU   s34351.cdn.ngenix.net                  195.209.81.197   2   OOO Sovremennye setevye tekhnologii
-RU   s45177.cdn.ngenix.net                  212.193.155.252  3   LLC NGENIX
+RU   s14131.cdn.ngenix.net                  195.209.81.201   2   OOO Sovremennye setevye tekhnologii
+RU   s14553.cdn.ngenix.net                  46.235.186.252   1   Network for NGENIX
+RU   s20441.cdn.ngenix.net                  212.193.153.145  1   LLC NGENIX
+RU   s34351.cdn.ngenix.net                  195.209.81.205   2   OOO Sovremennye setevye tekhnologii
+RU   s45177.cdn.ngenix.net                  195.209.82.196   3   OOO Sovremennye setevye tekhnologii
 RU   s55766.cdn.ngenix.net                  46.235.184.36    1   Network for NGENIX, Moscow Rostelecom
-RU   s68149.cdn.ngenix.net                  212.193.157.77   1   LLC NGENIX
-RU   s84942.cdn.ngenix.net                  212.193.153.132  1   LLC NGENIX
-RU   s91030.cdn.ngenix.net                  212.193.153.147  4   LLC NGENIX
-RU   s97982.cdn.ngenix.net                  212.193.153.159  1   LLC NGENIX
+RU   s68149.cdn.ngenix.net                  46.235.189.145   1   NGENIX network
+RU   s84942.cdn.ngenix.net                  195.209.81.205   1   OOO Sovremennye setevye tekhnologii
+RU   s91030.cdn.ngenix.net                  195.209.81.200   4   OOO Sovremennye setevye tekhnologii
+RU   s97982.cdn.ngenix.net                  46.235.186.252   1   Network for NGENIX
 RU   serv24.vintera.tv                      87.239.25.62     1   INETCOM CARRIER LLC
 RU   serv25.vintera.tv                      87.239.24.166    2   INETCOM CARRIER LLC
 RU   serv30.vintera.tv                      87.239.25.62     3   INETCOM CARRIER LLC
@@ -291,13 +291,13 @@ RU   tele2dvrnat01-02.cdnvideo.ru           151.236.72.218   5   CDNvideo LLC
 RU   tv-streaming.bsh.ru                    82.194.228.158   1   Scientific-Production Enterprise Busines
 RU   tv.tuva.ru                             94.230.250.141   1   Joint Stock Company Tyvasviazinform
 RU   tvchannelstream1.tvzvezda.ru           95.181.182.182   2   EdgeCenter LLC
-RU   tvhope.cdnvideo.ru                     46.42.187.65     1   PJSC Vimpelcom
+RU   tvhope.cdnvideo.ru                     151.236.77.65    1   CDNvideo LLC
 RU   tvoetv.space                           84.38.180.145    5   Selectel Network
 RU   tvspas.mediacdn.ru                     95.181.182.182   1   EdgeCenter LLC
-RU   tw2ywfm7jbp.a.trbcdn.net               151.236.103.94   1   CDNvideo LLC
+RU   tw2ywfm7jbp.a.trbcdn.net               46.42.187.93     1   PJSC Vimpelcom
 RU   utv.iptv2022.com                       194.35.49.2      1   Lime HD LLC
 RU   v.dzertv.ru                            82.208.120.4     1   PJSC Rostelecom
 RU   v4.proofix.ru                          212.233.98.62    3   VK Cloud Solutions
 RU   vd.obltv.ru                            185.93.108.123   1   Internet-Pro LLC
 RU   vod.tuva.ru                            94.230.250.140   6   Joint Stock Company Tyvasviazinform
-RU   zabava-htlive.cdn.ngenix.net           195.209.81.205   67  OOO Sovremennye setevye tekhnologii
+RU   zabava-htlive.cdn.ngenix.net           212.193.153.145  67  LLC NGENIX
