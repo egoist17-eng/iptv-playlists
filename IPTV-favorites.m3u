@@ -37,7 +37,7 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="ch0018-amediapremiumhd" group-title="Избранное",Amedia Premium HD ★
 https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0019-bcupremiere2hd" group-title="Избранное",BCU Premiere 2 HD ★
+#EXTINF:-1 tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="454087" group-title="Избранное",BCU Premiere 2 HD ★
 https://live.uspeh.my/8473/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 tvg-name="Дом кино" tvg-id="7383" group-title="Избранное",Дом Кино ★
 https://streaming.thestream.cyou/live/44.m3u8
@@ -101,7 +101,7 @@ https://vod.tuva.ru/nauka2/index.m3u8
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-name="312 Кино" tvg-id="575897" group-title="Избранное",312 Кино ★
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0051-vijuhd" group-title="Избранное",viju+ Премиера HD ★
+#EXTINF:-1 tvg-name="Viju+ Premiere" tvg-id="45669" group-title="Избранное",viju+ Премиера HD ★
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 #EXTINF:-1 tvg-name="Еврокино" tvg-id="7680" group-title="Избранное",Еврокино ★
 http://176.118.197.101/Evrokino/index.m3u8

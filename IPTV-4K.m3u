@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz"
 #PLAYLIST:4K
-#EXTINF:-1 tvg-id="ch0001-travelxp4kczechia" group-title="4K",Travelxp 4K Czechia
+#EXTINF:-1 tvg-name="Travel XP 4K" tvg-id="6963" group-title="4K",Travelxp 4K Czechia
 http://88.212.7.14/live/travel_xp_4k/index.m3u8
-#EXTINF:-1 tvg-id="ch0002-eurosport4kczechia" group-title="4K",Eurosport 4K Czechia
+#EXTINF:-1 tvg-name="Eurosport 4K" tvg-id="6355" group-title="4K",Eurosport 4K Czechia
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="ch0003-hebeitv4k" group-title="4K",Hebei TV 4K
 https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-name="Home 4K" tvg-id="6307" group-title="4K",Home 4K
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0005-lovenature4kczechia" group-title="4K",Love Nature 4K Czechia
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-id="489428" group-title="4K",Love Nature 4K Czechia
 http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="ch0006-public4ktvhd" group-title="4K",Public 4K TV HD
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
