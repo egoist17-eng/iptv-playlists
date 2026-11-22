@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:TEST 5 - official CDN
-#EXTINF:-1 tvg-id="ch001-hd" group-title="Федеральные РФ",НТВ HD
-https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="ch001-ntv" group-title="Федеральные РФ",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="ch002-ch" group-title="Федеральные РФ",СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="ch003-1" group-title="Федеральные РФ",Россия 1
