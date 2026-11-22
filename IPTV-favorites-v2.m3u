@@ -1,10 +1,10 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz"
 #PLAYLIST:Избранное
 #EXTINF:-1 tvg-id="ch0001-tv1000" group-title="Избранное",TV1000 Кино ★
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0002-vijutv1000" group-title="Избранное",viju TV1000 Русское ★
+#EXTINF:-1 tvg-id="6665" group-title="Избранное",viju TV1000 Русское ★
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0003-vijutv1000" group-title="Избранное",viju TV1000 ★
+#EXTINF:-1 tvg-id="6427" group-title="Избранное",viju TV1000 ★
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="ch0004-tv1000flussonic" group-title="Избранное",TV1000 (flussonic) ★
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
@@ -12,26 +12,26 @@ https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="ch0006-tv1000flussonic" group-title="Избранное",TV1000 Кино (flussonic) ★
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 tvg-id="ch0007-vijutv1000action" group-title="Избранное",viju TV1000 Action ★
+#EXTINF:-1 tvg-id="7054" group-title="Избранное",viju TV1000 Action ★
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 tvg-id="ch0008-vijutv1000romanticahd" group-title="Избранное",Viju TV1000 Romantica HD ★
+#EXTINF:-1 tvg-id="403331" group-title="Избранное",Viju TV1000 Romantica HD ★
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 tvg-id="ch0009-tv1000hd185121" group-title="Избранное",TV1000 HD (185.121) ★
 http://185.121.1.163:8083/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="ch0010-tv1000hd185121" group-title="Избранное",TV1000 Русское HD (185.121) ★
 http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
-#EXTINF:-1 tvg-id="ch0011-ch" group-title="Избранное",Пятница ★
+#EXTINF:-1 tvg-id="7129" group-title="Избранное",Пятница ★
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0012-hd" group-title="Избранное",ТНТ HD ★
+#EXTINF:-1 tvg-id="6280" group-title="Избранное",ТНТ HD ★
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
-#EXTINF:-1 tvg-id="ch0013-ch" group-title="Избранное",СТС ★
+#EXTINF:-1 tvg-id="7125" group-title="Избранное",СТС ★
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="ch0014-ch" group-title="Избранное",КиноСезон ★
+#EXTINF:-1 tvg-id="7782" group-title="Избранное",КиноСезон ★
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-id="ch0015-ch" group-title="Избранное",Советское кино ★
+#EXTINF:-1 tvg-id="20809" group-title="Избранное",Советское кино ★
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-id="ch0016-ch" group-title="Избранное",Охотник и рыболов ★
+#EXTINF:-1 tvg-id="6416" group-title="Избранное",Охотник и рыболов ★
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 tvg-id="ch0017-amediahithd" group-title="Избранное",Amedia Hit HD ★
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
@@ -39,81 +39,81 @@ https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="ch0019-bcupremiere2hd" group-title="Избранное",BCU Premiere 2 HD ★
 https://live.uspeh.my/8473/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0020-ch" group-title="Избранное",Дом Кино ★
+#EXTINF:-1 tvg-id="7383" group-title="Избранное",Дом Кино ★
 https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:-1 tvg-id="ch0021-hd" group-title="Избранное",Дом кино Премиум HD ★
+#EXTINF:-1 tvg-id="6813" group-title="Избранное",Дом кино Премиум HD ★
 https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0022-ch" group-title="Избранное",КиноХит ★
+#EXTINF:-1 tvg-id="6128" group-title="Избранное",КиноХит ★
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0023-ch" group-title="Избранное",Кинокомедия ★
+#EXTINF:-1 tvg-id="7358" group-title="Избранное",Кинокомедия ★
 https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0024-ch" group-title="Избранное",Киномикс ★
+#EXTINF:-1 tvg-id="5996" group-title="Избранное",Киномикс ★
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0025-hd" group-title="Избранное",Кинопремьера HD ★
+#EXTINF:-1 tvg-id="6864" group-title="Избранное",Кинопремьера HD ★
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0026-ch" group-title="Избранное",Киносвидание ★
+#EXTINF:-1 tvg-id="5858" group-title="Избранное",Киносвидание ★
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0027-ch" group-title="Избранное",Киносемья ★
+#EXTINF:-1 tvg-id="6878" group-title="Избранное",Киносемья ★
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="ch0028-ch" group-title="Избранное",Киносерия ★
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0029-ch" group-title="Избранное",Киноужас ★
+#EXTINF:-1 tvg-id="7789" group-title="Избранное",Киноужас ★
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0030-hd" group-title="Избранное",Мир сериала HD ★
+#EXTINF:-1 tvg-id="6612" group-title="Избранное",Мир сериала HD ★
 https://live.uspeh.my/8662/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0031-ch" group-title="Избранное",Мужское кино ★
+#EXTINF:-1 tvg-id="6320" group-title="Избранное",Мужское кино ★
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0032-ch" group-title="Избранное",Наше новое кино ★
+#EXTINF:-1 tvg-id="7270" group-title="Избранное",Наше новое кино ★
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0033-ch" group-title="Избранное",Сити Эдем - КиноАзия ★
+#EXTINF:-1 tvg-id="540383" group-title="Избранное",Сити Эдем - КиноАзия ★
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 tvg-id="ch0034-ch" group-title="Избранное",Сити Эдем - КиноАрт ★
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 tvg-id="ch0035-ch" group-title="Избранное",Сити Эдем - КиноДетектив ★
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="ch0036-ch" group-title="Избранное",Феникс+ Кино ★
+#EXTINF:-1 tvg-id="6402" group-title="Избранное",Феникс+ Кино ★
 https://live.uspeh.my/8412/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 tvg-id="ch0037-ch" group-title="Избранное",Сити Эдем - КиноДок ★
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="ch0038-ch" group-title="Избранное",Сити Эдем - КиноДрама ★
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="ch0039-ch" group-title="Избранное",Сити Эдем - КиноКлассика ★
+#EXTINF:-1 tvg-id="526202" group-title="Избранное",Сити Эдем - КиноКлассика ★
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 tvg-id="ch0040-ch" group-title="Избранное",Сити Эдем - КиноКомедия ★
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="ch0041-ch" group-title="Избранное",Сити Эдем - КиноМистика ★
+#EXTINF:-1 tvg-id="528603" group-title="Избранное",Сити Эдем - КиноМистика ★
 https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="ch0042-ch" group-title="Избранное",Сити Эдем - КиноФантастика ★
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="ch0043-ch" group-title="Избранное",Сити Эдем - КиноЭкшен ★
+#EXTINF:-1 tvg-id="454425" group-title="Избранное",Сити Эдем - КиноЭкшен ★
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="ch0044-ch" group-title="Избранное",ТНТ ★
+#EXTINF:-1 tvg-id="6280" group-title="Избранное",ТНТ ★
 http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1 tvg-id="ch0045-natgeowild" group-title="Избранное",Nat Geo Wild ★
+#EXTINF:-1 tvg-id="6700" group-title="Избранное",Nat Geo Wild ★
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0046-nationalgeographic" group-title="Избранное",National Geographic ★
+#EXTINF:-1 tvg-id="6303" group-title="Избранное",National Geographic ★
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0047-ch" group-title="Избранное",Домашние животные ★
+#EXTINF:-1 tvg-id="5783" group-title="Избранное",Домашние животные ★
 https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0048-ch" group-title="Избранное",Наука ★
+#EXTINF:-1 tvg-id="5810" group-title="Избранное",Наука ★
 https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 tvg-id="ch0049-24" group-title="Избранное",Техно 24 ★
+#EXTINF:-1 tvg-id="7128" group-title="Избранное",Техно 24 ★
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0050-312" group-title="Избранное",312 Кино ★
+#EXTINF:-1 tvg-id="575897" group-title="Избранное",312 Кино ★
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="ch0051-vijuhd" group-title="Избранное",viju+ Премиера HD ★
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
-#EXTINF:-1 tvg-id="ch0052-ch" group-title="Избранное",Еврокино ★
+#EXTINF:-1 tvg-id="7680" group-title="Избранное",Еврокино ★
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 tvg-id="ch0053-ch" group-title="Избранное",Индийское кино ★
+#EXTINF:-1 tvg-id="5886" group-title="Избранное",Индийское кино ★
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="ch0054-hd" group-title="Избранное",Кино ТВ HD ★
 http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0055-ch" group-title="Избранное",Кинопоказ ★
+#EXTINF:-1 tvg-id="7350" group-title="Избранное",Кинопоказ ★
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="ch0056-ch" group-title="Избранное",Родное кино ★
+#EXTINF:-1 tvg-id="7143" group-title="Избранное",Родное кино ★
 http://31.210.208.171:8080/rodnoe_kino/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0057-cinema" group-title="Избранное",Cinema ★
+#EXTINF:-1 tvg-id="7629" group-title="Избранное",Cinema ★
 http://85.117.61.84/cinema/index.m3u8
 #EXTINF:-1 tvg-id="ch0058-internet42" group-title="Избранное",Дом Кино (Internet42) ★
 http://176.118.197.101/Dom_kino/index.m3u8
@@ -125,15 +125,15 @@ http://185.46.16.239:8000/Kino_TV
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="ch0062-ch" group-title="Избранное",Кинокомедия (Инет) ★
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 tvg-id="ch0063-hd" group-title="Избранное",Кинокомедия HD ★
+#EXTINF:-1 tvg-id="7358" group-title="Избранное",Кинокомедия HD ★
 http://31.210.208.171:8080/kinokomedia/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="ch0064-internet42" group-title="Избранное",Киномикс (Internet42) ★
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 tvg-id="ch0065-ch" group-title="Избранное",Киномикс (Инет) ★
 http://185.46.16.239:8000/Fox_Life_HD
-#EXTINF:-1 tvg-id="ch0066-hd" group-title="Избранное",Киномикс HD ★
+#EXTINF:-1 tvg-id="5996" group-title="Избранное",Киномикс HD ★
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0067-hd" group-title="Избранное",Кинопоказ HD ★
+#EXTINF:-1 tvg-id="7350" group-title="Избранное",Кинопоказ HD ★
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="ch0068-internet42" group-title="Избранное",Киносерия (Internet42) ★
 http://176.118.197.101/Kinoseria/index.m3u8
@@ -141,7 +141,7 @@ http://176.118.197.101/Kinoseria/index.m3u8
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 tvg-id="ch0070-internet42" group-title="Избранное",Родное кино (Internet42) ★
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-id="ch0071-kinojam" group-title="Избранное",KinoJam ★
+#EXTINF:-1 tvg-id="581923" group-title="Избранное",KinoJam ★
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-id="ch0072-ch" group-title="Избранное",Киноман ★
 http://kinowalk.hopto.org/kinomania_stream_live
@@ -151,39 +151,39 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 tvg-id="ch0075-ch" group-title="Избранное",Сити Эдем - АвтоГид ★
 https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-id="ch0076-ch" group-title="Избранное",Охота и рыбалка ★
+#EXTINF:-1 tvg-id="5814" group-title="Избранное",Охота и рыбалка ★
 http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="ch0077-play" group-title="Избранное",Сити Эдем - Бирма Play ★
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 tvg-id="ch0078-ch" group-title="Избранное",Сити Эдем - Сиртаки ТВ ★
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="ch0079-boxfantasyhd" group-title="Избранное",BOX Fantasy HD ★
+#EXTINF:-1 tvg-id="496895" group-title="Избранное",BOX Fantasy HD ★
 https://live.uspeh.my/8430/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 tvg-id="ch0080-fridayinternational" group-title="Избранное",Friday! International ★
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0081-ch" group-title="Избранное",Иллюзион ★
+#EXTINF:-1 tvg-id="5802" group-title="Избранное",Иллюзион ★
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0082-ch" group-title="Избранное",Русский Иллюзион ★
+#EXTINF:-1 tvg-id="6114" group-title="Избранное",Русский Иллюзион ★
 https://live.uspeh.my/8132/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0083-bollywood" group-title="Избранное",Bollywood ★
+#EXTINF:-1 tvg-id="7094" group-title="Избранное",Bollywood ★
 https://live.uspeh.my/8240/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0084-hollywood" group-title="Избранное",Hollywood ★
+#EXTINF:-1 tvg-id="5951" group-title="Избранное",Hollywood ★
 https://live.uspeh.my/8651/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 tvg-id="ch0085-viasatnature" group-title="Избранное",Viasat Nature ★
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 tvg-id="ch0086-ch" group-title="Избранное",Дорама ★
+#EXTINF:-1 tvg-id="5995" group-title="Избранное",Дорама ★
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0087-ch" group-title="Избранное",Живи Активно ★
+#EXTINF:-1 tvg-id="6718" group-title="Избранное",Живи Активно ★
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 tvg-id="ch0088-ch" group-title="Избранное",Моя планета ★
+#EXTINF:-1 tvg-id="6724" group-title="Избранное",Моя планета ★
 https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0089-hd" group-title="Избранное",Иллюзион+ HD ★
+#EXTINF:-1 tvg-id="5802" group-title="Избранное",Иллюзион+ HD ★
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-id="ch0090-ch" group-title="Избранное",Драйв ★
+#EXTINF:-1 tvg-id="6522" group-title="Избранное",Драйв ★
 http://185.46.16.239:8000/Drayv
-#EXTINF:-1 tvg-id="ch0091-ch" group-title="Избранное",Живая планета ★
+#EXTINF:-1 tvg-id="172309" group-title="Избранное",Живая планета ★
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 tvg-id="ch0092-ch" group-title="Избранное",Кухня ТВ ★
+#EXTINF:-1 tvg-id="6897" group-title="Избранное",Кухня ТВ ★
 http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0093-ch" group-title="Избранное",Ретро ★
+#EXTINF:-1 tvg-id="6998" group-title="Избранное",Ретро ★
 http://176.118.197.101/Retro/index.m3u8

@@ -1,10 +1,10 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_RU.xml.gz"
 #PLAYLIST:IPTV FINAL - all verified
 #EXTINF:-1 tvg-id="ch0001-tv1000" group-title="Избранное",TV1000 Кино ★
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0002-vijutv1000" group-title="Избранное",viju TV1000 Русское ★
+#EXTINF:-1 tvg-id="6665" group-title="Избранное",viju TV1000 Русское ★
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0003-vijutv1000" group-title="Избранное",viju TV1000 ★
+#EXTINF:-1 tvg-id="6427" group-title="Избранное",viju TV1000 ★
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="ch0004-tv1000flussonic" group-title="Избранное",TV1000 (flussonic) ★
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
@@ -12,26 +12,26 @@ https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="ch0006-tv1000flussonic" group-title="Избранное",TV1000 Кино (flussonic) ★
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 tvg-id="ch0007-vijutv1000action" group-title="Избранное",viju TV1000 Action ★
+#EXTINF:-1 tvg-id="7054" group-title="Избранное",viju TV1000 Action ★
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 tvg-id="ch0008-vijutv1000romanticahd" group-title="Избранное",Viju TV1000 Romantica HD ★
+#EXTINF:-1 tvg-id="403331" group-title="Избранное",Viju TV1000 Romantica HD ★
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 tvg-id="ch0009-tv1000hd185121" group-title="Избранное",TV1000 HD (185.121) ★
 http://185.121.1.163:8083/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="ch0010-tv1000hd185121" group-title="Избранное",TV1000 Русское HD (185.121) ★
 http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
-#EXTINF:-1 tvg-id="ch0011-ch" group-title="Избранное",Пятница ★
+#EXTINF:-1 tvg-id="7129" group-title="Избранное",Пятница ★
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0012-hd" group-title="Избранное",ТНТ HD ★
+#EXTINF:-1 tvg-id="6280" group-title="Избранное",ТНТ HD ★
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
-#EXTINF:-1 tvg-id="ch0013-ch" group-title="Избранное",СТС ★
+#EXTINF:-1 tvg-id="7125" group-title="Избранное",СТС ★
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="ch0014-ch" group-title="Избранное",КиноСезон ★
+#EXTINF:-1 tvg-id="7782" group-title="Избранное",КиноСезон ★
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-id="ch0015-ch" group-title="Избранное",Советское кино ★
+#EXTINF:-1 tvg-id="20809" group-title="Избранное",Советское кино ★
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-id="ch0016-ch" group-title="Избранное",Охотник и рыболов ★
+#EXTINF:-1 tvg-id="6416" group-title="Избранное",Охотник и рыболов ★
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 tvg-id="ch0017-amediahithd" group-title="Избранное",Amedia Hit HD ★
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
@@ -39,81 +39,81 @@ https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="ch0019-bcupremiere2hd" group-title="Избранное",BCU Premiere 2 HD ★
 https://live.uspeh.my/8473/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0020-ch" group-title="Избранное",Дом Кино ★
+#EXTINF:-1 tvg-id="7383" group-title="Избранное",Дом Кино ★
 https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:-1 tvg-id="ch0021-hd" group-title="Избранное",Дом кино Премиум HD ★
+#EXTINF:-1 tvg-id="6813" group-title="Избранное",Дом кино Премиум HD ★
 https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0022-ch" group-title="Избранное",КиноХит ★
+#EXTINF:-1 tvg-id="6128" group-title="Избранное",КиноХит ★
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0023-ch" group-title="Избранное",Кинокомедия ★
+#EXTINF:-1 tvg-id="7358" group-title="Избранное",Кинокомедия ★
 https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0024-ch" group-title="Избранное",Киномикс ★
+#EXTINF:-1 tvg-id="5996" group-title="Избранное",Киномикс ★
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0025-hd" group-title="Избранное",Кинопремьера HD ★
+#EXTINF:-1 tvg-id="6864" group-title="Избранное",Кинопремьера HD ★
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0026-ch" group-title="Избранное",Киносвидание ★
+#EXTINF:-1 tvg-id="5858" group-title="Избранное",Киносвидание ★
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0027-ch" group-title="Избранное",Киносемья ★
+#EXTINF:-1 tvg-id="6878" group-title="Избранное",Киносемья ★
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="ch0028-ch" group-title="Избранное",Киносерия ★
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0029-ch" group-title="Избранное",Киноужас ★
+#EXTINF:-1 tvg-id="7789" group-title="Избранное",Киноужас ★
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0030-hd" group-title="Избранное",Мир сериала HD ★
+#EXTINF:-1 tvg-id="6612" group-title="Избранное",Мир сериала HD ★
 https://live.uspeh.my/8662/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0031-ch" group-title="Избранное",Мужское кино ★
+#EXTINF:-1 tvg-id="6320" group-title="Избранное",Мужское кино ★
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0032-ch" group-title="Избранное",Наше новое кино ★
+#EXTINF:-1 tvg-id="7270" group-title="Избранное",Наше новое кино ★
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0033-ch" group-title="Избранное",Сити Эдем - КиноАзия ★
+#EXTINF:-1 tvg-id="540383" group-title="Избранное",Сити Эдем - КиноАзия ★
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 tvg-id="ch0034-ch" group-title="Избранное",Сити Эдем - КиноАрт ★
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 tvg-id="ch0035-ch" group-title="Избранное",Сити Эдем - КиноДетектив ★
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="ch0036-ch" group-title="Избранное",Феникс+ Кино ★
+#EXTINF:-1 tvg-id="6402" group-title="Избранное",Феникс+ Кино ★
 https://live.uspeh.my/8412/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 tvg-id="ch0037-ch" group-title="Избранное",Сити Эдем - КиноДок ★
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="ch0038-ch" group-title="Избранное",Сити Эдем - КиноДрама ★
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="ch0039-ch" group-title="Избранное",Сити Эдем - КиноКлассика ★
+#EXTINF:-1 tvg-id="526202" group-title="Избранное",Сити Эдем - КиноКлассика ★
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 tvg-id="ch0040-ch" group-title="Избранное",Сити Эдем - КиноКомедия ★
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="ch0041-ch" group-title="Избранное",Сити Эдем - КиноМистика ★
+#EXTINF:-1 tvg-id="528603" group-title="Избранное",Сити Эдем - КиноМистика ★
 https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="ch0042-ch" group-title="Избранное",Сити Эдем - КиноФантастика ★
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="ch0043-ch" group-title="Избранное",Сити Эдем - КиноЭкшен ★
+#EXTINF:-1 tvg-id="454425" group-title="Избранное",Сити Эдем - КиноЭкшен ★
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="ch0044-ch" group-title="Избранное",ТНТ ★
+#EXTINF:-1 tvg-id="6280" group-title="Избранное",ТНТ ★
 http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1 tvg-id="ch0045-natgeowild" group-title="Избранное",Nat Geo Wild ★
+#EXTINF:-1 tvg-id="6700" group-title="Избранное",Nat Geo Wild ★
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0046-nationalgeographic" group-title="Избранное",National Geographic ★
+#EXTINF:-1 tvg-id="6303" group-title="Избранное",National Geographic ★
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0047-ch" group-title="Избранное",Домашние животные ★
+#EXTINF:-1 tvg-id="5783" group-title="Избранное",Домашние животные ★
 https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0048-ch" group-title="Избранное",Наука ★
+#EXTINF:-1 tvg-id="5810" group-title="Избранное",Наука ★
 https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 tvg-id="ch0049-24" group-title="Избранное",Техно 24 ★
+#EXTINF:-1 tvg-id="7128" group-title="Избранное",Техно 24 ★
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0050-312" group-title="Избранное",312 Кино ★
+#EXTINF:-1 tvg-id="575897" group-title="Избранное",312 Кино ★
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="ch0051-vijuhd" group-title="Избранное",viju+ Премиера HD ★
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
-#EXTINF:-1 tvg-id="ch0052-ch" group-title="Избранное",Еврокино ★
+#EXTINF:-1 tvg-id="7680" group-title="Избранное",Еврокино ★
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 tvg-id="ch0053-ch" group-title="Избранное",Индийское кино ★
+#EXTINF:-1 tvg-id="5886" group-title="Избранное",Индийское кино ★
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="ch0054-hd" group-title="Избранное",Кино ТВ HD ★
 http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0055-ch" group-title="Избранное",Кинопоказ ★
+#EXTINF:-1 tvg-id="7350" group-title="Избранное",Кинопоказ ★
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="ch0056-ch" group-title="Избранное",Родное кино ★
+#EXTINF:-1 tvg-id="7143" group-title="Избранное",Родное кино ★
 http://31.210.208.171:8080/rodnoe_kino/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0057-cinema" group-title="Избранное",Cinema ★
+#EXTINF:-1 tvg-id="7629" group-title="Избранное",Cinema ★
 http://85.117.61.84/cinema/index.m3u8
 #EXTINF:-1 tvg-id="ch0058-internet42" group-title="Избранное",Дом Кино (Internet42) ★
 http://176.118.197.101/Dom_kino/index.m3u8
@@ -125,15 +125,15 @@ http://185.46.16.239:8000/Kino_TV
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="ch0062-ch" group-title="Избранное",Кинокомедия (Инет) ★
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 tvg-id="ch0063-hd" group-title="Избранное",Кинокомедия HD ★
+#EXTINF:-1 tvg-id="7358" group-title="Избранное",Кинокомедия HD ★
 http://31.210.208.171:8080/kinokomedia/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="ch0064-internet42" group-title="Избранное",Киномикс (Internet42) ★
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 tvg-id="ch0065-ch" group-title="Избранное",Киномикс (Инет) ★
 http://185.46.16.239:8000/Fox_Life_HD
-#EXTINF:-1 tvg-id="ch0066-hd" group-title="Избранное",Киномикс HD ★
+#EXTINF:-1 tvg-id="5996" group-title="Избранное",Киномикс HD ★
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0067-hd" group-title="Избранное",Кинопоказ HD ★
+#EXTINF:-1 tvg-id="7350" group-title="Избранное",Кинопоказ HD ★
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="ch0068-internet42" group-title="Избранное",Киносерия (Internet42) ★
 http://176.118.197.101/Kinoseria/index.m3u8
@@ -141,7 +141,7 @@ http://176.118.197.101/Kinoseria/index.m3u8
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 tvg-id="ch0070-internet42" group-title="Избранное",Родное кино (Internet42) ★
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-id="ch0071-kinojam" group-title="Избранное",KinoJam ★
+#EXTINF:-1 tvg-id="581923" group-title="Избранное",KinoJam ★
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-id="ch0072-ch" group-title="Избранное",Киноман ★
 http://kinowalk.hopto.org/kinomania_stream_live
@@ -151,1338 +151,1348 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 tvg-id="ch0075-ch" group-title="Избранное",Сити Эдем - АвтоГид ★
 https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-id="ch0076-ch" group-title="Избранное",Охота и рыбалка ★
+#EXTINF:-1 tvg-id="5814" group-title="Избранное",Охота и рыбалка ★
 http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="ch0077-play" group-title="Избранное",Сити Эдем - Бирма Play ★
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 tvg-id="ch0078-ch" group-title="Избранное",Сити Эдем - Сиртаки ТВ ★
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="ch0079-boxfantasyhd" group-title="Избранное",BOX Fantasy HD ★
+#EXTINF:-1 tvg-id="496895" group-title="Избранное",BOX Fantasy HD ★
 https://live.uspeh.my/8430/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 tvg-id="ch0080-fridayinternational" group-title="Избранное",Friday! International ★
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0081-ch" group-title="Избранное",Иллюзион ★
+#EXTINF:-1 tvg-id="5802" group-title="Избранное",Иллюзион ★
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0082-ch" group-title="Избранное",Русский Иллюзион ★
+#EXTINF:-1 tvg-id="6114" group-title="Избранное",Русский Иллюзион ★
 https://live.uspeh.my/8132/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0083-bollywood" group-title="Избранное",Bollywood ★
+#EXTINF:-1 tvg-id="7094" group-title="Избранное",Bollywood ★
 https://live.uspeh.my/8240/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0084-hollywood" group-title="Избранное",Hollywood ★
+#EXTINF:-1 tvg-id="5951" group-title="Избранное",Hollywood ★
 https://live.uspeh.my/8651/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 tvg-id="ch0085-viasatnature" group-title="Избранное",Viasat Nature ★
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 tvg-id="ch0086-ch" group-title="Избранное",Дорама ★
+#EXTINF:-1 tvg-id="5995" group-title="Избранное",Дорама ★
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0087-ch" group-title="Избранное",Живи Активно ★
+#EXTINF:-1 tvg-id="6718" group-title="Избранное",Живи Активно ★
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 tvg-id="ch0088-ch" group-title="Избранное",Моя планета ★
+#EXTINF:-1 tvg-id="6724" group-title="Избранное",Моя планета ★
 https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0089-hd" group-title="Избранное",Иллюзион+ HD ★
+#EXTINF:-1 tvg-id="5802" group-title="Избранное",Иллюзион+ HD ★
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-id="ch0090-ch" group-title="Избранное",Драйв ★
+#EXTINF:-1 tvg-id="6522" group-title="Избранное",Драйв ★
 http://185.46.16.239:8000/Drayv
-#EXTINF:-1 tvg-id="ch0091-ch" group-title="Избранное",Живая планета ★
+#EXTINF:-1 tvg-id="172309" group-title="Избранное",Живая планета ★
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 tvg-id="ch0092-ch" group-title="Избранное",Кухня ТВ ★
+#EXTINF:-1 tvg-id="6897" group-title="Избранное",Кухня ТВ ★
 http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0093-ch" group-title="Избранное",Ретро ★
+#EXTINF:-1 tvg-id="6998" group-title="Избранное",Ретро ★
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 tvg-id="ch0094-home4k" group-title="4K",Home 4K
+#EXTINF:-1 tvg-id="ch0094-travelxp4kczechia" group-title="4K",Travelxp 4K Czechia
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
+#EXTINF:-1 tvg-id="ch0095-eurosport4kczechia" group-title="4K",Eurosport 4K Czechia
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="ch0096-hebeitv4k" group-title="4K",Hebei TV 4K
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-id="6307" group-title="4K",Home 4K
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0095-ultra4kextreme" group-title="4K",Ultra 4K Extreme
+#EXTINF:-1 tvg-id="ch0098-lovenature4kczechia" group-title="4K",Love Nature 4K Czechia
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="ch0099-public4ktvhd" group-title="4K",Public 4K TV HD
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-id="ch0100-ultra4kextreme" group-title="4K",Ultra 4K Extreme
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
-#EXTINF:-1 tvg-id="ch0096-film4khdlive" group-title="4K",film4khdLIVE
+#EXTINF:-1 tvg-id="ch0101-film4khdlive" group-title="4K",film4khdLIVE
 http://kinowalk.hopto.org/film4khdclub_live
-#EXTINF:-1 tvg-id="ch0097-2x2" group-title="Федеральные РФ",2x2
+#EXTINF:-1 tvg-id="7103" group-title="Федеральные РФ",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0098-ch" group-title="Федеральные РФ",Звезда
+#EXTINF:-1 tvg-id="6463" group-title="Федеральные РФ",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0099-ch" group-title="Федеральные РФ",Карусель
+#EXTINF:-1 tvg-id="7570" group-title="Федеральные РФ",Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0100-ch" group-title="Федеральные РФ",МИР
+#EXTINF:-1 tvg-id="7565" group-title="Федеральные РФ",МИР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="ch0101-24hd" group-title="Федеральные РФ",Москва 24 HD
+#EXTINF:-1 tvg-id="6088" group-title="Федеральные РФ",Москва 24 HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
-#EXTINF:-1 tvg-id="ch0102-ch" group-title="Федеральные РФ",НТВ
+#EXTINF:-1 tvg-id="5926" group-title="Федеральные РФ",НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0103-ch" group-title="Федеральные РФ",Пятница
+#EXTINF:-1 tvg-id="7129" group-title="Федеральные РФ",Пятница
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0104-1" group-title="Федеральные РФ",Россия 1
+#EXTINF:-1 tvg-id="ch0109-1" group-title="Федеральные РФ",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="ch0105-24" group-title="Федеральные РФ",Россия 24
+#EXTINF:-1 tvg-id="5960" group-title="Федеральные РФ",Россия 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 tvg-id="ch0106-ch" group-title="Федеральные РФ",Россия К
+#EXTINF:-1 tvg-id="6227" group-title="Федеральные РФ",Россия К
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0107-love" group-title="Федеральные РФ",СТС Love
+#EXTINF:-1 tvg-id="5993" group-title="Федеральные РФ",СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-id="ch0108-ch" group-title="Федеральные РФ",Суббота
+#EXTINF:-1 tvg-id="ch0113-ch" group-title="Федеральные РФ",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 tvg-id="ch0109-ch" group-title="Федеральные РФ",ТНТ
+#EXTINF:-1 tvg-id="6280" group-title="Федеральные РФ",ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0110-hd" group-title="Федеральные РФ",ТНТ HD
+#EXTINF:-1 tvg-id="6280" group-title="Федеральные РФ",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
-#EXTINF:-1 tvg-id="ch0111-4hd" group-title="Федеральные РФ",ТНТ4 HD
+#EXTINF:-1 tvg-id="5774" group-title="Федеральные РФ",ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
-#EXTINF:-1 tvg-id="ch0112-ch" group-title="Федеральные РФ",Домашний
+#EXTINF:-1 tvg-id="7334" group-title="Федеральные РФ",Домашний
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="ch0113-ch" group-title="Федеральные РФ",Пятый канал
+#EXTINF:-1 tvg-id="7236" group-title="Федеральные РФ",Пятый канал
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0114-ch" group-title="Федеральные РФ",СТС
+#EXTINF:-1 tvg-id="7125" group-title="Федеральные РФ",СТС
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="ch0115-3" group-title="Федеральные РФ",ТВ3
+#EXTINF:-1 tvg-id="7657" group-title="Федеральные РФ",ТВ3
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-id="ch0116-4" group-title="Федеральные РФ",ТНТ4
+#EXTINF:-1 tvg-id="5774" group-title="Федеральные РФ",ТНТ4
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0117-hd" group-title="Федеральные РФ",Звезда HD
+#EXTINF:-1 tvg-id="6463" group-title="Федеральные РФ",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="ch0118-24" group-title="Федеральные РФ",МИР 24ᴴᴰ
+#EXTINF:-1 tvg-id="ch0123-24" group-title="Федеральные РФ",МИР 24ᴴᴰ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0119-2x22" group-title="Федеральные РФ",2x2 (+2)
+#EXTINF:-1 tvg-id="6792" group-title="Федеральные РФ",2x2 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0120-2x24" group-title="Федеральные РФ",2x2 (+4)
+#EXTINF:-1 tvg-id="6790" group-title="Федеральные РФ",2x2 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0121-2x27" group-title="Федеральные РФ",2x2 (+7)
+#EXTINF:-1 tvg-id="6789" group-title="Федеральные РФ",2x2 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0122-2" group-title="Федеральные РФ",Домашний (+2)
+#EXTINF:-1 tvg-id="6973" group-title="Федеральные РФ",Домашний (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0123-4" group-title="Федеральные РФ",Домашний (+4)
+#EXTINF:-1 tvg-id="6975" group-title="Федеральные РФ",Домашний (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0124-7" group-title="Федеральные РФ",Домашний (+7)
+#EXTINF:-1 tvg-id="6976" group-title="Федеральные РФ",Домашний (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0125-2" group-title="Федеральные РФ",Звезда (+2)
+#EXTINF:-1 tvg-id="5914" group-title="Федеральные РФ",Звезда (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0126-4" group-title="Федеральные РФ",Звезда (+4)
+#EXTINF:-1 tvg-id="569360" group-title="Федеральные РФ",Звезда (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0127-7" group-title="Федеральные РФ",Звезда (+7)
+#EXTINF:-1 tvg-id="5916" group-title="Федеральные РФ",Звезда (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0128-2" group-title="Федеральные РФ",Карусель (+2)
+#EXTINF:-1 tvg-id="7286" group-title="Федеральные РФ",Карусель (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0129-4" group-title="Федеральные РФ",Карусель (+4)
+#EXTINF:-1 tvg-id="569364" group-title="Федеральные РФ",Карусель (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0130-7" group-title="Федеральные РФ",Карусель (+7)
+#EXTINF:-1 tvg-id="7288" group-title="Федеральные РФ",Карусель (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0131-2" group-title="Федеральные РФ",МИР (+2)
+#EXTINF:-1 tvg-id="7723" group-title="Федеральные РФ",МИР (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0132-4" group-title="Федеральные РФ",МИР (+4)
+#EXTINF:-1 tvg-id="7719" group-title="Федеральные РФ",МИР (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0133-7" group-title="Федеральные РФ",МИР (+7)
+#EXTINF:-1 tvg-id="7721" group-title="Федеральные РФ",МИР (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0134-2" group-title="Федеральные РФ",МУЗ-ТВ (+2)
+#EXTINF:-1 tvg-id="6859" group-title="Федеральные РФ",МУЗ-ТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0135-4" group-title="Федеральные РФ",МУЗ-ТВ (+4)
+#EXTINF:-1 tvg-id="6861" group-title="Федеральные РФ",МУЗ-ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0136-7" group-title="Федеральные РФ",МУЗ-ТВ (+7)
+#EXTINF:-1 tvg-id="6862" group-title="Федеральные РФ",МУЗ-ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0137-1" group-title="Федеральные РФ",НТВ (+1)
+#EXTINF:-1 tvg-id="7505" group-title="Федеральные РФ",НТВ (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0138-2" group-title="Федеральные РФ",НТВ (+2)
+#EXTINF:-1 tvg-id="7506" group-title="Федеральные РФ",НТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0139-4" group-title="Федеральные РФ",НТВ (+4)
+#EXTINF:-1 tvg-id="7508" group-title="Федеральные РФ",НТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0140-7" group-title="Федеральные РФ",НТВ (+7)
+#EXTINF:-1 tvg-id="7509" group-title="Федеральные РФ",НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0141-2" group-title="Федеральные РФ",РЕН ТВ (+2)
+#EXTINF:-1 tvg-id="5961" group-title="Федеральные РФ",РЕН ТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0142-4" group-title="Федеральные РФ",РЕН ТВ (+4)
+#EXTINF:-1 tvg-id="372100" group-title="Федеральные РФ",РЕН ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0143-7" group-title="Федеральные РФ",РЕН ТВ (+7)
+#EXTINF:-1 tvg-id="5962" group-title="Федеральные РФ",РЕН ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0144-12" group-title="Федеральные РФ",Россия 1 (+2)
+#EXTINF:-1 tvg-id="5901" group-title="Федеральные РФ",Россия 1 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0145-14" group-title="Федеральные РФ",Россия 1 (+4)
+#EXTINF:-1 tvg-id="5899" group-title="Федеральные РФ",Россия 1 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0146-15" group-title="Федеральные РФ",Россия 1 (+5)
+#EXTINF:-1 tvg-id="5900" group-title="Федеральные РФ",Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
-#EXTINF:-1 tvg-id="ch0147-17" group-title="Федеральные РФ",Россия 1 (+7)
+#EXTINF:-1 tvg-id="5898" group-title="Федеральные РФ",Россия 1 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0148-2" group-title="Федеральные РФ",СТС (+2)
+#EXTINF:-1 tvg-id="6423" group-title="Федеральные РФ",СТС (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0149-4" group-title="Федеральные РФ",СТС (+4)
+#EXTINF:-1 tvg-id="6425" group-title="Федеральные РФ",СТС (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0150-7" group-title="Федеральные РФ",СТС (+7)
+#EXTINF:-1 tvg-id="6426" group-title="Федеральные РФ",СТС (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0151-love2" group-title="Федеральные РФ",СТС Love (+2)
+#EXTINF:-1 tvg-id="6858" group-title="Федеральные РФ",СТС Love (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0152-love4" group-title="Федеральные РФ",СТС Love (+4)
+#EXTINF:-1 tvg-id="5928" group-title="Федеральные РФ",СТС Love (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0153-32" group-title="Федеральные РФ",ТВ3 (+2)
+#EXTINF:-1 tvg-id="7481" group-title="Федеральные РФ",ТВ3 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0154-34" group-title="Федеральные РФ",ТВ3 (+4)
+#EXTINF:-1 tvg-id="7733" group-title="Федеральные РФ",ТВ3 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0155-37" group-title="Федеральные РФ",ТВ3 (+7)
+#EXTINF:-1 tvg-id="7480" group-title="Федеральные РФ",ТВ3 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0156-2" group-title="Федеральные РФ",ТНТ (+2)
+#EXTINF:-1 tvg-id="5876" group-title="Федеральные РФ",ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0157-4" group-title="Федеральные РФ",ТНТ (+4)
+#EXTINF:-1 tvg-id="5880" group-title="Федеральные РФ",ТНТ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0158-7" group-title="Федеральные РФ",ТНТ (+7)
+#EXTINF:-1 tvg-id="5879" group-title="Федеральные РФ",ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0159-42" group-title="Федеральные РФ",ТНТ4 (+2)
+#EXTINF:-1 tvg-id="5946" group-title="Федеральные РФ",ТНТ4 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0160-44" group-title="Федеральные РФ",ТНТ4 (+4)
+#EXTINF:-1 tvg-id="6107" group-title="Федеральные РФ",ТНТ4 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0161-47" group-title="Федеральные РФ",ТНТ4 (+7)
+#EXTINF:-1 tvg-id="6108" group-title="Федеральные РФ",ТНТ4 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0162-ch" group-title="Федеральные РФ",Рен ТВ
+#EXTINF:-1 tvg-id="6295" group-title="Федеральные РФ",Рен ТВ
 #EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0163-2" group-title="Федеральные РФ",Первый канал +2
+#EXTINF:-1 tvg-id="579975" group-title="Федеральные РФ",Первый канал +2
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ch0164-2" group-title="Федеральные РФ",Пятый канал +2
+#EXTINF:-1 tvg-id="7007" group-title="Федеральные РФ",Пятый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0165-4" group-title="Федеральные РФ",Пятый канал +4
+#EXTINF:-1 tvg-id="7010" group-title="Федеральные РФ",Пятый канал +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0166-7" group-title="Федеральные РФ",Пятый канал +7
+#EXTINF:-1 tvg-id="7009" group-title="Федеральные РФ",Пятый канал +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0167-11" group-title="Федеральные РФ",Россия 1 (+1)
+#EXTINF:-1 tvg-id="5903" group-title="Федеральные РФ",Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="ch0168-13" group-title="Федеральные РФ",Россия 1 (+3)
+#EXTINF:-1 tvg-id="6705" group-title="Федеральные РФ",Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0169-242" group-title="Федеральные РФ",Россия 24 +2
+#EXTINF:-1 tvg-id="ch0174-242" group-title="Федеральные РФ",Россия 24 +2
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ch0170-2" group-title="Федеральные РФ",ТВ Центр +2
+#EXTINF:-1 tvg-id="6351" group-title="Федеральные РФ",ТВ Центр +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0171-4" group-title="Федеральные РФ",ТВ Центр +4
+#EXTINF:-1 tvg-id="7002" group-title="Федеральные РФ",ТВ Центр +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0172-7" group-title="Федеральные РФ",ТВ Центр +7
+#EXTINF:-1 tvg-id="7001" group-title="Федеральные РФ",ТВ Центр +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0173-ch" group-title="Федеральные РФ",Че!
+#EXTINF:-1 tvg-id="7409" group-title="Федеральные РФ",Че!
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 tvg-id="ch0174-ch" group-title="Федеральные РФ",Первый канал СНГ
+#EXTINF:-1 tvg-id="6817" group-title="Федеральные РФ",Первый канал СНГ
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="ch0175-ch" group-title="Федеральные РФ",Победа
+#EXTINF:-1 tvg-id="7660" group-title="Федеральные РФ",Победа
 https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 tvg-id="ch0176-kids" group-title="Федеральные РФ",СТС Kids
+#EXTINF:-1 tvg-id="7514" group-title="Федеральные РФ",СТС Kids
 https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0177-int" group-title="Федеральные РФ",Пятый канал Int.
+#EXTINF:-1 tvg-id="6158" group-title="Федеральные РФ",Пятый канал Int.
 http://178.134.1.158:8081/5channel/index.m3u8
-#EXTINF:-1 tvg-id="ch0178-ch" group-title="Федеральные РФ",Домашний (Инет)
+#EXTINF:-1 tvg-id="ch0183-ch" group-title="Федеральные РФ",Домашний (Инет)
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 tvg-id="ch0179-ch" group-title="Федеральные РФ",КАРУСЕЛЬ (Инет)
+#EXTINF:-1 tvg-id="ch0184-ch" group-title="Федеральные РФ",КАРУСЕЛЬ (Инет)
 http://185.46.16.239:8000/Karusel
-#EXTINF:-1 tvg-id="ch0180-ch" group-title="Федеральные РФ",Пятница (Инет)
+#EXTINF:-1 tvg-id="ch0185-ch" group-title="Федеральные РФ",Пятница (Инет)
 http://185.46.16.239:8000/Pyatnitsa
-#EXTINF:-1 tvg-id="ch0181-ch" group-title="Федеральные РФ",СТС (Инет)
+#EXTINF:-1 tvg-id="ch0186-ch" group-title="Федеральные РФ",СТС (Инет)
 http://185.46.16.239:8000/STS
-#EXTINF:-1 tvg-id="ch0182-3" group-title="Федеральные РФ",ТВ3 (Инет)
+#EXTINF:-1 tvg-id="ch0187-3" group-title="Федеральные РФ",ТВ3 (Инет)
 http://185.46.16.239:8000/TV3
-#EXTINF:-1 tvg-id="ch0183-ch" group-title="Федеральные РФ",ТНТ (Инет)
+#EXTINF:-1 tvg-id="ch0188-ch" group-title="Федеральные РФ",ТНТ (Инет)
 http://185.46.16.239:8000/TNT
-#EXTINF:-1 tvg-id="ch0184-24kz" group-title="4K",24 KZ
+#EXTINF:-1 tvg-id="ch0189-24kz" group-title="4K",24 KZ
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0185-lovenature4k" group-title="4K",Love Nature 4K
+#EXTINF:-1 tvg-id="489428" group-title="4K",Love Nature 4K
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0186-ch" group-title="Федеральные РФ",Драйв (Инет)
+#EXTINF:-1 tvg-id="ch0191-ch" group-title="Федеральные РФ",Драйв (Инет)
 http://185.46.16.239:8000/Drayv
-#EXTINF:-1 tvg-id="ch0187-mpeg2" group-title="Федеральные РФ",Ю (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0192-mpeg2" group-title="Федеральные РФ",Ю (Инет) [MPEG-2]
 http://185.46.16.239:8000/YU_TV
-#EXTINF:-1 tvg-id="ch0188-viasatsport" group-title="Спорт",Viasat Sport
+#EXTINF:-1 tvg-id="ch0193-viasatsport" group-title="Спорт",Viasat Sport
 http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
-#EXTINF:-1 tvg-id="ch0189-viasatsporthd" group-title="Спорт",Viasat Sport HD
+#EXTINF:-1 tvg-id="ch0194-viasatsporthd" group-title="Спорт",Viasat Sport HD
 http://46.53.200.153:7777/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="ch0190-realmadrid" group-title="Спорт",Real Madrid
+#EXTINF:-1 tvg-id="407519" group-title="Спорт",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 tvg-id="ch0191-5hd" group-title="Спорт",Беларусь 5 HD
+#EXTINF:-1 tvg-id="7836" group-title="Спорт",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0192-ch" group-title="Спорт",Матч!
+#EXTINF:-1 tvg-id="5755" group-title="Спорт",Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0193-ch" group-title="Спорт",Мото Драйв
+#EXTINF:-1 tvg-id="ch0198-ch" group-title="Спорт",Мото Драйв
 http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
-#EXTINF:-1 tvg-id="ch0194-ch" group-title="Спорт",Хоккей ТВ
+#EXTINF:-1 tvg-id="ch0199-ch" group-title="Спорт",Хоккей ТВ
 http://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0195-motorsportrevuehd" group-title="Спорт",Motor sport revue HD
+#EXTINF:-1 tvg-id="ch0200-motorsportrevuehd" group-title="Спорт",Motor sport revue HD
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0196-ch" group-title="Спорт",Матч! Игра
+#EXTINF:-1 tvg-id="6779" group-title="Спорт",Матч! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
-#EXTINF:-1 tvg-id="ch0197-extremesportschannel" group-title="Спорт",Extreme Sports Channel
+#EXTINF:-1 tvg-id="7263" group-title="Спорт",Extreme Sports Channel
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0198-ch" group-title="Спорт",Матч! Арена
+#EXTINF:-1 tvg-id="6273" group-title="Спорт",Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
-#EXTINF:-1 tvg-id="ch0199-ch" group-title="Спорт",Матч! Планета
+#EXTINF:-1 tvg-id="6621" group-title="Спорт",Матч! Планета
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0200-ch" group-title="Спорт",Сити Эдем - АвтоГид
+#EXTINF:-1 tvg-id="ch0205-ch" group-title="Спорт",Сити Эдем - АвтоГид
 https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-id="ch0201-astrakhanrusport" group-title="Спорт",Astrakhan.RU SPORT
+#EXTINF:-1 tvg-id="ch0206-astrakhanrusport" group-title="Спорт",Astrakhan.RU SPORT
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0202-canalmotor" group-title="Спорт",CANAL MOTOR
+#EXTINF:-1 tvg-id="ch0207-canalmotor" group-title="Спорт",CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="ch0203-eurosport1pl" group-title="Спорт",Eurosport 1 [PL]
+#EXTINF:-1 tvg-id="6085" group-title="Спорт",Eurosport 1 [PL]
 http://cdntv.online/high/47eurvkpm6/39.m3u8
-#EXTINF:-1 tvg-id="ch0204-trvpnsport1" group-title="Спорт",Tr VPN SPORT 1
+#EXTINF:-1 tvg-id="ch0209-trvpnsport1" group-title="Спорт",Tr VPN SPORT 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
-#EXTINF:-1 tvg-id="ch0205-eurosport1hd" group-title="Спорт",Eurosport 1 HD
+#EXTINF:-1 tvg-id="6819" group-title="Спорт",Eurosport 1 HD
 http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-id="ch0206-eurosport2hd" group-title="Спорт",Eurosport 2 HD
+#EXTINF:-1 tvg-id="44879" group-title="Спорт",Eurosport 2 HD
 http://178.134.1.158:8081/viasatsport/index.m3u8
-#EXTINF:-1 tvg-id="ch0207-setantasports2" group-title="Спорт",Setanta Sports 2
+#EXTINF:-1 tvg-id="ch0212-setantasports2" group-title="Спорт",Setanta Sports 2
 http://85.117.61.84/setanta2/index.m3u8
-#EXTINF:-1 tvg-id="ch0208-turkmensport" group-title="Спорт",Turkmen Sport
+#EXTINF:-1 tvg-id="ch0213-turkmensport" group-title="Спорт",Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="ch0209-ch" group-title="Спорт",Матч ТВ
+#EXTINF:-1 tvg-id="ch0214-ch" group-title="Спорт",Матч ТВ
 http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 tvg-id="ch0210-ch" group-title="Спорт",Матч! Страна
+#EXTINF:-1 tvg-id="ch0215-ch" group-title="Спорт",Матч! Страна
 http://31.210.208.171:8080/match_strana/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0211-2" group-title="Спорт",Матч! Футбол 2
+#EXTINF:-1 tvg-id="6150" group-title="Спорт",Матч! Футбол 2
 http://31.148.5.241/Match_Football_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0212-eurosport1en" group-title="Спорт",Eurosport 1 (EN)
+#EXTINF:-1 tvg-id="ch0217-eurosport1en" group-title="Спорт",Eurosport 1 (EN)
 http://85.117.37.43/eurosport1/index.m3u8
-#EXTINF:-1 tvg-id="ch0213-eurosport1hd" group-title="Спорт",Eurosport 1 HD (доп. источник)
+#EXTINF:-1 tvg-id="ch0218-eurosport1hd" group-title="Спорт",Eurosport 1 HD (доп. источник)
 http://31.148.5.241/Eurosport_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0214-eurosport2hd" group-title="Спорт",Eurosport 2 HD (доп. источник)
+#EXTINF:-1 tvg-id="ch0219-eurosport2hd" group-title="Спорт",Eurosport 2 HD (доп. источник)
 http://31.148.5.241/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0215-ch" group-title="Спорт",Матч ТВ (Инет)
+#EXTINF:-1 tvg-id="ch0220-ch" group-title="Спорт",Матч ТВ (Инет)
 http://185.46.16.239:8000/Match_TV
-#EXTINF:-1 tvg-id="ch0216-ch" group-title="Спорт",Матч! Арена (Инет)
+#EXTINF:-1 tvg-id="ch0221-ch" group-title="Спорт",Матч! Арена (Инет)
 http://185.46.16.239:8000/Match_Arena
-#EXTINF:-1 tvg-id="ch0217-ch" group-title="Спорт",Матч! Боец
+#EXTINF:-1 tvg-id="6577" group-title="Спорт",Матч! Боец
 http://31.210.208.171:8080/match_boec/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0218-eurosport1" group-title="Спорт",Матч! Бокс / Eurosport 1 (Инет)
+#EXTINF:-1 tvg-id="ch0223-eurosport1" group-title="Спорт",Матч! Бокс / Eurosport 1 (Инет)
 http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 tvg-id="ch0219-ch" group-title="Спорт",Матч! Игра (Инет)
+#EXTINF:-1 tvg-id="ch0224-ch" group-title="Спорт",Матч! Игра (Инет)
 http://185.46.16.239:8000/Match_Igra
-#EXTINF:-1 tvg-id="ch0220-alt" group-title="Спорт",Матч! Игра alt
+#EXTINF:-1 tvg-id="ch0225-alt" group-title="Спорт",Матч! Игра alt
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0221-ch" group-title="Спорт",Матч! Премьер
+#EXTINF:-1 tvg-id="6208" group-title="Спорт",Матч! Премьер
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
-#EXTINF:-1 tvg-id="ch0222-ch" group-title="Спорт",Матч! Страна (Инет)
+#EXTINF:-1 tvg-id="ch0227-ch" group-title="Спорт",Матч! Страна (Инет)
 http://185.46.16.239:8000/Match_Nash_Sport
-#EXTINF:-1 tvg-id="ch0223-hd" group-title="Спорт",Матч! Ультра HD
+#EXTINF:-1 tvg-id="ch0228-hd" group-title="Спорт",Матч! Ультра HD
 http://31.148.5.241/kanal_3/index.m3u8
-#EXTINF:-1 tvg-id="ch0224-1hd" group-title="Спорт",Матч! Футбол 1 HD (прямой)
+#EXTINF:-1 tvg-id="ch0229-1hd" group-title="Спорт",Матч! Футбол 1 HD (прямой)
 http://31.148.5.241/Match_Football_1_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0225-360hd" group-title="Новости",360° Новости HD
+#EXTINF:-1 tvg-id="5837" group-title="Новости",360° Новости HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0226-24hd" group-title="Новости",Беларусь 24 HD
+#EXTINF:-1 tvg-id="7541" group-title="Новости",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0227-hd" group-title="Новости",ВМЕСТЕ:РФ HD
+#EXTINF:-1 tvg-id="5988" group-title="Новости",ВМЕСТЕ:РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0228-ch" group-title="Новости",Первый информационный
+#EXTINF:-1 tvg-id="564947" group-title="Новости",Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0229-hd" group-title="Новости",Первый информационный HD
+#EXTINF:-1 tvg-id="564947" group-title="Новости",Первый информационный HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0230-ch" group-title="Новости",Известия
+#EXTINF:-1 tvg-id="6766" group-title="Новости",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0231-hd" group-title="Новости",Известия HD
+#EXTINF:-1 tvg-id="6766" group-title="Новости",Известия HD
 http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0232-24hd" group-title="Новости",Мир 24 HD
+#EXTINF:-1 tvg-id="7101" group-title="Новости",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0233-france24english" group-title="Новости",France 24 English
+#EXTINF:-1 tvg-id="5842" group-title="Новости",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="ch0234-360" group-title="Новости",360° Новости
+#EXTINF:-1 tvg-id="5837" group-title="Новости",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 tvg-id="ch0235-rtnews" group-title="Новости",RT News
+#EXTINF:-1 tvg-id="6580" group-title="Новости",RT News
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0236-hd" group-title="Новости",РБК HD
+#EXTINF:-1 tvg-id="7674" group-title="Новости",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 tvg-id="ch0237-ch" group-title="Новости",Про бизнес
+#EXTINF:-1 tvg-id="ch0242-ch" group-title="Новости",Про бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ch0238-bbcworldnewsen" group-title="Новости",BBC World News (EN)
+#EXTINF:-1 tvg-id="ch0243-bbcworldnewsen" group-title="Новости",BBC World News (EN)
 http://85.117.61.84/bbc/index.m3u8
-#EXTINF:-1 tvg-id="ch0239-cnninternationalen" group-title="Новости",CNN International (EN)
+#EXTINF:-1 tvg-id="ch0244-cnninternationalen" group-title="Новости",CNN International (EN)
 http://85.117.37.43/cnn/index.m3u8
-#EXTINF:-1 tvg-id="ch0240-deutschewelleen" group-title="Новости",Deutsche Welle (EN)
+#EXTINF:-1 tvg-id="ch0245-deutschewelleen" group-title="Новости",Deutsche Welle (EN)
 http://85.117.37.43/dw/index.m3u8
-#EXTINF:-1 tvg-id="ch0241-vijutv1000romanticahd" group-title="Кино и сериалы",Viju TV1000 Romantica HD
+#EXTINF:-1 tvg-id="403331" group-title="Кино и сериалы",Viju TV1000 Romantica HD
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
-#EXTINF:-1 tvg-id="ch0242-tv1000" group-title="Кино и сериалы",TV1000 Кино
+#EXTINF:-1 tvg-id="ch0247-tv1000" group-title="Кино и сериалы",TV1000 Кино
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0243-vijutv1000" group-title="Кино и сериалы",viju TV1000
+#EXTINF:-1 tvg-id="6427" group-title="Кино и сериалы",viju TV1000
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0244-vijutv1000" group-title="Кино и сериалы",viju TV1000 Русское
+#EXTINF:-1 tvg-id="6665" group-title="Кино и сериалы",viju TV1000 Русское
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0245-tv1000flussonic" group-title="Кино и сериалы",TV1000 (flussonic)
+#EXTINF:-1 tvg-id="ch0250-tv1000flussonic" group-title="Кино и сериалы",TV1000 (flussonic)
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
-#EXTINF:-1 tvg-id="ch0246-tv1000" group-title="Кино и сериалы",TV1000 (доп. источник)
+#EXTINF:-1 tvg-id="ch0251-tv1000" group-title="Кино и сериалы",TV1000 (доп. источник)
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0247-tv1000flussonic" group-title="Кино и сериалы",TV1000 Кино (flussonic)
+#EXTINF:-1 tvg-id="ch0252-tv1000flussonic" group-title="Кино и сериалы",TV1000 Кино (flussonic)
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 tvg-id="ch0248-vijutv1000action" group-title="Кино и сериалы",viju TV1000 Action
+#EXTINF:-1 tvg-id="7054" group-title="Кино и сериалы",viju TV1000 Action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 tvg-id="ch0249-tv1000hd185121" group-title="Кино и сериалы",TV1000 HD (185.121)
+#EXTINF:-1 tvg-id="ch0254-tv1000hd185121" group-title="Кино и сериалы",TV1000 HD (185.121)
 http://185.121.1.163:8083/TV1000/index.m3u8
-#EXTINF:-1 tvg-id="ch0250-tv1000hd185121" group-title="Кино и сериалы",TV1000 Русское HD (185.121)
+#EXTINF:-1 tvg-id="ch0255-tv1000hd185121" group-title="Кино и сериалы",TV1000 Русское HD (185.121)
 http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
-#EXTINF:-1 tvg-id="ch0251-tv1000" group-title="Кино и сериалы",TV1000
+#EXTINF:-1 tvg-id="ch0256-tv1000" group-title="Кино и сериалы",TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3
-#EXTINF:-1 tvg-id="ch0252-tv1000action" group-title="Кино и сериалы",TV1000 Action
+#EXTINF:-1 tvg-id="ch0257-tv1000action" group-title="Кино и сериалы",TV1000 Action
 http://46.53.200.153:7777/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="ch0253-vippremierehd" group-title="Кино и сериалы",VIP Premiere HD
+#EXTINF:-1 tvg-id="ch0258-vippremierehd" group-title="Кино и сериалы",VIP Premiere HD
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
-#EXTINF:-1 tvg-id="ch0254-vijutv1000hd" group-title="Кино и сериалы",Viju TV1000 Новелла HD
+#EXTINF:-1 tvg-id="164931" group-title="Кино и сериалы",Viju TV1000 Новелла HD
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
-#EXTINF:-1 tvg-id="ch0255-ch" group-title="Кино и сериалы",Наш Кинопоказ
+#EXTINF:-1 tvg-id="5753" group-title="Кино и сериалы",Наш Кинопоказ
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="ch0256-vipcomedyhd" group-title="Кино и сериалы",VIP Comedy HD
+#EXTINF:-1 tvg-id="ch0261-vipcomedyhd" group-title="Кино и сериалы",VIP Comedy HD
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0257-vipmegahithd" group-title="Кино и сериалы",VIP Megahit HD
+#EXTINF:-1 tvg-id="ch0262-vipmegahithd" group-title="Кино и сериалы",VIP Megahit HD
 http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0258-vipserialhd" group-title="Кино и сериалы",VIP Serial HD
+#EXTINF:-1 tvg-id="ch0263-vipserialhd" group-title="Кино и сериалы",VIP Serial HD
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0259-ch" group-title="Кино и сериалы",Смотрим (Кино и сериалы)
+#EXTINF:-1 tvg-id="ch0264-ch" group-title="Кино и сериалы",Смотрим (Кино и сериалы)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0260-hd" group-title="Кино и сериалы",Хорошее кино HD
+#EXTINF:-1 tvg-id="ch0265-hd" group-title="Кино и сериалы",Хорошее кино HD
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0261-ch" group-title="Кино и сериалы",КиноСезон
+#EXTINF:-1 tvg-id="7782" group-title="Кино и сериалы",КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-id="ch0262-ch" group-title="Кино и сериалы",Советское кино
+#EXTINF:-1 tvg-id="20809" group-title="Кино и сериалы",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-id="ch0263-amediahithd" group-title="Кино и сериалы",Amedia Hit HD
+#EXTINF:-1 tvg-id="ch0268-amediahithd" group-title="Кино и сериалы",Amedia Hit HD
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0264-amediapremiumhd" group-title="Кино и сериалы",Amedia Premium HD
+#EXTINF:-1 tvg-id="ch0269-amediapremiumhd" group-title="Кино и сериалы",Amedia Premium HD
 https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0265-bcupremiere2hd" group-title="Кино и сериалы",BCU Premiere 2 HD
+#EXTINF:-1 tvg-id="ch0270-bcupremiere2hd" group-title="Кино и сериалы",BCU Premiere 2 HD
 https://live.uspeh.my/8473/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0266-boxfantasyhd" group-title="Кино и сериалы",BOX Fantasy HD
+#EXTINF:-1 tvg-id="496895" group-title="Кино и сериалы",BOX Fantasy HD
 https://live.uspeh.my/8430/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0267-bollywoodhd" group-title="Кино и сериалы",Bollywood HD
+#EXTINF:-1 tvg-id="7094" group-title="Кино и сериалы",Bollywood HD
 https://live.uspeh.my/8240/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0268-hollywoodhd" group-title="Кино и сериалы",Hollywood HD
+#EXTINF:-1 tvg-id="5951" group-title="Кино и сериалы",Hollywood HD
 https://live.uspeh.my/8651/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0269-starcinema" group-title="Кино и сериалы",Star Cinema
+#EXTINF:-1 tvg-id="ch0274-starcinema" group-title="Кино и сериалы",Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 tvg-id="ch0270-vippremiere" group-title="Кино и сериалы",Vip Premiere
+#EXTINF:-1 tvg-id="ch0275-vippremiere" group-title="Кино и сериалы",Vip Premiere
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
-#EXTINF:-1 tvg-id="ch0271-ch" group-title="Кино и сериалы",Дом Кино
+#EXTINF:-1 tvg-id="7383" group-title="Кино и сериалы",Дом Кино
 https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:-1 tvg-id="ch0272-hd" group-title="Кино и сериалы",Дом кино Премиум HD
+#EXTINF:-1 tvg-id="6813" group-title="Кино и сериалы",Дом кино Премиум HD
 https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0273-ch" group-title="Кино и сериалы",Индийское кино
+#EXTINF:-1 tvg-id="5886" group-title="Кино и сериалы",Индийское кино
 https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0274-ch" group-title="Кино и сериалы",КиноТВ
+#EXTINF:-1 tvg-id="7702" group-title="Кино и сериалы",КиноТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-id="ch0275-ch" group-title="Кино и сериалы",КиноХит
+#EXTINF:-1 tvg-id="6128" group-title="Кино и сериалы",КиноХит
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0276-ch" group-title="Кино и сериалы",Кинокомедия
+#EXTINF:-1 tvg-id="7358" group-title="Кино и сериалы",Кинокомедия
 https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0277-ch" group-title="Кино и сериалы",Киномикс
+#EXTINF:-1 tvg-id="5996" group-title="Кино и сериалы",Киномикс
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0278-hd" group-title="Кино и сериалы",Кинопремьера HD
+#EXTINF:-1 tvg-id="6864" group-title="Кино и сериалы",Кинопремьера HD
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0279-ch" group-title="Кино и сериалы",Киносвидание
+#EXTINF:-1 tvg-id="5858" group-title="Кино и сериалы",Киносвидание
 https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0280-ch" group-title="Кино и сериалы",Киносемья
+#EXTINF:-1 tvg-id="6878" group-title="Кино и сериалы",Киносемья
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0281-ch" group-title="Кино и сериалы",Киносерия
+#EXTINF:-1 tvg-id="ch0286-ch" group-title="Кино и сериалы",Киносерия
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0282-ch" group-title="Кино и сериалы",Киноужас
+#EXTINF:-1 tvg-id="7789" group-title="Кино и сериалы",Киноужас
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0283-hd" group-title="Кино и сериалы",Мир сериала HD
+#EXTINF:-1 tvg-id="6612" group-title="Кино и сериалы",Мир сериала HD
 https://live.uspeh.my/8662/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0284-ch" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="6873" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
 https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0285-ch" group-title="Кино и сериалы",Мужское кино
+#EXTINF:-1 tvg-id="6320" group-title="Кино и сериалы",Мужское кино
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0286-ch" group-title="Кино и сериалы",Наше новое кино
+#EXTINF:-1 tvg-id="7270" group-title="Кино и сериалы",Наше новое кино
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0287-hd" group-title="Кино и сериалы",Романтичное HD
+#EXTINF:-1 tvg-id="6046" group-title="Кино и сериалы",Романтичное HD
 https://live.uspeh.my/8948/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0288-ch" group-title="Кино и сериалы",Русский Иллюзион
+#EXTINF:-1 tvg-id="6114" group-title="Кино и сериалы",Русский Иллюзион
 https://live.uspeh.my/8132/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0289-ch" group-title="Кино и сериалы",Русский детектив
+#EXTINF:-1 tvg-id="7179" group-title="Кино и сериалы",Русский детектив
 https://live.uspeh.my/8161/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0290-ch" group-title="Кино и сериалы",Сити Эдем - КиноАзия
+#EXTINF:-1 tvg-id="540383" group-title="Кино и сериалы",Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-id="ch0291-ch" group-title="Кино и сериалы",Сити Эдем - КиноАрт
+#EXTINF:-1 tvg-id="ch0296-ch" group-title="Кино и сериалы",Сити Эдем - КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-id="ch0292-ch" group-title="Кино и сериалы",Сити Эдем - КиноДетектив
+#EXTINF:-1 tvg-id="ch0297-ch" group-title="Кино и сериалы",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="ch0293-ch" group-title="Кино и сериалы",Феникс+ Кино
+#EXTINF:-1 tvg-id="6402" group-title="Кино и сериалы",Феникс+ Кино
 https://live.uspeh.my/8412/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0294-ch" group-title="Кино и сериалы",Сити Эдем - КиноДок
+#EXTINF:-1 tvg-id="ch0299-ch" group-title="Кино и сериалы",Сити Эдем - КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-id="ch0295-ch" group-title="Кино и сериалы",Сити Эдем - КиноДрама
+#EXTINF:-1 tvg-id="ch0300-ch" group-title="Кино и сериалы",Сити Эдем - КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="ch0296-ch" group-title="Кино и сериалы",Сити Эдем - КиноКлассика
+#EXTINF:-1 tvg-id="526202" group-title="Кино и сериалы",Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-id="ch0297-ch" group-title="Кино и сериалы",Сити Эдем - КиноКомедия
+#EXTINF:-1 tvg-id="ch0302-ch" group-title="Кино и сериалы",Сити Эдем - КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="ch0298-ch" group-title="Кино и сериалы",Сити Эдем - КиноМистика
+#EXTINF:-1 tvg-id="528603" group-title="Кино и сериалы",Сити Эдем - КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-id="ch0299-ch" group-title="Кино и сериалы",Сити Эдем - КиноФантастика
+#EXTINF:-1 tvg-id="ch0304-ch" group-title="Кино и сериалы",Сити Эдем - КиноФантастика
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="ch0300-ch" group-title="Кино и сериалы",Сити Эдем - КиноЭкшен
+#EXTINF:-1 tvg-id="454425" group-title="Кино и сериалы",Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="ch0301-movifykino" group-title="Кино и сериалы",Movify Kino
+#EXTINF:-1 tvg-id="419291" group-title="Кино и сериалы",Movify Kino
 http://vod.tuva.ru/myplanet/index.m3u8
-#EXTINF:-1 tvg-id="ch0302-1international" group-title="Кино и сериалы",Кино 1 International
+#EXTINF:-1 tvg-id="472377" group-title="Кино и сериалы",Кино 1 International
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0303-312" group-title="Кино и сериалы",312 Кино
+#EXTINF:-1 tvg-id="575897" group-title="Кино и сериалы",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0304-vijuhd" group-title="Кино и сериалы",viju+ Премиера HD
+#EXTINF:-1 tvg-id="ch0309-vijuhd" group-title="Кино и сериалы",viju+ Премиера HD
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
-#EXTINF:-1 tvg-id="ch0305-ch" group-title="Кино и сериалы",Дом кино (доп. источник)
+#EXTINF:-1 tvg-id="ch0310-ch" group-title="Кино и сериалы",Дом кино (доп. источник)
 http://88.212.15.50/live/test_dom_kino/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0306-ch" group-title="Кино и сериалы",Еврокино
+#EXTINF:-1 tvg-id="7680" group-title="Кино и сериалы",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 tvg-id="ch0307-hd" group-title="Кино и сериалы",Кино ТВ HD
+#EXTINF:-1 tvg-id="ch0312-hd" group-title="Кино и сериалы",Кино ТВ HD
 http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0308-ch" group-title="Кино и сериалы",Кинопоказ
+#EXTINF:-1 tvg-id="7350" group-title="Кино и сериалы",Кинопоказ
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="ch0309-ch" group-title="Кино и сериалы",Комедия
+#EXTINF:-1 tvg-id="ch0314-ch" group-title="Кино и сериалы",Комедия
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 tvg-id="ch0310-ch" group-title="Кино и сериалы",Ретро
+#EXTINF:-1 tvg-id="6998" group-title="Кино и сериалы",Ретро
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 tvg-id="ch0311-ch" group-title="Кино и сериалы",Родное кино
+#EXTINF:-1 tvg-id="7143" group-title="Кино и сериалы",Родное кино
 http://31.210.208.171:8080/rodnoe_kino/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0312-ch" group-title="Кино и сериалы",СоюзМультфильм
+#EXTINF:-1 tvg-id="ch0317-ch" group-title="Кино и сериалы",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 tvg-id="ch0313-cinema" group-title="Кино и сериалы",Cinema
+#EXTINF:-1 tvg-id="7629" group-title="Кино и сериалы",Cinema
 http://85.117.61.84/cinema/index.m3u8
-#EXTINF:-1 tvg-id="ch0314-cinemampeg2" group-title="Кино и сериалы",Cinema (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0319-cinemampeg2" group-title="Кино и сериалы",Cinema (Инет) [MPEG-2]
 http://185.46.16.239:8000/Cinema
-#EXTINF:-1 tvg-id="ch0315-internet42" group-title="Кино и сериалы",Дом Кино (Internet42)
+#EXTINF:-1 tvg-id="ch0320-internet42" group-title="Кино и сериалы",Дом Кино (Internet42)
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1 tvg-id="ch0316-ch" group-title="Кино и сериалы",Еврокино (Инет)
+#EXTINF:-1 tvg-id="ch0321-ch" group-title="Кино и сериалы",Еврокино (Инет)
 http://185.46.16.239:8000/Yevrokino
-#EXTINF:-1 tvg-id="ch0317-mpeg2" group-title="Кино и сериалы",Кино ТВ (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0322-mpeg2" group-title="Кино и сериалы",Кино ТВ (Инет) [MPEG-2]
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 tvg-id="ch0318-internet42" group-title="Кино и сериалы",Кинокомедия (Internet42)
+#EXTINF:-1 tvg-id="ch0323-internet42" group-title="Кино и сериалы",Кинокомедия (Internet42)
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 tvg-id="ch0319-ch" group-title="Кино и сериалы",Кинокомедия (Инет)
+#EXTINF:-1 tvg-id="ch0324-ch" group-title="Кино и сериалы",Кинокомедия (Инет)
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 tvg-id="ch0320-hd" group-title="Кино и сериалы",Кинокомедия HD
+#EXTINF:-1 tvg-id="7358" group-title="Кино и сериалы",Кинокомедия HD
 http://31.210.208.171:8080/kinokomedia/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0321-internet42" group-title="Кино и сериалы",Киномикс (Internet42)
+#EXTINF:-1 tvg-id="ch0326-internet42" group-title="Кино и сериалы",Киномикс (Internet42)
 http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 tvg-id="ch0322-ch" group-title="Кино и сериалы",Киномикс (Инет)
+#EXTINF:-1 tvg-id="ch0327-ch" group-title="Кино и сериалы",Киномикс (Инет)
 http://185.46.16.239:8000/Fox_Life_HD
-#EXTINF:-1 tvg-id="ch0323-hd" group-title="Кино и сериалы",Киномикс HD
+#EXTINF:-1 tvg-id="5996" group-title="Кино и сериалы",Киномикс HD
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0324-hd" group-title="Кино и сериалы",Кинопоказ HD
+#EXTINF:-1 tvg-id="7350" group-title="Кино и сериалы",Кинопоказ HD
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="ch0325-internet42" group-title="Кино и сериалы",Киносерия (Internet42)
+#EXTINF:-1 tvg-id="ch0330-internet42" group-title="Кино и сериалы",Киносерия (Internet42)
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 tvg-id="ch0326-internet42" group-title="Кино и сериалы",Мир сериала (Internet42)
+#EXTINF:-1 tvg-id="ch0331-internet42" group-title="Кино и сериалы",Мир сериала (Internet42)
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 tvg-id="ch0327-ch" group-title="Кино и сериалы",НАШЕ НОВОЕ КИНО (Инет)
+#EXTINF:-1 tvg-id="ch0332-ch" group-title="Кино и сериалы",НАШЕ НОВОЕ КИНО (Инет)
 http://185.46.16.239:8000/Nickelodeon
-#EXTINF:-1 tvg-id="ch0328-internet42" group-title="Кино и сериалы",Родное кино (Internet42)
+#EXTINF:-1 tvg-id="ch0333-internet42" group-title="Кино и сериалы",Родное кино (Internet42)
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-id="ch0329-kinojam" group-title="Кино и сериалы",KinoJam
+#EXTINF:-1 tvg-id="581923" group-title="Кино и сериалы",KinoJam
 http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 tvg-id="ch0330-ch" group-title="Кино и сериалы",Киноман
+#EXTINF:-1 tvg-id="ch0335-ch" group-title="Кино и сериалы",Киноман
 http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 tvg-id="ch0331-ch" group-title="Кино и сериалы",Иллюзион Плюс (Инет)
+#EXTINF:-1 tvg-id="ch0336-ch" group-title="Кино и сериалы",Иллюзион Плюс (Инет)
 http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 tvg-id="ch0332-bollywoodhdinternet42" group-title="Кино и сериалы",Bollywood HD (Internet42)
+#EXTINF:-1 tvg-id="ch0337-bollywoodhdinternet42" group-title="Кино и сериалы",Bollywood HD (Internet42)
 http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0333-ch" group-title="Кино и сериалы",Иллюзион (Инет)
+#EXTINF:-1 tvg-id="ch0338-ch" group-title="Кино и сериалы",Иллюзион (Инет)
 http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 tvg-id="ch0334-mpeg2" group-title="Кино и сериалы",Роман (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0339-mpeg2" group-title="Кино и сериалы",Роман (Инет) [MPEG-2]
 http://185.46.16.239:8000/Russkiy_roman
-#EXTINF:-1 tvg-id="ch0335-nikijunior" group-title="Детские",Niki Junior
+#EXTINF:-1 tvg-id="379645" group-title="Детские",Niki Junior
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0336-ch" group-title="Детские",Радость моя
+#EXTINF:-1 tvg-id="6095" group-title="Детские",Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="ch0337-ch" group-title="Детские",Солнце
+#EXTINF:-1 tvg-id="6722" group-title="Детские",Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 tvg-id="ch0338-ch" group-title="Детские",Шаян ТВ (Татарстан)
+#EXTINF:-1 tvg-id="ch0343-ch" group-title="Детские",Шаян ТВ (Татарстан)
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0339-2" group-title="Детские",Солнце (+2)
+#EXTINF:-1 tvg-id="6238" group-title="Детские",Солнце (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0340-4" group-title="Детские",Солнце (+4)
+#EXTINF:-1 tvg-id="6668" group-title="Детские",Солнце (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 tvg-id="ch0341-7" group-title="Детские",Солнце (+7)
+#EXTINF:-1 tvg-id="6670" group-title="Детские",Солнце (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0342-babytime" group-title="Детские",Baby time
+#EXTINF:-1 tvg-id="6732" group-title="Детские",Baby time
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0343-tiji" group-title="Детские",TiJi
+#EXTINF:-1 tvg-id="7152" group-title="Детские",TiJi
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1 tvg-id="ch0344-ducktv" group-title="Детские",ducktv
+#EXTINF:-1 tvg-id="7685" group-title="Детские",ducktv
 https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 tvg-id="ch0345-ch" group-title="Детские",Мульт
+#EXTINF:-1 tvg-id="6853" group-title="Детские",Мульт
 https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0346-ch" group-title="Детские",Мультиландия
+#EXTINF:-1 tvg-id="157857" group-title="Детские",Мультиландия
 https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0347-mpeg2" group-title="Детские",Мульт (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0352-mpeg2" group-title="Детские",Мульт (Инет) [MPEG-2]
 http://185.46.16.239:8000/Mult
-#EXTINF:-1 tvg-id="ch0348-hd" group-title="Детские",Мульт HD (Инет)
+#EXTINF:-1 tvg-id="ch0353-hd" group-title="Детские",Мульт HD (Инет)
 http://185.46.16.239:8000/Mir_24
-#EXTINF:-1 tvg-id="ch0349-mpeg2" group-title="Детские",Солнце (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0354-mpeg2" group-title="Детские",Солнце (Инет) [MPEG-2]
 http://185.46.16.239:8000/Disney_Channel
-#EXTINF:-1 tvg-id="ch0350-animpeg2" group-title="Детские",Ani (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0355-animpeg2" group-title="Детские",Ani (Инет) [MPEG-2]
 http://185.46.16.239:8000/Ani
-#EXTINF:-1 tvg-id="ch0351-hd" group-title="Детские",В гостях у сказки HD (Инет)
+#EXTINF:-1 tvg-id="ch0356-hd" group-title="Детские",В гостях у сказки HD (Инет)
 http://185.46.16.239:8000/V_gostyakh_u_skazki
-#EXTINF:-1 tvg-id="ch0352-mpeg2" group-title="Детские",Пес и Ко (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0357-mpeg2" group-title="Детские",Пес и Ко (Инет) [MPEG-2]
 http://185.46.16.239:8000/Pes_i_Ko
-#EXTINF:-1 tvg-id="ch0353-ch" group-title="Детские",Супергерои (Инет)
+#EXTINF:-1 tvg-id="ch0358-ch" group-title="Детские",Супергерои (Инет)
 http://185.46.16.239:8000/National_Geographic_HD
-#EXTINF:-1 tvg-id="ch0354-ch" group-title="Детские",Уникум (Инет)
+#EXTINF:-1 tvg-id="ch0359-ch" group-title="Детские",Уникум (Инет)
 http://185.46.16.239:8000/Detskiy
-#EXTINF:-1 tvg-id="ch0355-vijuexplore" group-title="Познавательные",viju Explore
+#EXTINF:-1 tvg-id="7158" group-title="Познавательные",viju Explore
 http://46.53.200.153:7777/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="ch0356-vijuhistory" group-title="Познавательные",viju History
+#EXTINF:-1 tvg-id="7561" group-title="Познавательные",viju History
 http://46.53.200.153:7777/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="ch0357-vijunature" group-title="Познавательные",viju Nature
+#EXTINF:-1 tvg-id="6879" group-title="Познавательные",viju Nature
 http://46.53.200.153:7777/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="ch0358-ch" group-title="Познавательные",НТРК Ингушетия
+#EXTINF:-1 tvg-id="525604" group-title="Познавательные",НТРК Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0359-ch" group-title="Познавательные",Охотник и рыболов
+#EXTINF:-1 tvg-id="6416" group-title="Познавательные",Охотник и рыболов
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
-#EXTINF:-1 tvg-id="ch0360-ugratravel" group-title="Познавательные",Ugra Travel
+#EXTINF:-1 tvg-id="7805" group-title="Познавательные",Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0361-ch" group-title="Познавательные",Неизвестная Планета
+#EXTINF:-1 tvg-id="6286" group-title="Познавательные",Неизвестная Планета
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
-#EXTINF:-1 tvg-id="ch0362-ch" group-title="Познавательные",Просвещение
+#EXTINF:-1 tvg-id="7055" group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0363-hd" group-title="Познавательные",РЖД HD
+#EXTINF:-1 tvg-id="ch0368-hd" group-title="Познавательные",РЖД HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0364-rthd" group-title="Познавательные",RTД HD
+#EXTINF:-1 tvg-id="ch0369-rthd" group-title="Познавательные",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="ch0365-davinci" group-title="Познавательные",Da Vinci
+#EXTINF:-1 tvg-id="ch0370-davinci" group-title="Познавательные",Da Vinci
 https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0366-nationalgeographic" group-title="Познавательные",National Geographic
+#EXTINF:-1 tvg-id="6303" group-title="Познавательные",National Geographic
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0367-univer" group-title="Познавательные",UNIVER
+#EXTINF:-1 tvg-id="5873" group-title="Познавательные",UNIVER
 https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0368-20hd" group-title="Познавательные",Наука 2.0 HD
+#EXTINF:-1 tvg-id="6300" group-title="Познавательные",Наука 2.0 HD
 https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 tvg-id="ch0369-24" group-title="Познавательные",Техно 24
+#EXTINF:-1 tvg-id="7128" group-title="Познавательные",Техно 24
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0370-natgeowild" group-title="Познавательные",Nat Geo Wild
+#EXTINF:-1 tvg-id="6700" group-title="Познавательные",Nat Geo Wild
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0371-nationalgeographicwild" group-title="Познавательные",National Geographic Wild
+#EXTINF:-1 tvg-id="ch0376-nationalgeographicwild" group-title="Познавательные",National Geographic Wild
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0372-ch" group-title="Познавательные",Домашние животные
+#EXTINF:-1 tvg-id="5783" group-title="Познавательные",Домашние животные
 https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0373-ch" group-title="Познавательные",Зоопарк
+#EXTINF:-1 tvg-id="ch0378-ch" group-title="Познавательные",Зоопарк
 https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0374-ch" group-title="Познавательные",Моя планета
+#EXTINF:-1 tvg-id="6724" group-title="Познавательные",Моя планета
 https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0375-hd" group-title="Познавательные",Охотник и рыболов HD
+#EXTINF:-1 tvg-id="6416" group-title="Познавательные",Охотник и рыболов HD
 https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0376-ch" group-title="Познавательные",Диалоги о рыбалке
+#EXTINF:-1 tvg-id="6689" group-title="Познавательные",Диалоги о рыбалке
 http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
-#EXTINF:-1 tvg-id="ch0377-ch" group-title="Познавательные",Открытый мир
+#EXTINF:-1 tvg-id="6469" group-title="Познавательные",Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 tvg-id="ch0378-24" group-title="Познавательные",Авто 24
+#EXTINF:-1 tvg-id="ch0383-24" group-title="Познавательные",Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
-#EXTINF:-1 tvg-id="ch0379-ch" group-title="Познавательные",Доктор
+#EXTINF:-1 tvg-id="6526" group-title="Познавательные",Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
-#EXTINF:-1 tvg-id="ch0380-ch" group-title="Познавательные",Загородная Жизнь
+#EXTINF:-1 tvg-id="6253" group-title="Познавательные",Загородная Жизнь
 http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 tvg-id="ch0381-ch" group-title="Познавательные",Охота и рыбалка (доп. источник)
+#EXTINF:-1 tvg-id="ch0386-ch" group-title="Познавательные",Охота и рыбалка (доп. источник)
 http://185.121.1.163:8083/OhotaRybalka/index.m3u8
-#EXTINF:-1 tvg-id="ch0382-ch" group-title="Познавательные",Охотник и рыболов (доп. источник)
+#EXTINF:-1 tvg-id="ch0387-ch" group-title="Познавательные",Охотник и рыболов (доп. источник)
 http://85.117.61.84/oxotaribalka/index.m3u8
-#EXTINF:-1 tvg-id="ch0383-animalplanet" group-title="Познавательные",Animal Planet
+#EXTINF:-1 tvg-id="6658" group-title="Познавательные",Animal Planet
 http://88.212.7.14/live/animal_hun/index.m3u8
-#EXTINF:-1 tvg-id="ch0384-mpeg2" group-title="Познавательные",Доктор (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0389-mpeg2" group-title="Познавательные",Доктор (Инет) [MPEG-2]
 http://185.46.16.239:8000/Doktor
-#EXTINF:-1 tvg-id="ch0385-20mpeg2" group-title="Познавательные",Наука 2.0 (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0390-20mpeg2" group-title="Познавательные",Наука 2.0 (Инет) [MPEG-2]
 http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 tvg-id="ch0386-ch" group-title="Познавательные",Охота и рыбалка
+#EXTINF:-1 tvg-id="5814" group-title="Познавательные",Охота и рыбалка
 http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0387-viasatnature" group-title="Познавательные",Viasat Nature
+#EXTINF:-1 tvg-id="ch0392-viasatnature" group-title="Познавательные",Viasat Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 tvg-id="ch0388-ch" group-title="Познавательные",Живи Активно
+#EXTINF:-1 tvg-id="6718" group-title="Познавательные",Живи Активно
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 tvg-id="ch0389-mpeg2" group-title="Познавательные",Живая планета (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0394-mpeg2" group-title="Познавательные",Живая планета (Инет) [MPEG-2]
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 tvg-id="ch0390-ch" group-title="Познавательные",Кухня ТВ
+#EXTINF:-1 tvg-id="6897" group-title="Познавательные",Кухня ТВ
 http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0391-hd" group-title="Познавательные",Моя планета HD (Инет)
+#EXTINF:-1 tvg-id="ch0396-hd" group-title="Познавательные",Моя планета HD (Инет)
 http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 tvg-id="ch0392-rtghd" group-title="Зарубежные",RTG HD
+#EXTINF:-1 tvg-id="5981" group-title="Зарубежные",RTG HD
 http://46.53.200.153:7777/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="ch0393-tvxxi" group-title="Зарубежные",TV XXI
+#EXTINF:-1 tvg-id="7515" group-title="Зарубежные",TV XXI
 http://46.53.200.153:7777/play/TV-21M/index.m3u8
-#EXTINF:-1 tvg-id="ch0394-cgtn" group-title="Зарубежные",CGTN
+#EXTINF:-1 tvg-id="7367" group-title="Зарубежные",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="ch0395-cnbc" group-title="Зарубежные",CNBC
+#EXTINF:-1 tvg-id="7574" group-title="Зарубежные",CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0396-traceurban" group-title="Зарубежные",Trace Urban
+#EXTINF:-1 tvg-id="6035" group-title="Зарубежные",Trace Urban
 http://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0397-stingrayclassica" group-title="Зарубежные",Stingray Classica
+#EXTINF:-1 tvg-id="ch0402-stingrayclassica" group-title="Зарубежные",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="ch0398-trthaber" group-title="Зарубежные",TRT Haber
+#EXTINF:-1 tvg-id="580962" group-title="Зарубежные",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ch0399-bloomberg" group-title="Зарубежные",Bloomberg
+#EXTINF:-1 tvg-id="6110" group-title="Зарубежные",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="ch0400-bloomberght" group-title="Зарубежные",Bloomberg HT
+#EXTINF:-1 tvg-id="ch0405-bloomberght" group-title="Зарубежные",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-id="ch0401-prosieben" group-title="Зарубежные",ProSieben
+#EXTINF:-1 tvg-id="7339" group-title="Зарубежные",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0402-stingraynaturescape" group-title="Зарубежные",Stingray Naturescape
+#EXTINF:-1 tvg-id="ch0407-stingraynaturescape" group-title="Зарубежные",Stingray Naturescape
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:-1 tvg-id="ch0403-tv5mondeeurope" group-title="Зарубежные",TV5 Monde Europe
+#EXTINF:-1 tvg-id="368871" group-title="Зарубежные",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 tvg-id="ch0404-artehd" group-title="Зарубежные",arte HD
+#EXTINF:-1 tvg-id="423844" group-title="Зарубежные",arte HD
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0405-ko" group-title="Зарубежные",Óčko
+#EXTINF:-1 tvg-id="549982" group-title="Зарубежные",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0406-koblack" group-title="Зарубежные",Óčko Black
+#EXTINF:-1 tvg-id="549978" group-title="Зарубежные",Óčko Black
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0407-koexpres" group-title="Зарубежные",Óčko Expres
+#EXTINF:-1 tvg-id="549980" group-title="Зарубежные",Óčko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0408-kostar" group-title="Зарубежные",Óčko Star
+#EXTINF:-1 tvg-id="549966" group-title="Зарубежные",Óčko Star
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0409-arirang" group-title="Зарубежные",Arirang
+#EXTINF:-1 tvg-id="419983" group-title="Зарубежные",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0410-fonmusic" group-title="Музыка",FON music
+#EXTINF:-1 tvg-id="ch0415-fonmusic" group-title="Музыка",FON music
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0411-mtvus" group-title="Музыка",MTV [US]
+#EXTINF:-1 tvg-id="413182" group-title="Музыка",MTV [US]
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0412-ch" group-title="Музыка",Жар Птица
+#EXTINF:-1 tvg-id="7650" group-title="Музыка",Жар Птица
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
-#EXTINF:-1 tvg-id="ch0413-fonmusichd" group-title="Музыка",FON Music HD
+#EXTINF:-1 tvg-id="ch0418-fonmusichd" group-title="Музыка",FON Music HD
 http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ch0414-worldfashionchannel" group-title="Музыка",World Fashion Channel
+#EXTINF:-1 tvg-id="190070" group-title="Музыка",World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1 tvg-id="ch0415-ch" group-title="Музыка",Майдан
+#EXTINF:-1 tvg-id="414530" group-title="Музыка",Майдан
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
-#EXTINF:-1 tvg-id="ch0416-fmhd" group-title="Музыка",Страна FM HD
+#EXTINF:-1 tvg-id="ch0421-fmhd" group-title="Музыка",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0417-musicmpeg2" group-title="Музыка",ТНТ Music (Инет) [MPEG-2]
+#EXTINF:-1 tvg-id="ch0422-musicmpeg2" group-title="Музыка",ТНТ Music (Инет) [MPEG-2]
 http://185.46.16.239:8000/Nashe_TV
-#EXTINF:-1 tvg-id="ch0418-ch" group-title="Музыка",Сити Эдем - Классическая Музыка
+#EXTINF:-1 tvg-id="ch0423-ch" group-title="Музыка",Сити Эдем - Классическая Музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-id="ch0419-dancehits80" group-title="Музыка",DanceHits80
+#EXTINF:-1 tvg-id="ch0424-dancehits80" group-title="Музыка",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 tvg-id="ch0420-musicchannel" group-title="Музыка",Music Channel
+#EXTINF:-1 tvg-id="6796" group-title="Музыка",Music Channel
 http://media.boni-records.com/index.m3u8
-#EXTINF:-1 tvg-id="ch0421-retromusic" group-title="Музыка",Retro Music
+#EXTINF:-1 tvg-id="7535" group-title="Музыка",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0422-worldfashionchannelhd" group-title="Музыка",World Fashion Channel HD
+#EXTINF:-1 tvg-id="190070" group-title="Музыка",World Fashion Channel HD
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 tvg-id="ch0423-worldfashionchannelsdru" group-title="Музыка",World Fashion Channel SD ru
+#EXTINF:-1 tvg-id="ch0428-worldfashionchannelsdru" group-title="Музыка",World Fashion Channel SD ru
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
-#EXTINF:-1 tvg-id="ch0424-ch" group-title="Музыка",Восток ТВ
+#EXTINF:-1 tvg-id="5987" group-title="Музыка",Восток ТВ
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1 tvg-id="ch0425-312" group-title="Музыка",312 Музыка
+#EXTINF:-1 tvg-id="571132" group-title="Музыка",312 Музыка
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0426-ch" group-title="Музыка",МузТВ (Инет)
+#EXTINF:-1 tvg-id="ch0431-ch" group-title="Музыка",МузТВ (Инет)
 http://185.46.16.239:8000/Muz_TV
-#EXTINF:-1 tvg-id="ch0427-ch" group-title="Музыка",Шансон ТВ (Инет)
+#EXTINF:-1 tvg-id="ch0432-ch" group-title="Музыка",Шансон ТВ (Инет)
 http://185.46.16.239:8000/Shanson
-#EXTINF:-1 tvg-id="ch0428-12" group-title="Региональные",12 канал (Омск)
+#EXTINF:-1 tvg-id="5969" group-title="Региональные",12 канал (Омск)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0429-25" group-title="Региональные",25 регион (Владивосток)
+#EXTINF:-1 tvg-id="555040" group-title="Региональные",25 регион (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R25_25REGION/variant.m3u8
-#EXTINF:-1 tvg-id="ch0430-31" group-title="Региональные",31 канал (Челябинск)
+#EXTINF:-1 tvg-id="ch0435-31" group-title="Региональные",31 канал (Челябинск)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0431-360" group-title="Региональные",360°
+#EXTINF:-1 tvg-id="ch0436-360" group-title="Региональные",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0432-41" group-title="Региональные",41 регион (Петропавловск-Камчатский)
+#EXTINF:-1 tvg-id="412242" group-title="Региональные",41 регион (Петропавловск-Камчатский)
 https://s14131.cdn.ngenix.net/hls/CH_R02_41REG_OTT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0433-78" group-title="Региональные",78 (Санкт-Петербург)
+#EXTINF:-1 tvg-id="ch0438-78" group-title="Региональные",78 (Санкт-Петербург)
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
-#EXTINF:-1 tvg-id="ch0434-8" group-title="Региональные",8 канал (Владивосток)
+#EXTINF:-1 tvg-id="406915" group-title="Региональные",8 канал (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0435-8" group-title="Региональные",8 канал (Красноярский край)
+#EXTINF:-1 tvg-id="7253" group-title="Региональные",8 канал (Красноярский край)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0436-8" group-title="Региональные",8 канал (Новосибирск)
+#EXTINF:-1 tvg-id="6811" group-title="Региональные",8 канал (Новосибирск)
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0437-24" group-title="Региональные",Абакан 24
+#EXTINF:-1 tvg-id="481921" group-title="Региональные",Абакан 24
 https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
-#EXTINF:-1 tvg-id="ch0438-24" group-title="Региональные",Архыз 24 (Карачаево-Черкесия)
+#EXTINF:-1 tvg-id="ch0443-24" group-title="Региональные",Архыз 24 (Карачаево-Черкесия)
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0439-ch" group-title="Региональные",БСТ
+#EXTINF:-1 tvg-id="5980" group-title="Региональные",БСТ
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="ch0440-ch" group-title="Региональные",Барс
+#EXTINF:-1 tvg-id="7099" group-title="Региональные",Барс
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ZrXipYUZHniVrAVSwMJWhQ&e=2070623501&scheme=https
-#EXTINF:-1 tvg-id="ch0441-ch" group-title="Региональные",Вся Уфа
+#EXTINF:-1 tvg-id="6650" group-title="Региональные",Вся Уфа
 https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https
-#EXTINF:-1 tvg-id="ch0442-ch" group-title="Региональные",Городской телеканал (Ярославль)
+#EXTINF:-1 tvg-id="570510" group-title="Региональные",Городской телеканал (Ярославль)
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
-#EXTINF:-1 tvg-id="ch0443-ch" group-title="Региональные",Губерния (Самара)
+#EXTINF:-1 tvg-id="7064" group-title="Региональные",Губерния (Самара)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0444-24" group-title="Региональные",Дон 24 (Ростов-на-Дону)
+#EXTINF:-1 tvg-id="ch0449-24" group-title="Региональные",Дон 24 (Ростов-на-Дону)
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
-#EXTINF:-1 tvg-id="ch0445-ch" group-title="Региональные",Ивановское общественное телевидение
+#EXTINF:-1 tvg-id="7547" group-title="Региональные",Ивановское общественное телевидение
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0446-ch" group-title="Региональные",Импульс Севера
+#EXTINF:-1 tvg-id="ch0451-ch" group-title="Региональные",Импульс Севера
 https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=na5lRe1FycA0nFHRZrfcsg&e=2070623514&scheme=https
-#EXTINF:-1 tvg-id="ch0447-ch" group-title="Региональные",Колыма-Плюс
+#EXTINF:-1 tvg-id="6214" group-title="Региональные",Колыма-Плюс
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0448-24" group-title="Региональные",Кубань 24 (Краснодар)
+#EXTINF:-1 tvg-id="ch0453-24" group-title="Региональные",Кубань 24 (Краснодар)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-id="ch0449-24" group-title="Региональные",Лен ТВ 24
+#EXTINF:-1 tvg-id="6429" group-title="Региональные",Лен ТВ 24
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 tvg-id="ch0450-24" group-title="Региональные",Липецк 24
+#EXTINF:-1 tvg-id="412075" group-title="Региональные",Липецк 24
 https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https
-#EXTINF:-1 tvg-id="ch0451-ch" group-title="Региональные",Липецкое время
+#EXTINF:-1 tvg-id="6797" group-title="Региональные",Липецкое время
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
-#EXTINF:-1 tvg-id="ch0452-ch" group-title="Региональные",МЭТР
+#EXTINF:-1 tvg-id="7487" group-title="Региональные",МЭТР
 https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
-#EXTINF:-1 tvg-id="ch0453-24hd" group-title="Региональные",Мордовия 24 HD (Саранск)
+#EXTINF:-1 tvg-id="ch0458-24hd" group-title="Региональные",Мордовия 24 HD (Саранск)
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0454-hd" group-title="Региональные",НВК Саха HD
+#EXTINF:-1 tvg-id="ch0459-hd" group-title="Региональные",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0455-ch" group-title="Региональные",НТС (Севастополь)
+#EXTINF:-1 tvg-id="5739" group-title="Региональные",НТС (Севастополь)
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0456-ch" group-title="Региональные",Новгородское Областное телевидение
+#EXTINF:-1 tvg-id="146049" group-title="Региональные",Новгородское Областное телевидение
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0457-ch" group-title="Региональные",ОТВ (Екатеринбург)
+#EXTINF:-1 tvg-id="7539" group-title="Региональные",ОТВ (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0458-ch" group-title="Региональные",ОТВ (Приморье)
+#EXTINF:-1 tvg-id="7197" group-title="Региональные",ОТВ (Приморье)
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0459-ch" group-title="Региональные",ОТВ (Сахалин)
+#EXTINF:-1 tvg-id="7183" group-title="Региональные",ОТВ (Сахалин)
 https://s14553.cdn.ngenix.net/hls/CH_R01_OTV_SLIN/variant.m3u8
-#EXTINF:-1 tvg-id="ch0460-ch" group-title="Региональные",ОТВ (Челябинск)
+#EXTINF:-1 tvg-id="7078" group-title="Региональные",ОТВ (Челябинск)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0461-ch" group-title="Региональные",Омск ТВ
+#EXTINF:-1 tvg-id="407512" group-title="Региональные",Омск ТВ
 https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9LljursQaAxFdR0mnennUQ&e=2070623518&scheme=https
-#EXTINF:-1 tvg-id="ch0462-ch" group-title="Региональные",Первоуральск ТВ
+#EXTINF:-1 tvg-id="489590" group-title="Региональные",Первоуральск ТВ
 https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
-#EXTINF:-1 tvg-id="ch0463-ch" group-title="Региональные",Первый городской (Киров)
+#EXTINF:-1 tvg-id="6482" group-title="Региональные",Первый городской (Киров)
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 tvg-id="ch0464-ch" group-title="Региональные",РГВК Дагестан
+#EXTINF:-1 tvg-id="6287" group-title="Региональные",РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0465-ch" group-title="Региональные",Рифей-ТВ
+#EXTINF:-1 tvg-id="7216" group-title="Региональные",Рифей-ТВ
 https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7e16kFowncLriG9eElNY7g&e=2070623512&scheme=https
-#EXTINF:-1 tvg-id="ch0466-ch" group-title="Региональные",Салям (Уфа)
+#EXTINF:-1 tvg-id="ch0471-ch" group-title="Региональные",Салям (Уфа)
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0467-hd" group-title="Региональные",Санкт-Петербург HD
+#EXTINF:-1 tvg-id="7019" group-title="Региональные",Санкт-Петербург HD
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0468-hd" group-title="Региональные",Своё ТВ HD (Ставрополь)
+#EXTINF:-1 tvg-id="5911" group-title="Региональные",Своё ТВ HD (Ставрополь)
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0469-ch" group-title="Региональные",Среда
+#EXTINF:-1 tvg-id="584330" group-title="Региональные",Среда
 https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
-#EXTINF:-1 tvg-id="ch0470-7" group-title="Региональные",ТВ-7 Абакан
+#EXTINF:-1 tvg-id="567630" group-title="Региональные",ТВ-7 Абакан
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0471-ch" group-title="Региональные",ТВС (Саранск)
+#EXTINF:-1 tvg-id="569355" group-title="Региональные",ТВС (Саранск)
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_TVSARANSK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0472-42" group-title="Региональные",ТДК 42
+#EXTINF:-1 tvg-id="7154" group-title="Региональные",ТДК 42
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0473-ch" group-title="Региональные",Толк
+#EXTINF:-1 tvg-id="555663" group-title="Региональные",Толк
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0474-hd" group-title="Региональные",Томское время HD
+#EXTINF:-1 tvg-id="5796" group-title="Региональные",Томское время HD
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0475-ch" group-title="Региональные",Удмуртия
+#EXTINF:-1 tvg-id="532315" group-title="Региональные",Удмуртия
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0476-ch" group-title="Региональные",Эфир
+#EXTINF:-1 tvg-id="417116" group-title="Региональные",Эфир
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF:-1 tvg-id="ch0477-ch" group-title="Региональные",Ю (Санкт-Петербург)
+#EXTINF:-1 tvg-id="ch0482-ch" group-title="Региональные",Ю (Санкт-Петербург)
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
-#EXTINF:-1 tvg-id="ch0478-ch" group-title="Региональные",Югра
+#EXTINF:-1 tvg-id="571153" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0479-ch" group-title="Региональные",Ямал-Регион
+#EXTINF:-1 tvg-id="7250" group-title="Региональные",Ямал-Регион
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
-#EXTINF:-1 tvg-id="ch0480-12" group-title="Региональные",12 Канал Омск
+#EXTINF:-1 tvg-id="5969" group-title="Региональные",12 Канал Омск
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="ch0481-6" group-title="Региональные",6 ТВ
+#EXTINF:-1 tvg-id="430268" group-title="Региональные",6 ТВ
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0482-tv" group-title="Региональные",TVоя Тюмень
+#EXTINF:-1 tvg-id="490640" group-title="Региональные",TVоя Тюмень
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
-#EXTINF:-1 tvg-id="ch0483-ch" group-title="Региональные",АТВ-Медиа
+#EXTINF:-1 tvg-id="571653" group-title="Региональные",АТВ-Медиа
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0484-ch" group-title="Региональные",Аист
+#EXTINF:-1 tvg-id="5982" group-title="Региональные",Аист
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
-#EXTINF:-1 tvg-id="ch0485-ch" group-title="Региональные",БСТ Братск
+#EXTINF:-1 tvg-id="491185" group-title="Региональные",БСТ Братск
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
-#EXTINF:-1 tvg-id="ch0486-ch" group-title="Региональные",ВОТ ТВ
+#EXTINF:-1 tvg-id="6639" group-title="Региональные",ВОТ ТВ
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0487-24" group-title="Региональные",Ветта 24 (Пермь)
+#EXTINF:-1 tvg-id="7202" group-title="Региональные",Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0488-ch" group-title="Региональные",Волга
+#EXTINF:-1 tvg-id="7403" group-title="Региональные",Волга
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0489-24" group-title="Региональные",Восток 24
+#EXTINF:-1 tvg-id="5850" group-title="Региональные",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0490-24" group-title="Региональные",Город 24
+#EXTINF:-1 tvg-id="408440" group-title="Региональные",Город 24
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
-#EXTINF:-1 tvg-id="ch0491-33" group-title="Региональные",Губерния 33
+#EXTINF:-1 tvg-id="7173" group-title="Региональные",Губерния 33
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
-#EXTINF:-1 tvg-id="ch0492-ch" group-title="Региональные",Дзержинск ТВ
+#EXTINF:-1 tvg-id="6069" group-title="Региональные",Дзержинск ТВ
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0493-ch" group-title="Региональные",Доверие (Москва)
+#EXTINF:-1 tvg-id="ch0498-ch" group-title="Региональные",Доверие (Москва)
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 tvg-id="ch0494-ch" group-title="Региональные",Истоки
+#EXTINF:-1 tvg-id="6098" group-title="Региональные",Истоки
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
-#EXTINF:-1 tvg-id="ch0495-ch" group-title="Региональные",КТВ-Луч (Сызрань)
+#EXTINF:-1 tvg-id="430863" group-title="Региональные",КТВ-Луч (Сызрань)
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
-#EXTINF:-1 tvg-id="ch0496-1" group-title="Региональные",Камчатка 1
+#EXTINF:-1 tvg-id="573584" group-title="Региональные",Камчатка 1
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0497-24" group-title="Региональные",Каскад 24
+#EXTINF:-1 tvg-id="566910" group-title="Региональные",Каскад 24
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF:-1 tvg-id="ch0498-24" group-title="Региональные",Катунь 24
+#EXTINF:-1 tvg-id="6646" group-title="Региональные",Катунь 24
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-#EXTINF:-1 tvg-id="ch0499-ch" group-title="Региональные",Мамонт ТВ
+#EXTINF:-1 tvg-id="7462" group-title="Региональные",Мамонт ТВ
 http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_MAMONT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0500-ch" group-title="Региональные",НТМ
+#EXTINF:-1 tvg-id="5930" group-title="Региональные",НТМ
 http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
-#EXTINF:-1 tvg-id="ch0501-ch" group-title="Региональные",НТС (Ирбит)
+#EXTINF:-1 tvg-id="7255" group-title="Региональные",НТС (Ирбит)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0502-ch" group-title="Региональные",НТС (Иркутск)
+#EXTINF:-1 tvg-id="6703" group-title="Региональные",НТС (Иркутск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0503-ch" group-title="Региональные",Наши Города (Когалым)
+#EXTINF:-1 tvg-id="567635" group-title="Региональные",Наши Города (Когалым)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
-#EXTINF:-1 tvg-id="ch0504-ch" group-title="Региональные",ОРТ-Планета (Оренбург)
+#EXTINF:-1 tvg-id="412960" group-title="Региональные",ОРТ-Планета (Оренбург)
 http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-#EXTINF:-1 tvg-id="ch0505-ch" group-title="Региональные",ОТС
+#EXTINF:-1 tvg-id="417788" group-title="Региональные",ОТС
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0506-ch" group-title="Региональные",Первый городской (Гомель)
+#EXTINF:-1 tvg-id="6452" group-title="Региональные",Первый городской (Гомель)
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 tvg-id="ch0507-ch" group-title="Региональные",Первый областной (Орел)
+#EXTINF:-1 tvg-id="6358" group-title="Региональные",Первый областной (Орел)
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0508-hd" group-title="Региональные",Прима HD (Красноярск)
+#EXTINF:-1 tvg-id="ch0513-hd" group-title="Региональные",Прима HD (Красноярск)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0509-ch" group-title="Региональные",РТС - Абакан
+#EXTINF:-1 tvg-id="86935" group-title="Региональные",РТС - Абакан
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
-#EXTINF:-1 tvg-id="ch0510-29" group-title="Региональные",Регион 29
+#EXTINF:-1 tvg-id="7289" group-title="Региональные",Регион 29
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0511-40" group-title="Региональные",Рыбинск-40
+#EXTINF:-1 tvg-id="7300" group-title="Региональные",Рыбинск-40
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
-#EXTINF:-1 tvg-id="ch0512-ch" group-title="Региональные",САНКТ-ПЕТЕРБУРГᴴᴰ
+#EXTINF:-1 tvg-id="ch0517-ch" group-title="Региональные",САНКТ-ПЕТЕРБУРГᴴᴰ
 http://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0513-ch" group-title="Региональные",Самотлор (Нижневартовск)
+#EXTINF:-1 tvg-id="6595" group-title="Региональные",Самотлор (Нижневартовск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
-#EXTINF:-1 tvg-id="ch0514-ch" group-title="Региональные",Сампо ТВ
+#EXTINF:-1 tvg-id="6201" group-title="Региональные",Сампо ТВ
 http://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0515-24" group-title="Региональные",Саратов 24
+#EXTINF:-1 tvg-id="6383" group-title="Региональные",Саратов 24
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:-1 tvg-id="ch0516-24hd" group-title="Региональные",Саров 24 HD
+#EXTINF:-1 tvg-id="6470" group-title="Региональные",Саров 24 HD
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0517-24" group-title="Региональные",Сочи 24
+#EXTINF:-1 tvg-id="ch0522-24" group-title="Региональные",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0518-21" group-title="Региональные",ТВ-21+
+#EXTINF:-1 tvg-id="6869" group-title="Региональные",ТВ-21+
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
-#EXTINF:-1 tvg-id="ch0519-ch" group-title="Региональные",ТК Вариант
+#EXTINF:-1 tvg-id="556540" group-title="Региональные",ТК Вариант
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
-#EXTINF:-1 tvg-id="ch0520-ch" group-title="Региональные",ТРК Юганск
+#EXTINF:-1 tvg-id="6971" group-title="Региональные",ТРК Юганск
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0521-24" group-title="Региональные",Татарстан 24
+#EXTINF:-1 tvg-id="7398" group-title="Региональные",Татарстан 24
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-#EXTINF:-1 tvg-id="ch0522-ch" group-title="Региональные",Телемикс
+#EXTINF:-1 tvg-id="6666" group-title="Региональные",Телемикс
 http://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
-#EXTINF:-1 tvg-id="ch0523-24" group-title="Региональные",Тольятти 24
+#EXTINF:-1 tvg-id="72046" group-title="Региональные",Тольятти 24
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF:-1 tvg-id="ch0524-1" group-title="Региональные",Урал 1
+#EXTINF:-1 tvg-id="ch0529-1" group-title="Региональные",Урал 1
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
-#EXTINF:-1 tvg-id="ch0525-ch" group-title="Региональные",Учалы ТВ
+#EXTINF:-1 tvg-id="5746" group-title="Региональные",Учалы ТВ
 http://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0526-ch" group-title="Региональные",Чаваш ЕН
+#EXTINF:-1 tvg-id="6919" group-title="Региональные",Чаваш ЕН
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0527-ch" group-title="Региональные",ЮТВ Чебоксары
+#EXTINF:-1 tvg-id="521952" group-title="Региональные",ЮТВ Чебоксары
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0528-ch" group-title="Региональные",Юрган
+#EXTINF:-1 tvg-id="6387" group-title="Региональные",Юрган
 http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
-#EXTINF:-1 tvg-id="ch0529-24" group-title="Региональные",Якутия 24
+#EXTINF:-1 tvg-id="6247" group-title="Региональные",Якутия 24
 http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0530-ch" group-title="Региональные",канал (Красноярск)
+#EXTINF:-1 tvg-id="ch0535-ch" group-title="Региональные",канал (Красноярск)
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0531-ch" group-title="Региональные",канал (Новосибирск)
+#EXTINF:-1 tvg-id="ch0536-ch" group-title="Региональные",канал (Новосибирск)
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0532-24" group-title="Региональные",Крым 24
+#EXTINF:-1 tvg-id="6911" group-title="Региональные",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="ch0533-ch" group-title="Региональные",Миллет
+#EXTINF:-1 tvg-id="5772" group-title="Региональные",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 tvg-id="ch0534-ch" group-title="Региональные",Первый крымский
+#EXTINF:-1 tvg-id="7036" group-title="Региональные",Первый крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="ch0535-ch" group-title="Региональные",Грозный
+#EXTINF:-1 tvg-id="564360" group-title="Региональные",Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 tvg-id="ch0536-hd" group-title="Региональные",РТВ HD (Раменск)
+#EXTINF:-1 tvg-id="ch0541-hd" group-title="Региональные",РТВ HD (Раменск)
 https://e10-ll.facecast.net/rtv/0.m3u8
-#EXTINF:-1 tvg-id="ch0537-7" group-title="Региональные",7 канал (Казахстан)
+#EXTINF:-1 tvg-id="ch0542-7" group-title="Региональные",7 канал (Казахстан)
 https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0538-86" group-title="Региональные",86 Сургут
+#EXTINF:-1 tvg-id="575012" group-title="Региональные",86 Сургут
 https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-id="ch0539-ch" group-title="Региональные",Алмазный край
+#EXTINF:-1 tvg-id="5932" group-title="Региональные",Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 tvg-id="ch0540-24" group-title="Региональные",Астрахань 24
+#EXTINF:-1 tvg-id="6714" group-title="Региональные",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0541-hd" group-title="Региональные",Брянская губерния HD
+#EXTINF:-1 tvg-id="6954" group-title="Региональные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
-#EXTINF:-1 tvg-id="ch0542-ch" group-title="Региональные",Про жизнь
+#EXTINF:-1 tvg-id="6690" group-title="Региональные",Про жизнь
 https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0543-ch" group-title="Региональные",ТВК Красноярск
+#EXTINF:-1 tvg-id="ch0548-ch" group-title="Региональные",ТВК Красноярск
 https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0544-ch" group-title="Региональные",ТСВ
+#EXTINF:-1 tvg-id="571158" group-title="Региональные",ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 tvg-id="ch0545-ch" group-title="Региональные",Томское время
+#EXTINF:-1 tvg-id="5796" group-title="Региональные",Томское время
 https://old.tomsk-time.ru/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0546-play" group-title="Региональные",Сити Эдем - Бирма Play
+#EXTINF:-1 tvg-id="ch0551-play" group-title="Региональные",Сити Эдем - Бирма Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-id="ch0547-ch" group-title="Региональные",Сити Эдем - Сиртаки ТВ
+#EXTINF:-1 tvg-id="ch0552-ch" group-title="Региональные",Сити Эдем - Сиртаки ТВ
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="ch0548-utv" group-title="Региональные",UTV Уфа
+#EXTINF:-1 tvg-id="512085" group-title="Региональные",UTV Уфа
 http://utv.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0549-hd" group-title="Региональные",Алмазный край HD
+#EXTINF:-1 tvg-id="5932" group-title="Региональные",Алмазный край HD
 http://stream.almaz-media.tv:8081/hls/720.m3u8
-#EXTINF:-1 tvg-id="ch0550-ch" group-title="Региональные",Девятка
+#EXTINF:-1 tvg-id="ch0555-ch" group-title="Региональные",Девятка
 http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0551-ch" group-title="Региональные",Мир Белогорья
+#EXTINF:-1 tvg-id="146048" group-title="Региональные",Мир Белогорья
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-id="ch0552-ch" group-title="Региональные",Осетия-Ирыстон
+#EXTINF:-1 tvg-id="450823" group-title="Региональные",Осетия-Ирыстон
 http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0553-ch" group-title="Региональные",РТК Забайкалье
+#EXTINF:-1 tvg-id="6770" group-title="Региональные",РТК Забайкалье
 http://stream.zrtk.ru/zrtk.m3u8
-#EXTINF:-1 tvg-id="ch0554-ch" group-title="Региональные",Тверской проспект
+#EXTINF:-1 tvg-id="7773" group-title="Региональные",Тверской проспект
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
-#EXTINF:-1 tvg-id="ch0555-hd" group-title="Региональные",Теледом HD
+#EXTINF:-1 tvg-id="6838" group-title="Региональные",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-id="ch0556-24" group-title="Региональные",Эхо ТВ 24
+#EXTINF:-1 tvg-id="328864" group-title="Региональные",Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
-#EXTINF:-1 tvg-id="ch0557-26" group-title="Региональные",26 регион
+#EXTINF:-1 tvg-id="6136" group-title="Региональные",26 регион
 http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1 tvg-id="ch0558-tv1kghd" group-title="Региональные",TV1 KG HD (Кыргызстан)
+#EXTINF:-1 tvg-id="ch0563-tv1kghd" group-title="Региональные",TV1 KG HD (Кыргызстан)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0559-4" group-title="Региональные",Беларусь 4 Гомель
+#EXTINF:-1 tvg-id="412056" group-title="Региональные",Беларусь 4 Гомель
 http://46.56.85.151:8080/0.m3u8
-#EXTINF:-1 tvg-id="ch0560-ch" group-title="Региональные",Брянская Губерния
+#EXTINF:-1 tvg-id="6954" group-title="Региональные",Брянская Губерния
 http://31.148.6.9:10021/index.m3u8
-#EXTINF:-1 tvg-id="ch0561-ch" group-title="Региональные",ЛТВ (Люберцы)
+#EXTINF:-1 tvg-id="481751" group-title="Региональные",ЛТВ (Люберцы)
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 tvg-id="ch0562-ch" group-title="Региональные",Муром ТВ
+#EXTINF:-1 tvg-id="567611" group-title="Региональные",Муром ТВ
 http://62.76.73.38/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ch0563-ch" group-title="Региональные",Наш дом
+#EXTINF:-1 tvg-id="6032" group-title="Региональные",Наш дом
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 tvg-id="ch0564-ch" group-title="Региональные",Первый Тульский
+#EXTINF:-1 tvg-id="7382" group-title="Региональные",Первый Тульский
 http://5.164.24.83/tula/1tv_hi/index.m3u8
-#EXTINF:-1 tvg-id="ch0565-24" group-title="Региональные",ТНР 24 (Нижневартовск)
+#EXTINF:-1 tvg-id="567622" group-title="Региональные",ТНР 24 (Нижневартовск)
 http://176.118.197.101/THT/index.m3u8
-#EXTINF:-1 tvg-id="ch0566-dorcelhd" group-title="Для взрослых",dorcel_hd
+#EXTINF:-1 tvg-id="7461" group-title="Для взрослых",dorcel_hd
 http://31.148.5.241:80/Dorcel_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0567-babestvporn" group-title="Для взрослых",babes tvporn
+#EXTINF:-1 tvg-id="ch0572-babestvporn" group-title="Для взрослых",babes tvporn
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0568-barelylegal" group-title="Для взрослых",barely legal
+#EXTINF:-1 tvg-id="576908" group-title="Для взрослых",barely legal
 http://185.23.80.23:8080/BarelyLegal/index.m3u8
-#EXTINF:-1 tvg-id="ch0569-bluehustler" group-title="Для взрослых",blue hustler
+#EXTINF:-1 tvg-id="6814" group-title="Для взрослых",blue hustler
 http://185.23.80.23:8080/BlueHustler/index.m3u8
-#EXTINF:-1 tvg-id="ch0570-brazzers" group-title="Для взрослых",brazzers
+#EXTINF:-1 tvg-id="6926" group-title="Для взрослых",brazzers
 http://193.239.187.102/BRAZZERS/index.m3u8
-#EXTINF:-1 tvg-id="ch0571-brazzerstv" group-title="Для взрослых",brazzers tv
+#EXTINF:-1 tvg-id="6926" group-title="Для взрослых",brazzers tv
 http://185.23.80.23:8080/BrazzersTV/index.m3u8
-#EXTINF:-1 tvg-id="ch0572-desire" group-title="Для взрослых",desire
+#EXTINF:-1 tvg-id="ch0577-desire" group-title="Для взрослых",desire
 http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0573-dorceltv" group-title="Для взрослых",dorcel tv
+#EXTINF:-1 tvg-id="7461" group-title="Для взрослых",dorcel tv
 http://142.132.200.37:9000/DORCELTVHD
-#EXTINF:-1 tvg-id="ch0574-erox" group-title="Для взрослых",erox
+#EXTINF:-1 tvg-id="582917" group-title="Для взрослых",erox
 http://91.205.196.7:8000/play/a032
-#EXTINF:-1 tvg-id="ch0575-eroxxx" group-title="Для взрослых",eroxxx
+#EXTINF:-1 tvg-id="7767" group-title="Для взрослых",eroxxx
 http://142.132.200.37:9000/EROXXXHD
-#EXTINF:-1 tvg-id="ch0576-europarktv" group-title="Для взрослых",europa rk tv
+#EXTINF:-1 tvg-id="ch0581-europarktv" group-title="Для взрослых",europa rk tv
 http://193.239.186.231/BRAZZERS/index.m3u8
-#EXTINF:-1 tvg-id="ch0577-extasy4k" group-title="Для взрослых",extasy 4k
+#EXTINF:-1 tvg-id="6007" group-title="Для взрослых",extasy 4k
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0578-exxxotika" group-title="Для взрослых",exxxotika
+#EXTINF:-1 tvg-id="ch0583-exxxotika" group-title="Для взрослых",exxxotika
 http://91.205.196.7:8000/play/a03m
-#EXTINF:-1 tvg-id="ch0579-hustler" group-title="Для взрослых",hustler
+#EXTINF:-1 tvg-id="577113" group-title="Для взрослых",hustler
 http://193.33.39.108:9009/play/a02a
-#EXTINF:-1 tvg-id="ch0580-passionxxx" group-title="Для взрослых",passionxxx
+#EXTINF:-1 tvg-id="542995" group-title="Для взрослых",passionxxx
 http://151.237.83.99:5500/PassionXXX
-#EXTINF:-1 tvg-id="ch0581-playboy" group-title="Для взрослых",playboy
+#EXTINF:-1 tvg-id="576860" group-title="Для взрослых",playboy
 http://91.205.196.7:8000/play/a031
-#EXTINF:-1 tvg-id="ch0582-privatetv" group-title="Для взрослых",private tv
+#EXTINF:-1 tvg-id="41290" group-title="Для взрослых",private tv
 http://193.33.39.108:9009/play/a020
-#EXTINF:-1 tvg-id="ch0583-redlight" group-title="Для взрослых",redlight
+#EXTINF:-1 tvg-id="571492" group-title="Для взрослых",redlight
 http://92.114.85.87:8012/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="ch0584-rktv" group-title="Для взрослых",rk tv
+#EXTINF:-1 tvg-id="ch0589-rktv" group-title="Для взрослых",rk tv
 http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0585-russkayanoch" group-title="Для взрослых",russkaya noch
+#EXTINF:-1 tvg-id="ch0590-russkayanoch" group-title="Для взрослых",russkaya noch
 http://185.23.80.23:8080/RusskayaNoch/index.m3u8
-#EXTINF:-1 tvg-id="ch0586-ch" group-title="Для взрослых",рночь
+#EXTINF:-1 tvg-id="ch0591-ch" group-title="Для взрослых",рночь
 http://91.205.196.7:8000/play/a033
-#EXTINF:-1 tvg-id="ch0587-classic" group-title="Для взрослых",classic
+#EXTINF:-1 tvg-id="ch0592-classic" group-title="Для взрослых",classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0588-sextavision18" group-title="Для взрослых",Sextavision (18+)
+#EXTINF:-1 tvg-id="ch0593-sextavision18" group-title="Для взрослых",Sextavision (18+)
 https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0589-18" group-title="Для взрослых",Русская ночь (18+)
+#EXTINF:-1 tvg-id="ch0594-18" group-title="Для взрослых",Русская ночь (18+)
 http://185.23.80.23:8080/RusskayaNoch/index.m3u8
-#EXTINF:-1 tvg-id="ch0590-barelylegal18" group-title="Для взрослых",Barely Legal (18+)
+#EXTINF:-1 tvg-id="ch0595-barelylegal18" group-title="Для взрослых",Barely Legal (18+)
 http://185.23.80.23:8080/BarelyLegal/index.m3u8
-#EXTINF:-1 tvg-id="ch0591-bluehustler18" group-title="Для взрослых",Blue Hustler (18+)
+#EXTINF:-1 tvg-id="ch0596-bluehustler18" group-title="Для взрослых",Blue Hustler (18+)
 http://185.23.80.23:8080/BlueHustler/index.m3u8
-#EXTINF:-1 tvg-id="ch0592-brazzers18" group-title="Для взрослых",Brazzers (18+)
+#EXTINF:-1 tvg-id="ch0597-brazzers18" group-title="Для взрослых",Brazzers (18+)
 http://193.239.187.102/BRAZZERS/index.m3u8
-#EXTINF:-1 tvg-id="ch0593-brazzerstv18" group-title="Для взрослых",Brazzers TV (18+)
+#EXTINF:-1 tvg-id="ch0598-brazzerstv18" group-title="Для взрослых",Brazzers TV (18+)
 http://185.23.80.23:8080/BrazzersTV/index.m3u8
-#EXTINF:-1 tvg-id="ch0594-brazzerstveuropa18" group-title="Для взрослых",Brazzers TV Europa (18+)
+#EXTINF:-1 tvg-id="ch0599-brazzerstveuropa18" group-title="Для взрослых",Brazzers TV Europa (18+)
 http://193.239.186.231/BRAZZERS/index.m3u8
-#EXTINF:-1 tvg-id="ch0595-dorcelhd18" group-title="Для взрослых",Dorcel HD (18+)
+#EXTINF:-1 tvg-id="ch0600-dorcelhd18" group-title="Для взрослых",Dorcel HD (18+)
 http://31.148.5.241:80/Dorcel_HD/index.m3u8
-#EXTINF:-1 tvg-id="ch0596-musicboxsexy18" group-title="Для взрослых",Music Box Sexy (18+)
+#EXTINF:-1 tvg-id="ch0601-musicboxsexy18" group-title="Для взрослых",Music Box Sexy (18+)
 http://88.212.15.50/live/mb_sexy/index.m3u8
-#EXTINF:-1 tvg-id="ch0597-pornclassic18" group-title="Для взрослых",Porn Classic (18+)
+#EXTINF:-1 tvg-id="ch0602-pornclassic18" group-title="Для взрослых",Porn Classic (18+)
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0598-rutubetv" group-title="Прочее",RUTUBE TV
+#EXTINF:-1 tvg-id="ch0603-rutubetv" group-title="Прочее",RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
-#EXTINF:-1 tvg-id="ch0599-yourplay" group-title="Прочее",Your Play!
+#EXTINF:-1 tvg-id="396667" group-title="Прочее",Your Play!
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0600-3hd" group-title="Прочее",Бел 3 HD
+#EXTINF:-1 tvg-id="ch0605-3hd" group-title="Прочее",Бел 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0601-1" group-title="Прочее",Беларусь 1
+#EXTINF:-1 tvg-id="7837" group-title="Прочее",Беларусь 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0602-1hd" group-title="Прочее",Беларусь 1 HD
+#EXTINF:-1 tvg-id="7837" group-title="Прочее",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0603-2hd" group-title="Прочее",Беларусь 2 HD
+#EXTINF:-1 tvg-id="7838" group-title="Прочее",Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0604-3hd" group-title="Прочее",Беларусь 3 HD
+#EXTINF:-1 tvg-id="7839" group-title="Прочее",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0605-5" group-title="Прочее",Беларусь 5
+#EXTINF:-1 tvg-id="7836" group-title="Прочее",Беларусь 5
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-#EXTINF:-1 tvg-id="ch0606-hd" group-title="Прочее",Большая Азия HD
+#EXTINF:-1 tvg-id="7087" group-title="Прочее",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0607-1hd" group-title="Прочее",Волгоград 1 HD
+#EXTINF:-1 tvg-id="7149" group-title="Прочее",Волгоград 1 HD
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 tvg-id="ch0608-24" group-title="Прочее",Дон 24
+#EXTINF:-1 tvg-id="5948" group-title="Прочее",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0609-ch" group-title="Прочее",Евразия
+#EXTINF:-1 tvg-id="6292" group-title="Прочее",Евразия
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ch0610-ch" group-title="Прочее",Евразия (Орск)
+#EXTINF:-1 tvg-id="ch0615-ch" group-title="Прочее",Евразия (Орск)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF:-1 tvg-id="ch0611-ch" group-title="Прочее",Конгресс ТВ
+#EXTINF:-1 tvg-id="491213" group-title="Прочее",Конгресс ТВ
 https://live-4.otcnet.ru/504/135/480p/index.m3u8
-#EXTINF:-1 tvg-id="ch0612-hd" group-title="Прочее",Конгресс ТВ HD
+#EXTINF:-1 tvg-id="491213" group-title="Прочее",Конгресс ТВ HD
 https://live-4.otcnet.ru/504/135/1080p/index.m3u8
-#EXTINF:-1 tvg-id="ch0613-ch" group-title="Прочее",Красная линия
+#EXTINF:-1 tvg-id="6228" group-title="Прочее",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0614-hd" group-title="Прочее",Краснодар HD
+#EXTINF:-1 tvg-id="6321" group-title="Прочее",Краснодар HD
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0615-ch" group-title="Прочее",Надежда
+#EXTINF:-1 tvg-id="412065" group-title="Прочее",Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0616-ch" group-title="Прочее",Новый век (Тамбов)
+#EXTINF:-1 tvg-id="571665" group-title="Прочее",Новый век (Тамбов)
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_NOVIY_VEK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0617-ch" group-title="Прочее",ОТР
+#EXTINF:-1 tvg-id="7667" group-title="Прочее",ОТР
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
-#EXTINF:-1 tvg-id="ch0618-hd" group-title="Прочее",ПРНК HD
+#EXTINF:-1 tvg-id="567641" group-title="Прочее",ПРНК HD
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:-1 tvg-id="ch0619-ch" group-title="Прочее",Прима
+#EXTINF:-1 tvg-id="6414" group-title="Прочее",Прима
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 tvg-id="ch0620-hd" group-title="Прочее",Своё ТВ Ставрополь HD
+#EXTINF:-1 tvg-id="5911" group-title="Прочее",Своё ТВ Ставрополь HD
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
-#EXTINF:-1 tvg-id="ch0621-ch" group-title="Прочее",ТВ-ИН (Магнитогорск)
+#EXTINF:-1 tvg-id="ch0626-ch" group-title="Прочее",ТВ-ИН (Магнитогорск)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 tvg-id="ch0622-ch" group-title="Прочее",ТСТ (Черемхово)
+#EXTINF:-1 tvg-id="571649" group-title="Прочее",ТСТ (Черемхово)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TST/variant.m3u8
-#EXTINF:-1 tvg-id="ch0623-ch" group-title="Прочее",Тайна
+#EXTINF:-1 tvg-id="7688" group-title="Прочее",Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
-#EXTINF:-1 tvg-id="ch0624-ch" group-title="Прочее",Тюменское время
+#EXTINF:-1 tvg-id="5824" group-title="Прочее",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0625-maxsport4" group-title="Прочее",MAX Sport 4
+#EXTINF:-1 tvg-id="535763" group-title="Прочее",MAX Sport 4
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
-#EXTINF:-1 tvg-id="ch0626-nexttv" group-title="Прочее",NEXT-TV
+#EXTINF:-1 tvg-id="7137" group-title="Прочее",NEXT-TV
 http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
-#EXTINF:-1 tvg-id="ch0627-shoppinglive" group-title="Прочее",Shopping Live
+#EXTINF:-1 tvg-id="5859" group-title="Прочее",Shopping Live
 http://origin5.mediacdn.ru/live/shoppinglivedist/index.m3u8
-#EXTINF:-1 tvg-id="ch0628-sochilive" group-title="Прочее",Sochi Live
+#EXTINF:-1 tvg-id="ch0633-sochilive" group-title="Прочее",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0629-tvbrics" group-title="Прочее",TV BRICS
+#EXTINF:-1 tvg-id="574987" group-title="Прочее",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0630-ch" group-title="Прочее",Аква ТВ
+#EXTINF:-1 tvg-id="412228" group-title="Прочее",Аква ТВ
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
-#EXTINF:-1 tvg-id="ch0631-ch" group-title="Прочее",Большая Азия
+#EXTINF:-1 tvg-id="7087" group-title="Прочее",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0632-1" group-title="Прочее",Волгоград 1
+#EXTINF:-1 tvg-id="7149" group-title="Прочее",Волгоград 1
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 tvg-id="ch0633-ch" group-title="Прочее",Время Арктики
+#EXTINF:-1 tvg-id="6863" group-title="Прочее",Время Арктики
 http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0634-ch" group-title="Прочее",Ивановское общественное телевидение (Иваново)
+#EXTINF:-1 tvg-id="ch0639-ch" group-title="Прочее",Ивановское общественное телевидение (Иваново)
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
-#EXTINF:-1 tvg-id="ch0635-ch" group-title="Прочее",Калейдоскоп ТВ
+#EXTINF:-1 tvg-id="6271" group-title="Прочее",Калейдоскоп ТВ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0636-ch" group-title="Прочее",Краснодар
+#EXTINF:-1 tvg-id="6321" group-title="Прочее",Краснодар
 http://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0637-ch" group-title="Прочее",Краснодар ТВ
+#EXTINF:-1 tvg-id="ch0642-ch" group-title="Прочее",Краснодар ТВ
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0638-ch" group-title="Прочее",Крик ТВ
+#EXTINF:-1 tvg-id="6518" group-title="Прочее",Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0639-ch" group-title="Прочее",Курай
+#EXTINF:-1 tvg-id="7433" group-title="Прочее",Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0640-hd" group-title="Прочее",МузСоюз HD
+#EXTINF:-1 tvg-id="7313" group-title="Прочее",МузСоюз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0641-ch" group-title="Прочее",МузСоюзᴴᴰ
+#EXTINF:-1 tvg-id="ch0646-ch" group-title="Прочее",МузСоюзᴴᴰ
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ch0642-hd" group-title="Прочее",Надежда HD
+#EXTINF:-1 tvg-id="412065" group-title="Прочее",Надежда HD
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
-#EXTINF:-1 tvg-id="ch0643-ch" group-title="Прочее",Наша Тема
+#EXTINF:-1 tvg-id="7118" group-title="Прочее",Наша Тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1 tvg-id="ch0644-ch" group-title="Прочее",Ника ТВ
+#EXTINF:-1 tvg-id="7220" group-title="Прочее",Ника ТВ
 http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
-#EXTINF:-1 tvg-id="ch0645-hd" group-title="Прочее",ОТВ Екатеринбург HD
+#EXTINF:-1 tvg-id="7539" group-title="Прочее",ОТВ Екатеринбург HD
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ch0646-fd" group-title="Прочее",ПРОДВИЖЕНИЕ FD
+#EXTINF:-1 tvg-id="ch0651-fd" group-title="Прочее",ПРОДВИЖЕНИЕ FD
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
-#EXTINF:-1 tvg-id="ch0647-hd" group-title="Прочее",Первый Ярославский HD
+#EXTINF:-1 tvg-id="7210" group-title="Прочее",Первый Ярославский HD
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1 tvg-id="ch0648-ch" group-title="Прочее",Продвижение
+#EXTINF:-1 tvg-id="6370" group-title="Прочее",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 tvg-id="ch0649-ch" group-title="Прочее",Салям
+#EXTINF:-1 tvg-id="409378" group-title="Прочее",Салям
 http://bsttv.bonus-tv.ru/cdn/salyam/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0650-hd" group-title="Прочее",Союз HD
+#EXTINF:-1 tvg-id="7355" group-title="Прочее",Союз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0651-ch" group-title="Прочее",Спас
+#EXTINF:-1 tvg-id="6479" group-title="Прочее",Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0652-ch" group-title="Прочее",ТКР Рязань
+#EXTINF:-1 tvg-id="6244" group-title="Прочее",ТКР Рязань
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
-#EXTINF:-1 tvg-id="ch0653-ch" group-title="Прочее",Тамыр
+#EXTINF:-1 tvg-id="5966" group-title="Прочее",Тамыр
 http://bsttv.bonus-tv.ru/cdn/tamyr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0654-hd" group-title="Прочее",Танцуй! HD
+#EXTINF:-1 tvg-id="ch0659-hd" group-title="Прочее",Танцуй! HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_tat24_bf1f738079c0cf5c4a67893c16bceda9/hls/1024x576@1272/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0655-24hd" group-title="Прочее",Татарстан 24 HD
+#EXTINF:-1 tvg-id="7398" group-title="Прочее",Татарстан 24 HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_tat24_bf1f738079c0cf5c4a67893c16bceda9/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0656-ch" group-title="Прочее",Тооку
+#EXTINF:-1 tvg-id="401431" group-title="Прочее",Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0657-ch" group-title="Прочее",Точка
+#EXTINF:-1 tvg-id="7388" group-title="Прочее",Точка
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
-#EXTINF:-1 tvg-id="ch0658-ch" group-title="Прочее",Шаян ТВ
+#EXTINF:-1 tvg-id="538742" group-title="Прочее",Шаян ТВ
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0659-ch" group-title="Прочее",Ювелирочка
+#EXTINF:-1 tvg-id="6025" group-title="Прочее",Ювелирочка
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0660-24hd" group-title="Прочее",Якутия 24 HD
+#EXTINF:-1 tvg-id="6247" group-title="Прочее",Якутия 24 HD
 http://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0661-2" group-title="Прочее",Спас (+2)
+#EXTINF:-1 tvg-id="7229" group-title="Прочее",Спас (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
-#EXTINF:-1 tvg-id="ch0662-7" group-title="Прочее",Спас (+7)
+#EXTINF:-1 tvg-id="191585" group-title="Прочее",Спас (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
-#EXTINF:-1 tvg-id="ch0663-24" group-title="Прочее",Симферополь 24
+#EXTINF:-1 tvg-id="412226" group-title="Прочее",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
-#EXTINF:-1 tvg-id="ch0664-bollywood4u" group-title="Прочее",Bollywood 4U
+#EXTINF:-1 tvg-id="ch0669-bollywood4u" group-title="Прочее",Bollywood 4U
 https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0665-ch" group-title="Прочее",Раменское ТВ
+#EXTINF:-1 tvg-id="564631" group-title="Прочее",Раменское ТВ
 https://e10-ll.facecast.net/rtv/1.m3u8
-#EXTINF:-1 tvg-id="ch0666-hd" group-title="Прочее",Ю HD
+#EXTINF:-1 tvg-id="6947" group-title="Прочее",Ю HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0667-abaitv" group-title="Прочее",Abai TV
+#EXTINF:-1 tvg-id="6488" group-title="Прочее",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0668-almatytv" group-title="Прочее",Almaty TV
+#EXTINF:-1 tvg-id="ch0673-almatytv" group-title="Прочее",Almaty TV
 https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0669-armenia1" group-title="Прочее",Armenia 1
+#EXTINF:-1 tvg-id="549362" group-title="Прочее",Armenia 1
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="ch0670-armenia2" group-title="Прочее",Armenia 2
+#EXTINF:-1 tvg-id="409525" group-title="Прочее",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="ch0671-astanatv" group-title="Прочее",Astana TV
+#EXTINF:-1 tvg-id="ch0676-astanatv" group-title="Прочее",Astana TV
 https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0672-atamekenbusiness" group-title="Прочее",Atameken Business
+#EXTINF:-1 tvg-id="536917" group-title="Прочее",Atameken Business
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0673-balapan" group-title="Прочее",Balapan
+#EXTINF:-1 tvg-id="411209" group-title="Прочее",Balapan
 https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0674-bigplanet" group-title="Прочее",Big planet
+#EXTINF:-1 tvg-id="6148" group-title="Прочее",Big planet
 https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0675-channel11il" group-title="Прочее",Channel 11 [IL]
+#EXTINF:-1 tvg-id="580961" group-title="Прочее",Channel 11 [IL]
 https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0676-duo7lv" group-title="Прочее",Duo 7 [LV]
+#EXTINF:-1 tvg-id="5869" group-title="Прочее",Duo 7 [LV]
 https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0677-englishclubtv" group-title="Прочее",English Club TV
+#EXTINF:-1 tvg-id="7363" group-title="Прочее",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0678-extremesports" group-title="Прочее",Extreme Sports
+#EXTINF:-1 tvg-id="7263" group-title="Прочее",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-#EXTINF:-1 tvg-id="ch0679-fridayinternational" group-title="Прочее",Friday! International
+#EXTINF:-1 tvg-id="ch0684-fridayinternational" group-title="Прочее",Friday! International
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0680-gulligirl" group-title="Прочее",Gulli Girl
+#EXTINF:-1 tvg-id="ch0685-gulligirl" group-title="Прочее",Gulli Girl
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
-#EXTINF:-1 tvg-id="ch0681-habar" group-title="Прочее",Habar
+#EXTINF:-1 tvg-id="ch0686-habar" group-title="Прочее",Habar
 https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0682-morethansportstv" group-title="Прочее",More Than Sports TV
+#EXTINF:-1 tvg-id="ch0687-morethansportstv" group-title="Прочее",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0683-ntvhdtr" group-title="Прочее",NTV HD TR
+#EXTINF:-1 tvg-id="387753" group-title="Прочее",NTV HD TR
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="ch0684-nauticalchannel" group-title="Прочее",Nautical Channel
+#EXTINF:-1 tvg-id="544796" group-title="Прочее",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0685-one" group-title="Прочее",One
+#EXTINF:-1 tvg-id="547533" group-title="Прочее",One
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0686-russischerjahrmarkt" group-title="Прочее",Russischer Jahrmarkt
+#EXTINF:-1 tvg-id="ch0691-russischerjahrmarkt" group-title="Прочее",Russischer Jahrmarkt
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 tvg-id="ch0687-startworld" group-title="Прочее",START World
+#EXTINF:-1 tvg-id="6446" group-title="Прочее",START World
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0688-silkway" group-title="Прочее",Silk Way
+#EXTINF:-1 tvg-id="128536" group-title="Прочее",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0689-tbnarmenia" group-title="Прочее",TBN Armenia
+#EXTINF:-1 tvg-id="535308" group-title="Прочее",TBN Armenia
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ch0690-tv1kghdkg" group-title="Прочее",TV1 KG HD [KG]
+#EXTINF:-1 tvg-id="573297" group-title="Прочее",TV1 KG HD [KG]
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
-#EXTINF:-1 tvg-id="ch0691-tamilantv" group-title="Прочее",Tamilan TV
+#EXTINF:-1 tvg-id="ch0696-tamilantv" group-title="Прочее",Tamilan TV
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0692-turantv" group-title="Прочее",Turan TV
+#EXTINF:-1 tvg-id="ch0697-turantv" group-title="Прочее",Turan TV
 https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0693-univertv" group-title="Прочее",Univer TV
+#EXTINF:-1 tvg-id="5873" group-title="Прочее",Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0694-24" group-title="Прочее",Башкортостан 24
+#EXTINF:-1 tvg-id="6939" group-title="Прочее",Башкортостан 24
 https://s1.gtrkrb.ru/540/b24-540.m3u8
-#EXTINF:-1 tvg-id="ch0695-ch" group-title="Прочее",Бобёр
+#EXTINF:-1 tvg-id="7397" group-title="Прочее",Бобёр
 https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0696-ch" group-title="Прочее",Дорама
+#EXTINF:-1 tvg-id="5995" group-title="Прочее",Дорама
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0697-ch" group-title="Прочее",Иллюзион
+#EXTINF:-1 tvg-id="5802" group-title="Прочее",Иллюзион
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0698-ch" group-title="Прочее",КТК
+#EXTINF:-1 tvg-id="7106" group-title="Прочее",КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0699-ch" group-title="Прочее",Малыш
+#EXTINF:-1 tvg-id="308311" group-title="Прочее",Малыш
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
-#EXTINF:-1 tvg-id="ch0700-ch" group-title="Прочее",Матур ТВ
+#EXTINF:-1 tvg-id="7520" group-title="Прочее",Матур ТВ
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-id="ch0701-ch" group-title="Прочее",НТК
+#EXTINF:-1 tvg-id="6504" group-title="Прочее",НТК
 https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0702-ch" group-title="Прочее",Ностальгия
+#EXTINF:-1 tvg-id="7464" group-title="Прочее",Ностальгия
 https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0703-ch" group-title="Прочее",ОТВ Челябинск
+#EXTINF:-1 tvg-id="7078" group-title="Прочее",ОТВ Челябинск
 https://vd.obltv.ru/watch/air_sd.m3u8
-#EXTINF:-1 tvg-id="ch0704-ch" group-title="Прочее",Поехали!
+#EXTINF:-1 tvg-id="7666" group-title="Прочее",Поехали!
 https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="ch0705-1" group-title="Прочее",С1 Сургут
+#EXTINF:-1 tvg-id="575016" group-title="Прочее",С1 Сургут
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 tvg-id="ch0706-100" group-title="Прочее",Смотрим 100% Любовь
+#EXTINF:-1 tvg-id="537952" group-title="Прочее",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
-#EXTINF:-1 tvg-id="ch0707-hdv5" group-title="Прочее",Твоё ТВ HD v5
+#EXTINF:-1 tvg-id="ch0712-hdv5" group-title="Прочее",Твоё ТВ HD v5
 https://tvoetv.space/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="ch0708-hdv6" group-title="Прочее",Твоё ТВ HD v6
+#EXTINF:-1 tvg-id="ch0713-hdv6" group-title="Прочее",Твоё ТВ HD v6
 https://tvoetv.space/tvoetv/video.m3u8
-#EXTINF:-1 tvg-id="ch0709-hdv7" group-title="Прочее",Твоё ТВ HD v7
+#EXTINF:-1 tvg-id="ch0714-hdv7" group-title="Прочее",Твоё ТВ HD v7
 https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ch0710-ch" group-title="Прочее",Телекафе
+#EXTINF:-1 tvg-id="6648" group-title="Прочее",Телекафе
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ch0711-ch" group-title="Прочее",Три Ангела
+#EXTINF:-1 tvg-id="7630" group-title="Прочее",Три Ангела
 https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 tvg-id="ch0712-ch" group-title="Прочее",Иллюзион+ (доп. источник)
+#EXTINF:-1 tvg-id="ch0717-ch" group-title="Прочее",Иллюзион+ (доп. источник)
 https://live.uspeh.my/8134/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ch0713-8" group-title="Прочее",8 канал
+#EXTINF:-1 tvg-id="7205" group-title="Прочее",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-id="ch0714-astrakhanrusporthd" group-title="Прочее",Astrakhan.RU Sport HD
+#EXTINF:-1 tvg-id="ch0719-astrakhanrusporthd" group-title="Прочее",Astrakhan.RU Sport HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0715-eurochannel" group-title="Прочее",Eurochannel
+#EXTINF:-1 tvg-id="ch0720-eurochannel" group-title="Прочее",Eurochannel
 http://cdntv.online/high/47eurvkpm6/37.m3u8
-#EXTINF:-1 tvg-id="ch0716-univertvhd" group-title="Прочее",Univer TV HD
+#EXTINF:-1 tvg-id="5873" group-title="Прочее",Univer TV HD
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="ch0717-24hd" group-title="Прочее",Астрахань 24 HD
+#EXTINF:-1 tvg-id="6714" group-title="Прочее",Астрахань 24 HD
 http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ch0718-international" group-title="Прочее",Канал International
+#EXTINF:-1 tvg-id="ch0723-international" group-title="Прочее",Канал International
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 tvg-id="ch0719-ch" group-title="Прочее",Кулинар ТВ
+#EXTINF:-1 tvg-id="ch0724-ch" group-title="Прочее",Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-id="ch0720-hd" group-title="Прочее",Первый Тульский HD
+#EXTINF:-1 tvg-id="7382" group-title="Прочее",Первый Тульский HD
 http://1tvtula.ru/tula/1tv_hi/index.m3u8
-#EXTINF:-1 tvg-id="ch0721-ch" group-title="Прочее",Русский роман
+#EXTINF:-1 tvg-id="5780" group-title="Прочее",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 tvg-id="ch0722-hd" group-title="Прочее",Тверской Проспект HD
+#EXTINF:-1 tvg-id="7773" group-title="Прочее",Тверской Проспект HD
 http://stream.fastlnk.ru:88/Tverskojj_prospekt_hd/index.m3u8
-#EXTINF:-1 tvg-id="ch0723-hd" group-title="Прочее",Твоё ТВ HD
+#EXTINF:-1 tvg-id="7400" group-title="Прочее",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="ch0724-hdv3" group-title="Прочее",Твоё ТВ HD v3
+#EXTINF:-1 tvg-id="ch0729-hdv3" group-title="Прочее",Твоё ТВ HD v3
 http://tvoetv.space:8080/tvoetv/video.m3u8
-#EXTINF:-1 tvg-id="ch0725-24" group-title="Прочее",Тува 24
+#EXTINF:-1 tvg-id="5909" group-title="Прочее",Тува 24
 http://tv.tuva.ru/tuva24/index.m3u8
-#EXTINF:-1 tvg-id="ch0726-khl" group-title="Прочее",KHL
+#EXTINF:-1 tvg-id="ch0731-khl" group-title="Прочее",KHL
 http://176.118.197.101/KHL/index.m3u8
-#EXTINF:-1 tvg-id="ch0727-morethansportstvde" group-title="Прочее",More Than Sports TV [DE]
+#EXTINF:-1 tvg-id="540056" group-title="Прочее",More Than Sports TV [DE]
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="ch0728-viasathistory" group-title="Прочее",Viasat History
+#EXTINF:-1 tvg-id="ch0733-viasathistory" group-title="Прочее",Viasat History
 http://31.210.208.171:8080/viju_history/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0729-ch" group-title="Прочее",БОКС ТВ
+#EXTINF:-1 tvg-id="7749" group-title="Прочее",БОКС ТВ
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0730-ch" group-title="Прочее",В гостях у сказки
+#EXTINF:-1 tvg-id="6757" group-title="Прочее",В гостях у сказки
 http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ch0731-ch" group-title="Прочее",ЕГЭ
+#EXTINF:-1 tvg-id="7452" group-title="Прочее",ЕГЭ
 http://194.143.148.28:8080/RT_DOC/index.m3u8
-#EXTINF:-1 tvg-id="ch0732-ch" group-title="Прочее",Закон ТВᴴᴰ
+#EXTINF:-1 tvg-id="ch0737-ch" group-title="Прочее",Закон ТВᴴᴰ
 http://195.189.60.253/zakon_tv_hd/video.m3u8
-#EXTINF:-1 tvg-id="ch0733-hd" group-title="Прочее",Иллюзион+ HD
+#EXTINF:-1 tvg-id="5802" group-title="Прочее",Иллюзион+ HD
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-id="ch0734-ch" group-title="Прочее",Масон ТВᴴᴰ
+#EXTINF:-1 tvg-id="ch0739-ch" group-title="Прочее",Масон ТВᴴᴰ
 http://195.189.60.253/mason_tv_hd/video.m3u8
-#EXTINF:-1 tvg-id="ch0735-ch" group-title="Прочее",НСТ
+#EXTINF:-1 tvg-id="7274" group-title="Прочее",НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 tvg-id="ch0736-hd" group-title="Прочее",Страшное HD
+#EXTINF:-1 tvg-id="6664" group-title="Прочее",Страшное HD
 http://176.118.197.101/CTC/index.m3u8
-#EXTINF:-1 tvg-id="ch0737-ch" group-title="Прочее",Тонус ТВ
+#EXTINF:-1 tvg-id="7690" group-title="Прочее",Тонус ТВ
 http://194.143.148.28:8080/Mir24/index.m3u8
-#EXTINF:-1 tvg-id="ch0738-ch" group-title="Прочее",Уникум
+#EXTINF:-1 tvg-id="ch0743-ch" group-title="Прочее",Уникум
 http://217.114.191.150/Solnce/index.m3u8
-#EXTINF:-1 tvg-id="ch0739-ch" group-title="Прочее",Чип и Дейл
+#EXTINF:-1 tvg-id="ch0744-ch" group-title="Прочее",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
